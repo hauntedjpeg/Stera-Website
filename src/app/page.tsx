@@ -8,7 +8,7 @@ import SearchBar from '@/components/SearchBar';
 import IconStyleSelector from '@/components/IconStyleSelector';
 import IconGrid from '@/components/IconGrid';
 import IconDetailModal from '@/components/IconDetailModal';
-import { AstriskAlt, Figma, Github, Scribble, InfoCircle } from 'stera-icons';
+import { AsteriskAlt, Figma, Github, Scribble, InfoCircle } from 'stera-icons';
 import iconData from '@/data/icons.json';
 
 function HomeContent() {
@@ -123,7 +123,7 @@ function HomeContent() {
           href="/"
           className="inline-flex items-center p-4 gap-2 rounded-full backdrop-blur-sm dark:bg-white/4 bg-black/3 hover:bg-black/5 inset-shadow-stera-light dark:inset-shadow-stera-dark dark:hover:bg-white/8 cursor-default"
         >
-          <AstriskAlt className="w-4 h-4 text-zinc-900 dark:text-zinc-100" />
+          <AsteriskAlt className="w-4 h-4 text-zinc-900 dark:text-zinc-100" />
           <h1 className="text-sm/4 font-medium text-zinc-900 dark:text-zinc-100 hidden md:block">
             Stera
           </h1>

@@ -172,7 +172,7 @@
         "fileName": "AgentCursorFillDuotone"
       }
     },
-    "versionLastModified": "8.0.9"
+    "versionLastModified": "8.0.11"
   },
   {
     "name": "AgentWorkflow",
@@ -744,7 +744,7 @@
         "fileName": "AlertSquareFillDuotone"
       }
     },
-    "versionLastModified": "8.0.9"
+    "versionLastModified": "8.0.11"
   },
   {
     "name": "AlertTriangle",
@@ -1416,7 +1416,7 @@
         "fileName": "AnnotationFillDuotone"
       }
     },
-    "versionLastModified": "8.0.9"
+    "versionLastModified": "8.0.11"
   },
   {
     "name": "Aperture",
@@ -1529,7 +1529,7 @@
         "fileName": "ArchiveFillDuotone"
       }
     },
-    "versionLastModified": "8.0.9"
+    "versionLastModified": "8.0.11"
   },
   {
     "name": "Archway",
@@ -3116,7 +3116,7 @@
         "fileName": "ArrowSquareDownFillDuotone"
       }
     },
-    "versionLastModified": "8.0.9"
+    "versionLastModified": "8.0.11"
   },
   {
     "name": "ArrowSquareDownLeft",
@@ -3174,7 +3174,7 @@
         "fileName": "ArrowSquareDownLeftFillDuotone"
       }
     },
-    "versionLastModified": "8.0.9"
+    "versionLastModified": "8.0.11"
   },
   {
     "name": "ArrowSquareDownRight",
@@ -3232,7 +3232,7 @@
         "fileName": "ArrowSquareDownRightFillDuotone"
       }
     },
-    "versionLastModified": "8.0.9"
+    "versionLastModified": "8.0.11"
   },
   {
     "name": "ArrowSquareLeft",
@@ -3290,7 +3290,7 @@
         "fileName": "ArrowSquareLeftFillDuotone"
       }
     },
-    "versionLastModified": "8.0.9"
+    "versionLastModified": "8.0.11"
   },
   {
     "name": "ArrowSquareRight",
@@ -3348,7 +3348,7 @@
         "fileName": "ArrowSquareRightFillDuotone"
       }
     },
-    "versionLastModified": "8.0.9"
+    "versionLastModified": "8.0.11"
   },
   {
     "name": "ArrowSquareUp",
@@ -3406,7 +3406,7 @@
         "fileName": "ArrowSquareUpFillDuotone"
       }
     },
-    "versionLastModified": "8.0.9"
+    "versionLastModified": "8.0.11"
   },
   {
     "name": "ArrowSquareUpLeft",
@@ -3464,7 +3464,7 @@
         "fileName": "ArrowSquareUpLeftFillDuotone"
       }
     },
-    "versionLastModified": "8.0.9"
+    "versionLastModified": "8.0.11"
   },
   {
     "name": "ArrowSquareUpRight",
@@ -3522,7 +3522,7 @@
         "fileName": "ArrowSquareUpRightFillDuotone"
       }
     },
-    "versionLastModified": "8.0.9"
+    "versionLastModified": "8.0.11"
   },
   {
     "name": "ArrowULeft",
@@ -4212,9 +4212,9 @@
     "versionLastModified": "8.0.9"
   },
   {
-    "name": "Astrisk",
-    "kebabName": "astrisk",
-    "componentName": "Astrisk",
+    "name": "Asterisk",
+    "kebabName": "asterisk",
+    "componentName": "Asterisk",
     "tags": [
       "asterisk",
       "important",
@@ -4223,10 +4223,10 @@
       "required",
       "star",
       "symbol",
-      "Astrisk",
-      "*updated*"
+      "Asterisk",
+      "*new*"
     ],
-    "versionAdded": "6.2.1",
+    "versionAdded": "8.0.11",
     "weights": [
       "bold",
       "fill",
@@ -4235,42 +4235,42 @@
     "supportsDuotone": true,
     "variants": {
       "regular": {
-        "version": "6.2.1",
-        "componentName": "AstriskRegular",
-        "fileName": "AstriskRegular"
+        "version": "8.0.11",
+        "componentName": "AsteriskRegular",
+        "fileName": "AsteriskRegular"
       },
       "regular-duotone": {
-        "version": "6.2.1",
-        "componentName": "AstriskRegularDuotone",
-        "fileName": "AstriskRegularDuotone"
+        "version": "8.0.11",
+        "componentName": "AsteriskRegularDuotone",
+        "fileName": "AsteriskRegularDuotone"
       },
       "bold": {
-        "version": "6.2.1",
-        "componentName": "AstriskBold",
-        "fileName": "AstriskBold"
+        "version": "8.0.11",
+        "componentName": "AsteriskBold",
+        "fileName": "AsteriskBold"
       },
       "bold-duotone": {
-        "version": "6.2.1",
-        "componentName": "AstriskBoldDuotone",
-        "fileName": "AstriskBoldDuotone"
+        "version": "8.0.11",
+        "componentName": "AsteriskBoldDuotone",
+        "fileName": "AsteriskBoldDuotone"
       },
       "fill": {
-        "version": "6.2.1",
-        "componentName": "AstriskFill",
-        "fileName": "AstriskFill"
+        "version": "8.0.11",
+        "componentName": "AsteriskFill",
+        "fileName": "AsteriskFill"
       },
       "fill-duotone": {
-        "version": "6.2.1",
-        "componentName": "AstriskFillDuotone",
-        "fileName": "AstriskFillDuotone"
+        "version": "8.0.11",
+        "componentName": "AsteriskFillDuotone",
+        "fileName": "AsteriskFillDuotone"
       }
     },
-    "versionLastModified": "8.0.9"
+    "versionLastModified": "8.0.11"
   },
   {
-    "name": "AstriskAlt",
-    "kebabName": "astrisk-alt",
-    "componentName": "AstriskAlt",
+    "name": "AsteriskAlt",
+    "kebabName": "asterisk-alt",
+    "componentName": "AsteriskAlt",
     "tags": [
       "asterisk",
       "important",
@@ -4279,10 +4279,10 @@
       "required",
       "star",
       "symbol",
-      "AstriskAlt",
-      "*updated*"
+      "AsteriskAlt",
+      "*new*"
     ],
-    "versionAdded": "6.2.1",
+    "versionAdded": "8.0.11",
     "weights": [
       "bold",
       "fill",
@@ -4291,37 +4291,37 @@
     "supportsDuotone": true,
     "variants": {
       "regular": {
-        "version": "6.2.1",
-        "componentName": "AstriskAltRegular",
-        "fileName": "AstriskAltRegular"
+        "version": "8.0.11",
+        "componentName": "AsteriskAltRegular",
+        "fileName": "AsteriskAltRegular"
       },
       "regular-duotone": {
-        "version": "6.2.1",
-        "componentName": "AstriskAltRegularDuotone",
-        "fileName": "AstriskAltRegularDuotone"
+        "version": "8.0.11",
+        "componentName": "AsteriskAltRegularDuotone",
+        "fileName": "AsteriskAltRegularDuotone"
       },
       "bold": {
-        "version": "6.2.1",
-        "componentName": "AstriskAltBold",
-        "fileName": "AstriskAltBold"
+        "version": "8.0.11",
+        "componentName": "AsteriskAltBold",
+        "fileName": "AsteriskAltBold"
       },
       "bold-duotone": {
-        "version": "6.2.1",
-        "componentName": "AstriskAltBoldDuotone",
-        "fileName": "AstriskAltBoldDuotone"
+        "version": "8.0.11",
+        "componentName": "AsteriskAltBoldDuotone",
+        "fileName": "AsteriskAltBoldDuotone"
       },
       "fill": {
-        "version": "6.2.1",
-        "componentName": "AstriskAltFill",
-        "fileName": "AstriskAltFill"
+        "version": "8.0.11",
+        "componentName": "AsteriskAltFill",
+        "fileName": "AsteriskAltFill"
       },
       "fill-duotone": {
-        "version": "6.2.1",
-        "componentName": "AstriskAltFillDuotone",
-        "fileName": "AstriskAltFillDuotone"
+        "version": "8.0.11",
+        "componentName": "AsteriskAltFillDuotone",
+        "fileName": "AsteriskAltFillDuotone"
       }
     },
-    "versionLastModified": "8.0.9"
+    "versionLastModified": "8.0.11"
   },
   {
     "name": "AtSign",
@@ -4729,7 +4729,7 @@
         "fileName": "AudioBarsSquareFillDuotone"
       }
     },
-    "versionLastModified": "8.0.9"
+    "versionLastModified": "8.0.11"
   },
   {
     "name": "AwardStar",
@@ -6721,7 +6721,7 @@
         "fileName": "BracketsCurlySquareFillDuotone"
       }
     },
-    "versionLastModified": "8.0.9"
+    "versionLastModified": "8.0.11"
   },
   {
     "name": "BracketsSquare",
@@ -6892,7 +6892,7 @@
         "fileName": "BracketsSquareSquareFillDuotone"
       }
     },
-    "versionLastModified": "8.0.9"
+    "versionLastModified": "8.0.11"
   },
   {
     "name": "Brain",
@@ -9011,7 +9011,7 @@
         "fileName": "ChartBarSquareFillDuotone"
       }
     },
-    "versionLastModified": "8.0.9"
+    "versionLastModified": "8.0.11"
   },
   {
     "name": "ChartBarXY",
@@ -11320,7 +11320,7 @@
         "fileName": "CheckSquareFillDuotone"
       }
     },
-    "versionLastModified": "8.0.9"
+    "versionLastModified": "8.0.11"
   },
   {
     "name": "Checklist",
@@ -12342,7 +12342,7 @@
         "fileName": "ChevronFullSquareDownFillDuotone"
       }
     },
-    "versionLastModified": "8.0.9"
+    "versionLastModified": "8.0.11"
   },
   {
     "name": "ChevronFullSquareLeft",
@@ -12399,7 +12399,7 @@
         "fileName": "ChevronFullSquareLeftFillDuotone"
       }
     },
-    "versionLastModified": "8.0.9"
+    "versionLastModified": "8.0.11"
   },
   {
     "name": "ChevronFullSquareRight",
@@ -12454,7 +12454,7 @@
         "fileName": "ChevronFullSquareRightFillDuotone"
       }
     },
-    "versionLastModified": "8.0.9"
+    "versionLastModified": "8.0.11"
   },
   {
     "name": "ChevronFullSquareUp",
@@ -12509,7 +12509,7 @@
         "fileName": "ChevronFullSquareUpFillDuotone"
       }
     },
-    "versionLastModified": "8.0.9"
+    "versionLastModified": "8.0.11"
   },
   {
     "name": "ChevronFullUp",
@@ -14272,7 +14272,7 @@
         "fileName": "CliSquareFillDuotone"
       }
     },
-    "versionLastModified": "8.0.9"
+    "versionLastModified": "8.0.11"
   },
   {
     "name": "Clipboard",
@@ -15491,7 +15491,7 @@
         "fileName": "CodeSquareFillDuotone"
       }
     },
-    "versionLastModified": "8.0.9"
+    "versionLastModified": "8.0.11"
   },
   {
     "name": "CoffeeMug",
@@ -18457,7 +18457,8 @@
       "screen",
       "tablet",
       "touchscreen",
-      "DeviceTablet"
+      "DeviceTablet",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -18498,7 +18499,7 @@
         "fileName": "DeviceTabletFillDuotone"
       }
     },
-    "versionLastModified": "6.2.1"
+    "versionLastModified": "8.0.11"
   },
   {
     "name": "Diamond",
@@ -20208,7 +20209,7 @@
         "fileName": "FilmStripFillDuotone"
       }
     },
-    "versionLastModified": "8.0.9"
+    "versionLastModified": "8.0.11"
   },
   {
     "name": "Finder",
@@ -20265,7 +20266,7 @@
         "fileName": "FinderFillDuotone"
       }
     },
-    "versionLastModified": "8.0.9"
+    "versionLastModified": "8.0.11"
   },
   {
     "name": "Flag",
@@ -23915,7 +23916,7 @@
         "fileName": "GradientFillDuotone"
       }
     },
-    "versionLastModified": "8.0.9"
+    "versionLastModified": "8.0.11"
   },
   {
     "name": "Grid",
@@ -23972,7 +23973,7 @@
         "fileName": "GridFillDuotone"
       }
     },
-    "versionLastModified": "8.0.9"
+    "versionLastModified": "8.0.11"
   },
   {
     "name": "Hammer",
@@ -24487,7 +24488,7 @@
         "fileName": "HashSquareFillDuotone"
       }
     },
-    "versionLastModified": "8.0.9"
+    "versionLastModified": "8.0.11"
   },
   {
     "name": "Headphones",
@@ -25516,7 +25517,7 @@
         "fileName": "ImageSquareFillDuotone"
       }
     },
-    "versionLastModified": "8.0.9"
+    "versionLastModified": "8.0.11"
   },
   {
     "name": "ImageStack",
@@ -25685,7 +25686,7 @@
         "fileName": "InfoSquareFillDuotone"
       }
     },
-    "versionLastModified": "8.0.9"
+    "versionLastModified": "8.0.11"
   },
   {
     "name": "Key",
@@ -30091,7 +30092,7 @@
         "fileName": "MoreSquareFillDuotone"
       }
     },
-    "versionLastModified": "8.0.9"
+    "versionLastModified": "8.0.11"
   },
   {
     "name": "MoreSquareV",
@@ -30147,7 +30148,7 @@
         "fileName": "MoreSquareVFillDuotone"
       }
     },
-    "versionLastModified": "8.0.9"
+    "versionLastModified": "8.0.11"
   },
   {
     "name": "MoreV",
@@ -32141,7 +32142,7 @@
         "fileName": "PercentSquareFillDuotone"
       }
     },
-    "versionLastModified": "8.0.9"
+    "versionLastModified": "8.0.11"
   },
   {
     "name": "Phone",
@@ -32920,7 +32921,7 @@
         "fileName": "PlusSquareFillDuotone"
       }
     },
-    "versionLastModified": "8.0.9"
+    "versionLastModified": "8.0.11"
   },
   {
     "name": "PoundSterling",
@@ -33856,7 +33857,8 @@
       "machine",
       "robot",
       "technology",
-      "Robot"
+      "Robot",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -33897,7 +33899,7 @@
         "fileName": "RobotFillDuotone"
       }
     },
-    "versionLastModified": "6.2.1"
+    "versionLastModified": "8.0.11"
   },
   {
     "name": "RobotHumanoid",
@@ -34651,7 +34653,7 @@
         "fileName": "ScanFillDuotone"
       }
     },
-    "versionLastModified": "8.0.9"
+    "versionLastModified": "8.0.11"
   },
   {
     "name": "ScanBarcode",
@@ -35738,7 +35740,7 @@
         "fileName": "SearchSquareFillDuotone"
       }
     },
-    "versionLastModified": "8.0.9"
+    "versionLastModified": "8.0.11"
   },
   {
     "name": "Seedling",
@@ -38276,7 +38278,7 @@
         "fileName": "SparkleSquareFillDuotone"
       }
     },
-    "versionLastModified": "8.0.9"
+    "versionLastModified": "8.0.11"
   },
   {
     "name": "Sparkles",
@@ -38852,7 +38854,7 @@
         "fileName": "SquareFillDuotone"
       }
     },
-    "versionLastModified": "8.0.9"
+    "versionLastModified": "8.0.11"
   },
   {
     "name": "SquareDashed",
@@ -38912,7 +38914,7 @@
         "fileName": "SquareDashedFillDuotone"
       }
     },
-    "versionLastModified": "8.0.9"
+    "versionLastModified": "8.0.11"
   },
   {
     "name": "SquarePlaceholder",
@@ -38968,7 +38970,7 @@
         "fileName": "SquarePlaceholderFillDuotone"
       }
     },
-    "versionLastModified": "8.0.9"
+    "versionLastModified": "8.0.11"
   },
   {
     "name": "SquareSlash",
@@ -39024,7 +39026,7 @@
         "fileName": "SquareSlashFillDuotone"
       }
     },
-    "versionLastModified": "8.0.9"
+    "versionLastModified": "8.0.11"
   },
   {
     "name": "Stairs",
