@@ -11,12 +11,24 @@ interface IconCardProps {
 }
 
 export default function IconCard({ icon, onIconClick, weight = 'regular', duotone = false }: IconCardProps) {
+  const tags = icon.tags ?? [];
+  const badgeStatus = tags.includes('*new*') ? 'new' : tags.includes('*updated*') ? 'updated' : null;
 
   return (
     <div
       className="relative flex items-center justify-center hover:bg-zinc-200 dark:hover:bg-zinc-900 p-4 transition-all duration-200 cursor-pointer border border-zinc-200 dark:border-zinc-900 aspect-square -m-[.5px]"
       onClick={() => onIconClick(icon)}
     >
+      {/* Badge dot: new (green) or updated (blue) */}
+      {/* {badgeStatus && (
+        <span
+          className={`
+            absolute top-1.5 right-1.5 w-2 h-2 rounded-full
+            ${badgeStatus === 'new' ? 'bg-emerald-500' : 'bg-blue-500'}
+          `}
+          aria-hidden
+        />
+      )} */}
       {/* Icon Display */}
       <div className="">
         <DynamicIcon 

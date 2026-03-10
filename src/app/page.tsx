@@ -171,7 +171,7 @@ function HomeContent() {
               </a>
               <a
                 role="menuitem"
-                href="https://github.com/chazgiese/Stera-Icons"
+                href="https://github.com/hauntedjpeg/Stera-Icons"
                 target="_blank"
                 rel="noopener noreferrer"
                 onClick={() => setIsInfoMenuOpen(false)}
@@ -194,7 +194,7 @@ function HomeContent() {
             <Figma className="w-4 h-4" />
           </a>
           <a
-            href="https://github.com/chazgiese/Stera-Icons"
+            href="https://github.com/hauntedjpeg/Stera-Icons"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center text-sm p-2 text-zinc-900 dark:text-zinc-100 hover:text-zinc-900 dark:hover:text-zinc-100 transition-colors rounded-full dark:hover:bg-white/8 hover:bg-black/5 cursor-default"
@@ -225,7 +225,7 @@ function HomeContent() {
               made with <Scribble className="w-4 h-4 inline-block" />
               {' '}by{' '}
               <a
-                href="https://github.com/chazgiese"
+                href="https://github.com/hauntedjpeg"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-zinc-800 dark:text-zinc-200 dark:hover:text-zinc-400 hover:text-zinc-600"

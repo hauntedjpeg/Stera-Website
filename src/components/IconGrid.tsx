@@ -50,7 +50,7 @@ export default function IconGrid({ icons, onIconClick, loading = false, weight =
         <button
           type="button"
           className="inline-block px-4 py-2 bg-zinc-950 dark:bg-zinc-50 text-white dark:text-zinc-950 rounded-3xl hover:bg-zinc-700 dark:hover:bg-zinc-300 transition"
-          onClick={() => window.open('https://github.com/chazgiese/Stera-Icons/issues/new', '_blank', 'noopener,noreferrer')}
+          onClick={() => window.open('https://github.com/hauntedjpeg/Stera-Icons/issues/new', '_blank', 'noopener,noreferrer')}
         >
           Request an icon
         </button>
