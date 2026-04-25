@@ -40,7 +40,7 @@ export default function IconGrid({ icons, onIconClick, loading = false, weight =
         <div className="text-zinc-400 dark:text-zinc-600 mb-4">
           <SquareDashed weight="bold" className="w-16 h-16 mx-auto" />
         </div>
-        <h3 className="text-lg font-medium text-gray-900 dark:text-gray-100 mb-2">
+        <h3 className="text-lg font-medium text-zinc-900 dark:text-zinc-100 mb-2">
           No icons found
         </h3>
         <p className="text-zinc-500 dark:text-zinc-400 max-w-sm mx-auto">

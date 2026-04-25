@@ -205,7 +205,7 @@ function HomeContent() {
       </header>
 
       {/* Main Content */}
-      <main className="max-w-12xl mx-auto px-4 sm:px-6 lg:px-8 py-2">
+      <main className="max-w-screen-2xl mx-auto px-4 sm:px-6 lg:px-8 py-2">
         
         {/* Icon Grid */}
         <IconGrid
