@@ -8,7 +8,7 @@ import SearchBar from '@/components/SearchBar';
 import IconStyleSelector from '@/components/IconStyleSelector';
 import IconGrid from '@/components/IconGrid';
 import IconDetailModal from '@/components/IconDetailModal';
-import { AsteriskAlt, Figma, Github, Scribble, InfoCircle } from 'stera-icons';
+import { AsteriskAlt, Scribble, InfoCircle } from 'stera-icons';
 import iconData from '@/data/icons.json';
 
 function HomeContent() {
@@ -82,7 +82,7 @@ function HomeContent() {
           icon.name.toLowerCase(),
           ...icon.tags.map(tag => tag.toLowerCase())
         ].join(' ');
-        
+
         // Check if all search words are found in the combined searchable text
         return searchWords.every(word => searchableText.includes(word));
       })();
@@ -166,7 +166,6 @@ function HomeContent() {
                 onClick={() => setIsInfoMenuOpen(false)}
                 className="px-4 py-2 text-sm transition-colors flex items-center gap-2 text-zinc-900 dark:text-zinc-100 hover:bg-black/5 dark:hover:bg-white/6 cursor-pointer"
               >
-                <Figma className="w-4 h-4" />
                 <span>Figma</span>
               </a>
               <a
@@ -177,7 +176,6 @@ function HomeContent() {
                 onClick={() => setIsInfoMenuOpen(false)}
                 className="px-4 py-2 text-sm transition-colors flex items-center gap-2 text-zinc-900 dark:text-zinc-100 hover:bg-black/5 dark:hover:bg-white/6 cursor-pointer"
               >
-                <Github className="w-4 h-4" />
                 <span>GitHub</span>
               </a>
             </div>
@@ -191,7 +189,7 @@ function HomeContent() {
             rel="noopener noreferrer"
             className="flex items-center text-sm p-2 text-zinc-900 dark:text-zinc-100 hover:text-zinc-900 dark:hover:text-zinc-100 transition-colors rounded-full dark:hover:bg-white/8 hover:bg-black/5 cursor-default"
           >
-            <Figma className="w-4 h-4" />
+            Figma
           </a>
           <a
             href="https://github.com/hauntedjpeg/Stera-Icons"
@@ -199,14 +197,14 @@ function HomeContent() {
             rel="noopener noreferrer"
             className="flex items-center text-sm p-2 text-zinc-900 dark:text-zinc-100 hover:text-zinc-900 dark:hover:text-zinc-100 transition-colors rounded-full dark:hover:bg-white/8 hover:bg-black/5 cursor-default"
           >
-            <Github className="w-4 h-4" />
+            GitHub
           </a>
         </div>
       </header>
 
       {/* Main Content */}
       <main className="max-w-screen-2xl mx-auto px-4 sm:px-6 lg:px-8 py-2">
-        
+
         {/* Icon Grid */}
         <IconGrid
           icons={filteredIcons}

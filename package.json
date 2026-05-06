@@ -8,7 +8,7 @@
     "start": "next start",
     "lint": "eslint",
     "generate-icons": "node scripts/generate-icons.mjs",
-    "postinstall": "npm run generate-icons"
+    "postinstall": "pnpm generate-icons"
   },
   "dependencies": {
     "@vercel/analytics": "^1.5.0",
@@ -17,7 +17,7 @@
     "next": "15.5.7",
     "react": "19.1.2",
     "react-dom": "19.1.2",
-    "stera-icons": "8.0.13"
+    "stera-icons": "8.3.1"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",

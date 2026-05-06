@@ -17,7 +17,7 @@ const dmMono = DM_Mono({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://stera.site'),
+  metadataBase: new URL('https://stera.sh'),
   title: "Stera ✻ Icons",
   description: "Open source icon library for Figma and React",
   icons: {
@@ -37,7 +37,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Stera ✻ Icons",
     description: "Open source icon library for Figma and React",
-    url: "https://stera.site", // Replace with your actual domain
+    url: "https://stera.sh",
     siteName: "Stera Icons",
     images: [
       {
