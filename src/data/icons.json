@@ -190,8 +190,7 @@
       "run",
       "task",
       "workflow",
-      "AgentWorkflow",
-      "*updated*"
+      "AgentWorkflow"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -1359,8 +1358,7 @@
       "note",
       "review",
       "text",
-      "Annotation",
-      "*updated*"
+      "Annotation"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -1415,8 +1413,7 @@
       "lens",
       "photography",
       "shutter",
-      "Aperture",
-      "*updated*"
+      "Aperture"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -1472,8 +1469,7 @@
       "records",
       "save",
       "storage",
-      "Archive",
-      "*updated*"
+      "Archive"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -1528,8 +1524,7 @@
       "outline",
       "round-top",
       "shape",
-      "Archway",
-      "*updated*"
+      "Archway"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -1584,8 +1579,7 @@
       "down",
       "download",
       "navigation",
-      "ArrowBigDown",
-      "*updated*"
+      "ArrowBigDown"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -1639,8 +1633,7 @@
       "left",
       "navigation",
       "previous",
-      "ArrowBigLeft",
-      "*updated*"
+      "ArrowBigLeft"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -1753,8 +1746,7 @@
       "top",
       "up",
       "uppercase",
-      "ArrowBigUp",
-      "*updated*"
+      "ArrowBigUp"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -1808,8 +1800,7 @@
       "down",
       "download",
       "scroll",
-      "ArrowCircleDown",
-      "*updated*"
+      "ArrowCircleDown"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -2080,8 +2071,7 @@
       "top",
       "up",
       "upload",
-      "ArrowCircleUp",
-      "*updated*"
+      "ArrowCircleUp"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -2588,8 +2578,7 @@
       "move",
       "navigation",
       "southeast",
-      "ArrowDownRight",
-      "*updated*"
+      "ArrowDownRight"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -2702,8 +2691,7 @@
       "resize",
       "right",
       "swap",
-      "ArrowLeftRight",
-      "*updated*"
+      "ArrowLeftRight"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -2758,8 +2746,7 @@
       "receive",
       "save",
       "transfer",
-      "ArrowLineDown",
-      "*updated*"
+      "ArrowLineDown"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -2815,8 +2802,7 @@
       "navigation",
       "previous",
       "start",
-      "ArrowLineLeft",
-      "*updated*"
+      "ArrowLineLeft"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -2930,8 +2916,7 @@
       "top",
       "up",
       "upload",
-      "ArrowLineUp",
-      "*updated*"
+      "ArrowLineUp"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -2988,8 +2973,7 @@
       "right",
       "slide",
       "swipe",
-      "ArrowRight",
-      "*updated*"
+      "ArrowRight"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -3046,8 +3030,7 @@
       "move",
       "navigation",
       "square",
-      "ArrowSquareDown",
-      "*updated*"
+      "ArrowSquareDown"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -3332,8 +3315,7 @@
       "square",
       "up",
       "upload",
-      "ArrowSquareUp",
-      "*updated*"
+      "ArrowSquareUp"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -3618,8 +3600,7 @@
       "reply",
       "share",
       "turn-right",
-      "ArrowURight",
-      "*updated*"
+      "ArrowURight"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -3958,8 +3939,7 @@
       "open-new",
       "pointer",
       "up-right",
-      "ArrowUpRight",
-      "*updated*"
+      "ArrowUpRight"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -4071,8 +4051,7 @@
       "reduce",
       "shrink",
       "zoom-out",
-      "ArrowsLeftRight",
-      "*updated*"
+      "ArrowsLeftRight"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -4129,8 +4108,7 @@
       "sync",
       "transfer",
       "up",
-      "ArrowsUpDown",
-      "*updated*"
+      "ArrowsUpDown"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -4185,8 +4163,7 @@
       "required",
       "star",
       "symbol",
-      "Asterisk",
-      "*updated*"
+      "Asterisk"
     ],
     "versionAdded": "8.0.11",
     "weights": [
@@ -4283,7 +4260,7 @@
         "fileName": "AsteriskAltFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.4.0"
   },
   {
     "name": "AtSign",
@@ -4359,8 +4336,7 @@
       "physics",
       "research",
       "science",
-      "Atom",
-      "*updated*"
+      "Atom"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -4417,8 +4393,7 @@
       "science",
       "smart",
       "technology",
-      "AtomAi",
-      "*updated*"
+      "AtomAi"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -4477,8 +4452,7 @@
       "science",
       "structure",
       "system",
-      "AtomOrbit",
-      "*updated*"
+      "AtomOrbit"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -4758,8 +4732,7 @@
       "path",
       "separator",
       "symbol",
-      "Backslash",
-      "*updated*"
+      "Backslash"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -4807,16 +4780,17 @@
     "kebabName": "badge",
     "componentName": "Badge",
     "tags": [
-      "array",
-      "brackets",
-      "code",
-      "developer",
-      "list",
-      "programming",
-      "square",
-      "syntax",
-      "Badge",
-      "*updated*"
+      "award",
+      "badge",
+      "certification",
+      "emblem",
+      "label",
+      "outline",
+      "seal",
+      "stamp",
+      "status",
+      "verified",
+      "Badge"
     ],
     "versionAdded": "8.2.0",
     "weights": [
@@ -4927,8 +4901,7 @@
       "money",
       "payment",
       "savings",
-      "Bank",
-      "*updated*"
+      "Bank"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -5099,8 +5072,7 @@
       "play",
       "recreation",
       "sports",
-      "Baseball",
-      "*updated*"
+      "Baseball"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -5155,8 +5127,7 @@
       "checkout",
       "groceries",
       "shopping",
-      "Basket",
-      "*updated*"
+      "Basket"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -5435,8 +5406,7 @@
       "medium",
       "power",
       "status",
-      "BatteryLow",
-      "*updated*"
+      "BatteryLow"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -5491,8 +5461,7 @@
       "ring",
       "sound",
       "update",
-      "Bell",
-      "*updated*"
+      "Bell"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -5547,8 +5516,7 @@
       "reminder",
       "unread",
       "updates",
-      "BellDot",
-      "*updated*"
+      "BellDot"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -5602,8 +5570,7 @@
       "mute",
       "notification-off",
       "silence",
-      "BellOff",
-      "*updated*"
+      "BellOff"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -5657,8 +5624,7 @@
       "notification-off",
       "silence",
       "stop-reminder",
-      "BellX",
-      "*updated*"
+      "BellX"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -5717,7 +5683,7 @@
       "programming",
       "raw",
       "Binary",
-      "*new*"
+      "*updated*"
     ],
     "versionAdded": "8.3.0",
     "weights": [
@@ -5758,7 +5724,7 @@
         "fileName": "BinaryFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.4.0"
   },
   {
     "name": "Biohazard",
@@ -5776,7 +5742,7 @@
       "toxic",
       "warning",
       "Biohazard",
-      "*new*"
+      "*updated*"
     ],
     "versionAdded": "8.3.0",
     "weights": [
@@ -5817,7 +5783,7 @@
         "fileName": "BiohazardFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.4.0"
   },
   {
     "name": "Birdhouse",
@@ -5833,8 +5799,7 @@
       "outdoors",
       "shelter",
       "wildlife",
-      "Birdhouse",
-      "*updated*"
+      "Birdhouse"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -5946,8 +5911,7 @@
       "signal",
       "transfer",
       "wireless",
-      "Bluetooth",
-      "*updated*"
+      "Bluetooth"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -6002,8 +5966,7 @@
       "preferences",
       "settings",
       "tool",
-      "Bolt",
-      "*updated*"
+      "Bolt"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -6173,8 +6136,7 @@
       "open-book",
       "reading",
       "study",
-      "BookOpenFold",
-      "*updated*"
+      "BookOpenFold"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -6231,8 +6193,7 @@
       "open-book",
       "reading",
       "study",
-      "BookOpenText",
-      "*updated*"
+      "BookOpenText"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -7074,8 +7035,7 @@
       "professional",
       "tools",
       "work",
-      "Briefcase",
-      "*updated*"
+      "Briefcase"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -7409,8 +7369,7 @@
       "tab",
       "webpage",
       "window",
-      "BrowserX",
-      "*updated*"
+      "BrowserX"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -7470,8 +7429,7 @@
       "round",
       "shine",
       "sphere",
-      "Bubble",
-      "*updated*"
+      "Bubble"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -7640,8 +7598,7 @@
       "planner",
       "schedule",
       "time",
-      "Calendar",
-      "*updated*"
+      "Calendar"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -7754,8 +7711,7 @@
       "planner",
       "schedule",
       "time",
-      "CalendarClock",
-      "*updated*"
+      "CalendarClock"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -7927,8 +7883,7 @@
       "schedule",
       "time",
       "unavailable",
-      "CalendarOff",
-      "*updated*"
+      "CalendarOff"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -8040,8 +7995,7 @@
       "restrict",
       "schedule stop",
       "unavailable",
-      "CalendarSlash",
-      "*updated*"
+      "CalendarSlash"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -8208,8 +8162,7 @@
       "off",
       "photo",
       "picture",
-      "CameraOff",
-      "*updated*"
+      "CameraOff"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -8265,8 +8218,7 @@
       "memorial",
       "night",
       "wax",
-      "Candle",
-      "*updated*"
+      "Candle"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -8323,8 +8275,7 @@
       "stocks",
       "trading",
       "visualization",
-      "CapsLock",
-      "*updated*"
+      "CapsLock"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -8439,8 +8390,7 @@
       "text",
       "typeface",
       "typography",
-      "CaseSensitive",
-      "*new*"
+      "CaseSensitive"
     ],
     "versionAdded": "8.3.0",
     "weights": [
@@ -8497,8 +8447,7 @@
       "statistics",
       "success",
       "up",
-      "ChartArea",
-      "*updated*"
+      "ChartArea"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -9124,8 +9073,7 @@
       "segments",
       "statistics",
       "visualization",
-      "ChartDonut",
-      "*updated*"
+      "ChartDonut"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -9183,8 +9131,7 @@
       "report",
       "statistics",
       "trend",
-      "ChartLine",
-      "*updated*"
+      "ChartLine"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -9241,8 +9188,7 @@
       "performance",
       "statistics",
       "trend",
-      "ChartLineBar",
-      "*updated*"
+      "ChartLineBar"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -9300,8 +9246,7 @@
       "report",
       "statistics",
       "trend",
-      "ChartLineDesc",
-      "*updated*"
+      "ChartLineDesc"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -9359,8 +9304,7 @@
       "report",
       "statistics",
       "trend",
-      "ChartLineXY",
-      "*updated*"
+      "ChartLineXY"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -9418,8 +9362,7 @@
       "report",
       "statistics",
       "trend",
-      "ChartLineXYDesc",
-      "*updated*"
+      "ChartLineXYDesc"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -9706,8 +9649,7 @@
       "report",
       "statistics",
       "visualization",
-      "ChartWaterfallX",
-      "*updated*"
+      "ChartWaterfallX"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -9809,1202 +9751,6 @@
     "versionLastModified": "8.1.0"
   },
   {
-    "name": "ChatBox",
-    "kebabName": "chat-box",
-    "componentName": "ChatBox",
-    "tags": [
-      "bubble",
-      "chat",
-      "comment",
-      "communication",
-      "conversation",
-      "message",
-      "reply",
-      "talk",
-      "ChatBox"
-    ],
-    "versionAdded": "6.2.1",
-    "weights": [
-      "bold",
-      "fill",
-      "regular"
-    ],
-    "supportsDuotone": true,
-    "variants": {
-      "regular": {
-        "version": "6.2.1",
-        "componentName": "ChatBoxRegular",
-        "fileName": "ChatBoxRegular"
-      },
-      "regular-duotone": {
-        "version": "6.2.1",
-        "componentName": "ChatBoxRegularDuotone",
-        "fileName": "ChatBoxRegularDuotone"
-      },
-      "bold": {
-        "version": "6.2.1",
-        "componentName": "ChatBoxBold",
-        "fileName": "ChatBoxBold"
-      },
-      "bold-duotone": {
-        "version": "6.2.1",
-        "componentName": "ChatBoxBoldDuotone",
-        "fileName": "ChatBoxBoldDuotone"
-      },
-      "fill": {
-        "version": "6.2.1",
-        "componentName": "ChatBoxFill",
-        "fileName": "ChatBoxFill"
-      },
-      "fill-duotone": {
-        "version": "6.2.1",
-        "componentName": "ChatBoxFillDuotone",
-        "fileName": "ChatBoxFillDuotone"
-      }
-    },
-    "versionLastModified": "8.1.0"
-  },
-  {
-    "name": "ChatBoxAlert",
-    "kebabName": "chat-box-alert",
-    "componentName": "ChatBoxAlert",
-    "tags": [
-      "alert",
-      "chat",
-      "comment",
-      "error",
-      "feedback",
-      "message",
-      "notification",
-      "warning",
-      "ChatBoxAlert"
-    ],
-    "versionAdded": "6.2.1",
-    "weights": [
-      "bold",
-      "fill",
-      "regular"
-    ],
-    "supportsDuotone": true,
-    "variants": {
-      "regular": {
-        "version": "6.2.1",
-        "componentName": "ChatBoxAlertRegular",
-        "fileName": "ChatBoxAlertRegular"
-      },
-      "regular-duotone": {
-        "version": "6.2.1",
-        "componentName": "ChatBoxAlertRegularDuotone",
-        "fileName": "ChatBoxAlertRegularDuotone"
-      },
-      "bold": {
-        "version": "6.2.1",
-        "componentName": "ChatBoxAlertBold",
-        "fileName": "ChatBoxAlertBold"
-      },
-      "bold-duotone": {
-        "version": "6.2.1",
-        "componentName": "ChatBoxAlertBoldDuotone",
-        "fileName": "ChatBoxAlertBoldDuotone"
-      },
-      "fill": {
-        "version": "6.2.1",
-        "componentName": "ChatBoxAlertFill",
-        "fileName": "ChatBoxAlertFill"
-      },
-      "fill-duotone": {
-        "version": "6.2.1",
-        "componentName": "ChatBoxAlertFillDuotone",
-        "fileName": "ChatBoxAlertFillDuotone"
-      }
-    },
-    "versionLastModified": "8.1.0"
-  },
-  {
-    "name": "ChatBoxCheck",
-    "kebabName": "chat-box-check",
-    "componentName": "ChatBoxCheck",
-    "tags": [
-      "approved",
-      "check",
-      "comment",
-      "complete",
-      "confirmation",
-      "feedback",
-      "read",
-      "resolved",
-      "review",
-      "ChatBoxCheck",
-      "*updated*"
-    ],
-    "versionAdded": "6.2.1",
-    "weights": [
-      "bold",
-      "fill",
-      "regular"
-    ],
-    "supportsDuotone": true,
-    "variants": {
-      "regular": {
-        "version": "6.2.1",
-        "componentName": "ChatBoxCheckRegular",
-        "fileName": "ChatBoxCheckRegular"
-      },
-      "regular-duotone": {
-        "version": "6.2.1",
-        "componentName": "ChatBoxCheckRegularDuotone",
-        "fileName": "ChatBoxCheckRegularDuotone"
-      },
-      "bold": {
-        "version": "6.2.1",
-        "componentName": "ChatBoxCheckBold",
-        "fileName": "ChatBoxCheckBold"
-      },
-      "bold-duotone": {
-        "version": "6.2.1",
-        "componentName": "ChatBoxCheckBoldDuotone",
-        "fileName": "ChatBoxCheckBoldDuotone"
-      },
-      "fill": {
-        "version": "6.2.1",
-        "componentName": "ChatBoxCheckFill",
-        "fileName": "ChatBoxCheckFill"
-      },
-      "fill-duotone": {
-        "version": "6.2.1",
-        "componentName": "ChatBoxCheckFillDuotone",
-        "fileName": "ChatBoxCheckFillDuotone"
-      }
-    },
-    "versionLastModified": "8.3.0"
-  },
-  {
-    "name": "ChatBoxDashed",
-    "kebabName": "chat-box-dashed",
-    "componentName": "ChatBoxDashed",
-    "tags": [
-      "chat",
-      "comment",
-      "communication",
-      "conversation",
-      "draft",
-      "incognito",
-      "message",
-      "private",
-      "reply",
-      "talk",
-      "temporary",
-      "ChatBoxDashed"
-    ],
-    "versionAdded": "6.2.1",
-    "weights": [
-      "bold",
-      "fill",
-      "regular"
-    ],
-    "supportsDuotone": true,
-    "variants": {
-      "regular": {
-        "version": "6.2.1",
-        "componentName": "ChatBoxDashedRegular",
-        "fileName": "ChatBoxDashedRegular"
-      },
-      "regular-duotone": {
-        "version": "6.2.1",
-        "componentName": "ChatBoxDashedRegularDuotone",
-        "fileName": "ChatBoxDashedRegularDuotone"
-      },
-      "bold": {
-        "version": "6.2.1",
-        "componentName": "ChatBoxDashedBold",
-        "fileName": "ChatBoxDashedBold"
-      },
-      "bold-duotone": {
-        "version": "6.2.1",
-        "componentName": "ChatBoxDashedBoldDuotone",
-        "fileName": "ChatBoxDashedBoldDuotone"
-      },
-      "fill": {
-        "version": "6.2.1",
-        "componentName": "ChatBoxDashedFill",
-        "fileName": "ChatBoxDashedFill"
-      },
-      "fill-duotone": {
-        "version": "6.2.1",
-        "componentName": "ChatBoxDashedFillDuotone",
-        "fileName": "ChatBoxDashedFillDuotone"
-      }
-    },
-    "versionLastModified": "8.1.0"
-  },
-  {
-    "name": "ChatBoxDot",
-    "kebabName": "chat-box-dot",
-    "componentName": "ChatBoxDot",
-    "tags": [
-      "bubble",
-      "chat",
-      "comment",
-      "communication",
-      "conversation",
-      "message",
-      "new",
-      "notification",
-      "reply",
-      "talk",
-      "unread",
-      "ChatBoxDot"
-    ],
-    "versionAdded": "6.2.1",
-    "weights": [
-      "bold",
-      "fill",
-      "regular"
-    ],
-    "supportsDuotone": true,
-    "variants": {
-      "regular": {
-        "version": "6.2.1",
-        "componentName": "ChatBoxDotRegular",
-        "fileName": "ChatBoxDotRegular"
-      },
-      "regular-duotone": {
-        "version": "6.2.1",
-        "componentName": "ChatBoxDotRegularDuotone",
-        "fileName": "ChatBoxDotRegularDuotone"
-      },
-      "bold": {
-        "version": "6.2.1",
-        "componentName": "ChatBoxDotBold",
-        "fileName": "ChatBoxDotBold"
-      },
-      "bold-duotone": {
-        "version": "6.2.1",
-        "componentName": "ChatBoxDotBoldDuotone",
-        "fileName": "ChatBoxDotBoldDuotone"
-      },
-      "fill": {
-        "version": "6.2.1",
-        "componentName": "ChatBoxDotFill",
-        "fileName": "ChatBoxDotFill"
-      },
-      "fill-duotone": {
-        "version": "6.2.1",
-        "componentName": "ChatBoxDotFillDuotone",
-        "fileName": "ChatBoxDotFillDuotone"
-      }
-    },
-    "versionLastModified": "8.2.0"
-  },
-  {
-    "name": "ChatBoxDots",
-    "kebabName": "chat-box-dots",
-    "componentName": "ChatBoxDots",
-    "tags": [
-      "bubble",
-      "chat",
-      "comment",
-      "communication",
-      "conversation",
-      "message",
-      "reply",
-      "talk",
-      "ChatBoxDots"
-    ],
-    "versionAdded": "6.2.1",
-    "weights": [
-      "bold",
-      "fill",
-      "regular"
-    ],
-    "supportsDuotone": true,
-    "variants": {
-      "regular": {
-        "version": "6.2.1",
-        "componentName": "ChatBoxDotsRegular",
-        "fileName": "ChatBoxDotsRegular"
-      },
-      "regular-duotone": {
-        "version": "6.2.1",
-        "componentName": "ChatBoxDotsRegularDuotone",
-        "fileName": "ChatBoxDotsRegularDuotone"
-      },
-      "bold": {
-        "version": "6.2.1",
-        "componentName": "ChatBoxDotsBold",
-        "fileName": "ChatBoxDotsBold"
-      },
-      "bold-duotone": {
-        "version": "6.2.1",
-        "componentName": "ChatBoxDotsBoldDuotone",
-        "fileName": "ChatBoxDotsBoldDuotone"
-      },
-      "fill": {
-        "version": "6.2.1",
-        "componentName": "ChatBoxDotsFill",
-        "fileName": "ChatBoxDotsFill"
-      },
-      "fill-duotone": {
-        "version": "6.2.1",
-        "componentName": "ChatBoxDotsFillDuotone",
-        "fileName": "ChatBoxDotsFillDuotone"
-      }
-    },
-    "versionLastModified": "8.1.0"
-  },
-  {
-    "name": "ChatBoxOff",
-    "kebabName": "chat-box-off",
-    "componentName": "ChatBoxOff",
-    "tags": [
-      "blocked",
-      "chat",
-      "conversation",
-      "disable",
-      "message",
-      "mute",
-      "silence",
-      "ChatBoxOff",
-      "*updated*"
-    ],
-    "versionAdded": "6.2.1",
-    "weights": [
-      "bold",
-      "fill",
-      "regular"
-    ],
-    "supportsDuotone": true,
-    "variants": {
-      "regular": {
-        "version": "6.2.1",
-        "componentName": "ChatBoxOffRegular",
-        "fileName": "ChatBoxOffRegular"
-      },
-      "regular-duotone": {
-        "version": "6.2.1",
-        "componentName": "ChatBoxOffRegularDuotone",
-        "fileName": "ChatBoxOffRegularDuotone"
-      },
-      "bold": {
-        "version": "6.2.1",
-        "componentName": "ChatBoxOffBold",
-        "fileName": "ChatBoxOffBold"
-      },
-      "bold-duotone": {
-        "version": "6.2.1",
-        "componentName": "ChatBoxOffBoldDuotone",
-        "fileName": "ChatBoxOffBoldDuotone"
-      },
-      "fill": {
-        "version": "6.2.1",
-        "componentName": "ChatBoxOffFill",
-        "fileName": "ChatBoxOffFill"
-      },
-      "fill-duotone": {
-        "version": "6.2.1",
-        "componentName": "ChatBoxOffFillDuotone",
-        "fileName": "ChatBoxOffFillDuotone"
-      }
-    },
-    "versionLastModified": "8.3.0"
-  },
-  {
-    "name": "ChatBoxPlus",
-    "kebabName": "chat-box-plus",
-    "componentName": "ChatBoxPlus",
-    "tags": [
-      "add",
-      "annotation",
-      "chat",
-      "comment",
-      "feedback",
-      "message",
-      "new",
-      "reply",
-      "ChatBoxPlus"
-    ],
-    "versionAdded": "6.2.1",
-    "weights": [
-      "bold",
-      "fill",
-      "regular"
-    ],
-    "supportsDuotone": true,
-    "variants": {
-      "regular": {
-        "version": "6.2.1",
-        "componentName": "ChatBoxPlusRegular",
-        "fileName": "ChatBoxPlusRegular"
-      },
-      "regular-duotone": {
-        "version": "6.2.1",
-        "componentName": "ChatBoxPlusRegularDuotone",
-        "fileName": "ChatBoxPlusRegularDuotone"
-      },
-      "bold": {
-        "version": "6.2.1",
-        "componentName": "ChatBoxPlusBold",
-        "fileName": "ChatBoxPlusBold"
-      },
-      "bold-duotone": {
-        "version": "6.2.1",
-        "componentName": "ChatBoxPlusBoldDuotone",
-        "fileName": "ChatBoxPlusBoldDuotone"
-      },
-      "fill": {
-        "version": "6.2.1",
-        "componentName": "ChatBoxPlusFill",
-        "fileName": "ChatBoxPlusFill"
-      },
-      "fill-duotone": {
-        "version": "6.2.1",
-        "componentName": "ChatBoxPlusFillDuotone",
-        "fileName": "ChatBoxPlusFillDuotone"
-      }
-    },
-    "versionLastModified": "8.1.0"
-  },
-  {
-    "name": "ChatBoxQuestion",
-    "kebabName": "chat-box-question",
-    "componentName": "ChatBoxQuestion",
-    "tags": [
-      "assistance",
-      "chat",
-      "faq",
-      "help",
-      "onboarding",
-      "question",
-      "support",
-      "tooltip",
-      "ChatBoxQuestion",
-      "*updated*"
-    ],
-    "versionAdded": "6.2.1",
-    "weights": [
-      "bold",
-      "fill",
-      "regular"
-    ],
-    "supportsDuotone": true,
-    "variants": {
-      "regular": {
-        "version": "6.2.1",
-        "componentName": "ChatBoxQuestionRegular",
-        "fileName": "ChatBoxQuestionRegular"
-      },
-      "regular-duotone": {
-        "version": "6.2.1",
-        "componentName": "ChatBoxQuestionRegularDuotone",
-        "fileName": "ChatBoxQuestionRegularDuotone"
-      },
-      "bold": {
-        "version": "6.2.1",
-        "componentName": "ChatBoxQuestionBold",
-        "fileName": "ChatBoxQuestionBold"
-      },
-      "bold-duotone": {
-        "version": "6.2.1",
-        "componentName": "ChatBoxQuestionBoldDuotone",
-        "fileName": "ChatBoxQuestionBoldDuotone"
-      },
-      "fill": {
-        "version": "6.2.1",
-        "componentName": "ChatBoxQuestionFill",
-        "fileName": "ChatBoxQuestionFill"
-      },
-      "fill-duotone": {
-        "version": "6.2.1",
-        "componentName": "ChatBoxQuestionFillDuotone",
-        "fileName": "ChatBoxQuestionFillDuotone"
-      }
-    },
-    "versionLastModified": "8.3.0"
-  },
-  {
-    "name": "ChatBoxText",
-    "kebabName": "chat-box-text",
-    "componentName": "ChatBoxText",
-    "tags": [
-      "bubble",
-      "chat",
-      "comment",
-      "communication",
-      "conversation",
-      "message",
-      "reply",
-      "talk",
-      "ChatBoxText"
-    ],
-    "versionAdded": "6.2.1",
-    "weights": [
-      "bold",
-      "fill",
-      "regular"
-    ],
-    "supportsDuotone": true,
-    "variants": {
-      "regular": {
-        "version": "6.2.1",
-        "componentName": "ChatBoxTextRegular",
-        "fileName": "ChatBoxTextRegular"
-      },
-      "regular-duotone": {
-        "version": "6.2.1",
-        "componentName": "ChatBoxTextRegularDuotone",
-        "fileName": "ChatBoxTextRegularDuotone"
-      },
-      "bold": {
-        "version": "6.2.1",
-        "componentName": "ChatBoxTextBold",
-        "fileName": "ChatBoxTextBold"
-      },
-      "bold-duotone": {
-        "version": "6.2.1",
-        "componentName": "ChatBoxTextBoldDuotone",
-        "fileName": "ChatBoxTextBoldDuotone"
-      },
-      "fill": {
-        "version": "6.2.1",
-        "componentName": "ChatBoxTextFill",
-        "fileName": "ChatBoxTextFill"
-      },
-      "fill-duotone": {
-        "version": "6.2.1",
-        "componentName": "ChatBoxTextFillDuotone",
-        "fileName": "ChatBoxTextFillDuotone"
-      }
-    },
-    "versionLastModified": "8.1.0"
-  },
-  {
-    "name": "ChatBubble",
-    "kebabName": "chat-bubble",
-    "componentName": "ChatBubble",
-    "tags": [
-      "bubble",
-      "chat",
-      "comment",
-      "communication",
-      "conversation",
-      "message",
-      "reply",
-      "text",
-      "ChatBubble"
-    ],
-    "versionAdded": "6.2.1",
-    "weights": [
-      "bold",
-      "fill",
-      "regular"
-    ],
-    "supportsDuotone": true,
-    "variants": {
-      "regular": {
-        "version": "6.2.1",
-        "componentName": "ChatBubbleRegular",
-        "fileName": "ChatBubbleRegular"
-      },
-      "regular-duotone": {
-        "version": "6.2.1",
-        "componentName": "ChatBubbleRegularDuotone",
-        "fileName": "ChatBubbleRegularDuotone"
-      },
-      "bold": {
-        "version": "6.2.1",
-        "componentName": "ChatBubbleBold",
-        "fileName": "ChatBubbleBold"
-      },
-      "bold-duotone": {
-        "version": "6.2.1",
-        "componentName": "ChatBubbleBoldDuotone",
-        "fileName": "ChatBubbleBoldDuotone"
-      },
-      "fill": {
-        "version": "6.2.1",
-        "componentName": "ChatBubbleFill",
-        "fileName": "ChatBubbleFill"
-      },
-      "fill-duotone": {
-        "version": "6.2.1",
-        "componentName": "ChatBubbleFillDuotone",
-        "fileName": "ChatBubbleFillDuotone"
-      }
-    },
-    "versionLastModified": "8.1.0"
-  },
-  {
-    "name": "ChatBubbleAlert",
-    "kebabName": "chat-bubble-alert",
-    "componentName": "ChatBubbleAlert",
-    "tags": [
-      "alert",
-      "chat",
-      "comment",
-      "error",
-      "feedback",
-      "message",
-      "notification",
-      "warning",
-      "ChatBubbleAlert"
-    ],
-    "versionAdded": "6.2.1",
-    "weights": [
-      "bold",
-      "fill",
-      "regular"
-    ],
-    "supportsDuotone": true,
-    "variants": {
-      "regular": {
-        "version": "6.2.1",
-        "componentName": "ChatBubbleAlertRegular",
-        "fileName": "ChatBubbleAlertRegular"
-      },
-      "regular-duotone": {
-        "version": "6.2.1",
-        "componentName": "ChatBubbleAlertRegularDuotone",
-        "fileName": "ChatBubbleAlertRegularDuotone"
-      },
-      "bold": {
-        "version": "6.2.1",
-        "componentName": "ChatBubbleAlertBold",
-        "fileName": "ChatBubbleAlertBold"
-      },
-      "bold-duotone": {
-        "version": "6.2.1",
-        "componentName": "ChatBubbleAlertBoldDuotone",
-        "fileName": "ChatBubbleAlertBoldDuotone"
-      },
-      "fill": {
-        "version": "6.2.1",
-        "componentName": "ChatBubbleAlertFill",
-        "fileName": "ChatBubbleAlertFill"
-      },
-      "fill-duotone": {
-        "version": "6.2.1",
-        "componentName": "ChatBubbleAlertFillDuotone",
-        "fileName": "ChatBubbleAlertFillDuotone"
-      }
-    },
-    "versionLastModified": "8.1.0"
-  },
-  {
-    "name": "ChatBubbleCheck",
-    "kebabName": "chat-bubble-check",
-    "componentName": "ChatBubbleCheck",
-    "tags": [
-      "approved",
-      "check",
-      "comment",
-      "complete",
-      "confirmation",
-      "feedback",
-      "read",
-      "resolved",
-      "review",
-      "ChatBubbleCheck"
-    ],
-    "versionAdded": "6.2.1",
-    "weights": [
-      "bold",
-      "fill",
-      "regular"
-    ],
-    "supportsDuotone": true,
-    "variants": {
-      "regular": {
-        "version": "6.2.1",
-        "componentName": "ChatBubbleCheckRegular",
-        "fileName": "ChatBubbleCheckRegular"
-      },
-      "regular-duotone": {
-        "version": "6.2.1",
-        "componentName": "ChatBubbleCheckRegularDuotone",
-        "fileName": "ChatBubbleCheckRegularDuotone"
-      },
-      "bold": {
-        "version": "6.2.1",
-        "componentName": "ChatBubbleCheckBold",
-        "fileName": "ChatBubbleCheckBold"
-      },
-      "bold-duotone": {
-        "version": "6.2.1",
-        "componentName": "ChatBubbleCheckBoldDuotone",
-        "fileName": "ChatBubbleCheckBoldDuotone"
-      },
-      "fill": {
-        "version": "6.2.1",
-        "componentName": "ChatBubbleCheckFill",
-        "fileName": "ChatBubbleCheckFill"
-      },
-      "fill-duotone": {
-        "version": "6.2.1",
-        "componentName": "ChatBubbleCheckFillDuotone",
-        "fileName": "ChatBubbleCheckFillDuotone"
-      }
-    },
-    "versionLastModified": "8.2.0"
-  },
-  {
-    "name": "ChatBubbleDashed",
-    "kebabName": "chat-bubble-dashed",
-    "componentName": "ChatBubbleDashed",
-    "tags": [
-      "bubble",
-      "chat",
-      "comment",
-      "communication",
-      "conversation",
-      "draft",
-      "incognito",
-      "message",
-      "private",
-      "reply",
-      "temporary",
-      "text",
-      "ChatBubbleDashed",
-      "*updated*"
-    ],
-    "versionAdded": "6.2.1",
-    "weights": [
-      "bold",
-      "fill",
-      "regular"
-    ],
-    "supportsDuotone": true,
-    "variants": {
-      "regular": {
-        "version": "6.2.1",
-        "componentName": "ChatBubbleDashedRegular",
-        "fileName": "ChatBubbleDashedRegular"
-      },
-      "regular-duotone": {
-        "version": "6.2.1",
-        "componentName": "ChatBubbleDashedRegularDuotone",
-        "fileName": "ChatBubbleDashedRegularDuotone"
-      },
-      "bold": {
-        "version": "6.2.1",
-        "componentName": "ChatBubbleDashedBold",
-        "fileName": "ChatBubbleDashedBold"
-      },
-      "bold-duotone": {
-        "version": "6.2.1",
-        "componentName": "ChatBubbleDashedBoldDuotone",
-        "fileName": "ChatBubbleDashedBoldDuotone"
-      },
-      "fill": {
-        "version": "6.2.1",
-        "componentName": "ChatBubbleDashedFill",
-        "fileName": "ChatBubbleDashedFill"
-      },
-      "fill-duotone": {
-        "version": "6.2.1",
-        "componentName": "ChatBubbleDashedFillDuotone",
-        "fileName": "ChatBubbleDashedFillDuotone"
-      }
-    },
-    "versionLastModified": "8.3.0"
-  },
-  {
-    "name": "ChatBubbleDot",
-    "kebabName": "chat-bubble-dot",
-    "componentName": "ChatBubbleDot",
-    "tags": [
-      "bubble",
-      "chat",
-      "comment",
-      "communication",
-      "conversation",
-      "message",
-      "new",
-      "notification",
-      "reply",
-      "text",
-      "unread",
-      "ChatBubbleDot"
-    ],
-    "versionAdded": "6.2.1",
-    "weights": [
-      "bold",
-      "fill",
-      "regular"
-    ],
-    "supportsDuotone": true,
-    "variants": {
-      "regular": {
-        "version": "6.2.1",
-        "componentName": "ChatBubbleDotRegular",
-        "fileName": "ChatBubbleDotRegular"
-      },
-      "regular-duotone": {
-        "version": "6.2.1",
-        "componentName": "ChatBubbleDotRegularDuotone",
-        "fileName": "ChatBubbleDotRegularDuotone"
-      },
-      "bold": {
-        "version": "6.2.1",
-        "componentName": "ChatBubbleDotBold",
-        "fileName": "ChatBubbleDotBold"
-      },
-      "bold-duotone": {
-        "version": "6.2.1",
-        "componentName": "ChatBubbleDotBoldDuotone",
-        "fileName": "ChatBubbleDotBoldDuotone"
-      },
-      "fill": {
-        "version": "6.2.1",
-        "componentName": "ChatBubbleDotFill",
-        "fileName": "ChatBubbleDotFill"
-      },
-      "fill-duotone": {
-        "version": "6.2.1",
-        "componentName": "ChatBubbleDotFillDuotone",
-        "fileName": "ChatBubbleDotFillDuotone"
-      }
-    },
-    "versionLastModified": "8.1.0"
-  },
-  {
-    "name": "ChatBubbleDots",
-    "kebabName": "chat-bubble-dots",
-    "componentName": "ChatBubbleDots",
-    "tags": [
-      "bubble",
-      "chat",
-      "comment",
-      "communication",
-      "conversation",
-      "message",
-      "reply",
-      "text",
-      "ChatBubbleDots"
-    ],
-    "versionAdded": "6.2.1",
-    "weights": [
-      "bold",
-      "fill",
-      "regular"
-    ],
-    "supportsDuotone": true,
-    "variants": {
-      "regular": {
-        "version": "6.2.1",
-        "componentName": "ChatBubbleDotsRegular",
-        "fileName": "ChatBubbleDotsRegular"
-      },
-      "regular-duotone": {
-        "version": "6.2.1",
-        "componentName": "ChatBubbleDotsRegularDuotone",
-        "fileName": "ChatBubbleDotsRegularDuotone"
-      },
-      "bold": {
-        "version": "6.2.1",
-        "componentName": "ChatBubbleDotsBold",
-        "fileName": "ChatBubbleDotsBold"
-      },
-      "bold-duotone": {
-        "version": "6.2.1",
-        "componentName": "ChatBubbleDotsBoldDuotone",
-        "fileName": "ChatBubbleDotsBoldDuotone"
-      },
-      "fill": {
-        "version": "6.2.1",
-        "componentName": "ChatBubbleDotsFill",
-        "fileName": "ChatBubbleDotsFill"
-      },
-      "fill-duotone": {
-        "version": "6.2.1",
-        "componentName": "ChatBubbleDotsFillDuotone",
-        "fileName": "ChatBubbleDotsFillDuotone"
-      }
-    },
-    "versionLastModified": "8.1.0"
-  },
-  {
-    "name": "ChatBubbleOff",
-    "kebabName": "chat-bubble-off",
-    "componentName": "ChatBubbleOff",
-    "tags": [
-      "blocked",
-      "chat",
-      "conversation",
-      "disable",
-      "message",
-      "mute",
-      "silence",
-      "ChatBubbleOff",
-      "*updated*"
-    ],
-    "versionAdded": "6.2.1",
-    "weights": [
-      "bold",
-      "fill",
-      "regular"
-    ],
-    "supportsDuotone": true,
-    "variants": {
-      "regular": {
-        "version": "6.2.1",
-        "componentName": "ChatBubbleOffRegular",
-        "fileName": "ChatBubbleOffRegular"
-      },
-      "regular-duotone": {
-        "version": "6.2.1",
-        "componentName": "ChatBubbleOffRegularDuotone",
-        "fileName": "ChatBubbleOffRegularDuotone"
-      },
-      "bold": {
-        "version": "6.2.1",
-        "componentName": "ChatBubbleOffBold",
-        "fileName": "ChatBubbleOffBold"
-      },
-      "bold-duotone": {
-        "version": "6.2.1",
-        "componentName": "ChatBubbleOffBoldDuotone",
-        "fileName": "ChatBubbleOffBoldDuotone"
-      },
-      "fill": {
-        "version": "6.2.1",
-        "componentName": "ChatBubbleOffFill",
-        "fileName": "ChatBubbleOffFill"
-      },
-      "fill-duotone": {
-        "version": "6.2.1",
-        "componentName": "ChatBubbleOffFillDuotone",
-        "fileName": "ChatBubbleOffFillDuotone"
-      }
-    },
-    "versionLastModified": "8.3.0"
-  },
-  {
-    "name": "ChatBubblePlus",
-    "kebabName": "chat-bubble-plus",
-    "componentName": "ChatBubblePlus",
-    "tags": [
-      "add",
-      "annotation",
-      "chat",
-      "comment",
-      "feedback",
-      "message",
-      "new",
-      "reply",
-      "ChatBubblePlus"
-    ],
-    "versionAdded": "6.2.1",
-    "weights": [
-      "bold",
-      "fill",
-      "regular"
-    ],
-    "supportsDuotone": true,
-    "variants": {
-      "regular": {
-        "version": "6.2.1",
-        "componentName": "ChatBubblePlusRegular",
-        "fileName": "ChatBubblePlusRegular"
-      },
-      "regular-duotone": {
-        "version": "6.2.1",
-        "componentName": "ChatBubblePlusRegularDuotone",
-        "fileName": "ChatBubblePlusRegularDuotone"
-      },
-      "bold": {
-        "version": "6.2.1",
-        "componentName": "ChatBubblePlusBold",
-        "fileName": "ChatBubblePlusBold"
-      },
-      "bold-duotone": {
-        "version": "6.2.1",
-        "componentName": "ChatBubblePlusBoldDuotone",
-        "fileName": "ChatBubblePlusBoldDuotone"
-      },
-      "fill": {
-        "version": "6.2.1",
-        "componentName": "ChatBubblePlusFill",
-        "fileName": "ChatBubblePlusFill"
-      },
-      "fill-duotone": {
-        "version": "6.2.1",
-        "componentName": "ChatBubblePlusFillDuotone",
-        "fileName": "ChatBubblePlusFillDuotone"
-      }
-    },
-    "versionLastModified": "8.1.0"
-  },
-  {
-    "name": "ChatBubbleQuestion",
-    "kebabName": "chat-bubble-question",
-    "componentName": "ChatBubbleQuestion",
-    "tags": [
-      "assistance",
-      "chat",
-      "faq",
-      "help",
-      "onboarding",
-      "question",
-      "support",
-      "tooltip",
-      "ChatBubbleQuestion",
-      "*updated*"
-    ],
-    "versionAdded": "6.2.1",
-    "weights": [
-      "bold",
-      "fill",
-      "regular"
-    ],
-    "supportsDuotone": true,
-    "variants": {
-      "regular": {
-        "version": "6.2.1",
-        "componentName": "ChatBubbleQuestionRegular",
-        "fileName": "ChatBubbleQuestionRegular"
-      },
-      "regular-duotone": {
-        "version": "6.2.1",
-        "componentName": "ChatBubbleQuestionRegularDuotone",
-        "fileName": "ChatBubbleQuestionRegularDuotone"
-      },
-      "bold": {
-        "version": "6.2.1",
-        "componentName": "ChatBubbleQuestionBold",
-        "fileName": "ChatBubbleQuestionBold"
-      },
-      "bold-duotone": {
-        "version": "6.2.1",
-        "componentName": "ChatBubbleQuestionBoldDuotone",
-        "fileName": "ChatBubbleQuestionBoldDuotone"
-      },
-      "fill": {
-        "version": "6.2.1",
-        "componentName": "ChatBubbleQuestionFill",
-        "fileName": "ChatBubbleQuestionFill"
-      },
-      "fill-duotone": {
-        "version": "6.2.1",
-        "componentName": "ChatBubbleQuestionFillDuotone",
-        "fileName": "ChatBubbleQuestionFillDuotone"
-      }
-    },
-    "versionLastModified": "8.3.0"
-  },
-  {
-    "name": "ChatBubbleText",
-    "kebabName": "chat-bubble-text",
-    "componentName": "ChatBubbleText",
-    "tags": [
-      "bubble",
-      "chat",
-      "comment",
-      "communication",
-      "conversation",
-      "message",
-      "reply",
-      "text",
-      "ChatBubbleText"
-    ],
-    "versionAdded": "6.2.1",
-    "weights": [
-      "bold",
-      "fill",
-      "regular"
-    ],
-    "supportsDuotone": true,
-    "variants": {
-      "regular": {
-        "version": "6.2.1",
-        "componentName": "ChatBubbleTextRegular",
-        "fileName": "ChatBubbleTextRegular"
-      },
-      "regular-duotone": {
-        "version": "6.2.1",
-        "componentName": "ChatBubbleTextRegularDuotone",
-        "fileName": "ChatBubbleTextRegularDuotone"
-      },
-      "bold": {
-        "version": "6.2.1",
-        "componentName": "ChatBubbleTextBold",
-        "fileName": "ChatBubbleTextBold"
-      },
-      "bold-duotone": {
-        "version": "6.2.1",
-        "componentName": "ChatBubbleTextBoldDuotone",
-        "fileName": "ChatBubbleTextBoldDuotone"
-      },
-      "fill": {
-        "version": "6.2.1",
-        "componentName": "ChatBubbleTextFill",
-        "fileName": "ChatBubbleTextFill"
-      },
-      "fill-duotone": {
-        "version": "6.2.1",
-        "componentName": "ChatBubbleTextFillDuotone",
-        "fileName": "ChatBubbleTextFillDuotone"
-      }
-    },
-    "versionLastModified": "8.1.0"
-  },
-  {
-    "name": "ChatMessages",
-    "kebabName": "chat-messages",
-    "componentName": "ChatMessages",
-    "tags": [
-      "chat",
-      "comments",
-      "communication",
-      "conversation",
-      "discussion",
-      "inbox",
-      "messages",
-      "thread",
-      "ChatMessages",
-      "*updated*"
-    ],
-    "versionAdded": "6.2.1",
-    "weights": [
-      "bold",
-      "fill",
-      "regular"
-    ],
-    "supportsDuotone": true,
-    "variants": {
-      "regular": {
-        "version": "6.2.1",
-        "componentName": "ChatMessagesRegular",
-        "fileName": "ChatMessagesRegular"
-      },
-      "regular-duotone": {
-        "version": "6.2.1",
-        "componentName": "ChatMessagesRegularDuotone",
-        "fileName": "ChatMessagesRegularDuotone"
-      },
-      "bold": {
-        "version": "6.2.1",
-        "componentName": "ChatMessagesBold",
-        "fileName": "ChatMessagesBold"
-      },
-      "bold-duotone": {
-        "version": "6.2.1",
-        "componentName": "ChatMessagesBoldDuotone",
-        "fileName": "ChatMessagesBoldDuotone"
-      },
-      "fill": {
-        "version": "6.2.1",
-        "componentName": "ChatMessagesFill",
-        "fileName": "ChatMessagesFill"
-      },
-      "fill-duotone": {
-        "version": "6.2.1",
-        "componentName": "ChatMessagesFillDuotone",
-        "fileName": "ChatMessagesFillDuotone"
-      }
-    },
-    "versionLastModified": "8.3.0"
-  },
-  {
     "name": "Check",
     "kebabName": "check",
     "componentName": "Check",
@@ -11017,8 +9763,7 @@
       "finished",
       "selected",
       "success",
-      "Check",
-      "*updated*"
+      "Check"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -11074,8 +9819,7 @@
       "trusted",
       "verified",
       "verified-account",
-      "CheckBadge",
-      "*updated*"
+      "CheckBadge"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -11130,8 +9874,7 @@
       "okay",
       "success",
       "todo",
-      "CheckCircle",
-      "*updated*"
+      "CheckCircle"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -11186,8 +9929,7 @@
       "okay",
       "success",
       "todo",
-      "CheckSquare",
-      "*updated*"
+      "CheckSquare"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -11412,8 +10154,7 @@
       "dropdown",
       "expand",
       "more",
-      "ChevronCircleDown",
-      "*updated*"
+      "ChevronCircleDown"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -11523,8 +10264,7 @@
       "navigate",
       "next",
       "right",
-      "ChevronCircleRight",
-      "*updated*"
+      "ChevronCircleRight"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -11579,8 +10319,7 @@
       "previous",
       "top",
       "up",
-      "ChevronCircleUp",
-      "*updated*"
+      "ChevronCircleUp"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -11637,8 +10376,7 @@
       "expand",
       "more",
       "navigation",
-      "ChevronDown",
-      "*updated*"
+      "ChevronDown"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -11971,8 +10709,7 @@
       "navigation",
       "selection",
       "up",
-      "ChevronFullInward",
-      "*updated*"
+      "ChevronFullInward"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -12084,8 +10821,7 @@
       "selection",
       "sort",
       "up",
-      "ChevronFullOutward",
-      "*updated*"
+      "ChevronFullOutward"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -12197,8 +10933,7 @@
       "more",
       "navigation",
       "square",
-      "ChevronFullSquareDown",
-      "*updated*"
+      "ChevronFullSquareDown"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -12254,8 +10989,7 @@
       "navigate",
       "previous",
       "square",
-      "ChevronFullSquareLeft",
-      "*updated*"
+      "ChevronFullSquareLeft"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -12363,8 +11097,7 @@
       "square",
       "top",
       "up",
-      "ChevronFullSquareUp",
-      "*updated*"
+      "ChevronFullSquareUp"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -12418,8 +11151,7 @@
       "navigation",
       "scroll-up",
       "up",
-      "ChevronFullUp",
-      "*updated*"
+      "ChevronFullUp"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -12476,8 +11208,7 @@
       "navigation",
       "selection",
       "up",
-      "ChevronInward",
-      "*updated*"
+      "ChevronInward"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -12591,8 +11322,7 @@
       "selection",
       "sort",
       "up",
-      "ChevronOutward",
-      "*updated*"
+      "ChevronOutward"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -12648,8 +11378,7 @@
       "next",
       "scroll-right",
       "slide-right",
-      "ChevronRight",
-      "*updated*"
+      "ChevronRight"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -12706,8 +11435,7 @@
       "more",
       "open",
       "selection",
-      "ChevronSquareDown",
-      "*updated*"
+      "ChevronSquareDown"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -12875,8 +11603,7 @@
       "navigate-up",
       "scroll-up",
       "slide-up",
-      "ChevronSquareUp",
-      "*updated*"
+      "ChevronSquareUp"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -12932,8 +11659,7 @@
       "navigate-up",
       "scroll-up",
       "slide-up",
-      "ChevronUp",
-      "*updated*"
+      "ChevronUp"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -12989,8 +11715,7 @@
       "more",
       "navigation",
       "scroll",
-      "ChevronsDown",
-      "*updated*"
+      "ChevronsDown"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -13767,8 +12492,7 @@
       "placeholder",
       "skeleton",
       "striped",
-      "CirclePlaceholder",
-      "*updated*"
+      "CirclePlaceholder"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -13825,8 +12549,7 @@
       "prohibited",
       "restricted",
       "stop",
-      "CircleSlash",
-      "*updated*"
+      "CircleSlash"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -13994,8 +12717,7 @@
       "shell",
       "terminal",
       "vim",
-      "Cli",
-      "*updated*"
+      "Cli"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -14052,8 +12774,7 @@
       "shell",
       "terminal",
       "vim",
-      "CliCircle",
-      "*updated*"
+      "CliCircle"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -14110,8 +12831,7 @@
       "shell",
       "terminal",
       "vim",
-      "CliSquare",
-      "*updated*"
+      "CliSquare"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -15034,7 +13754,7 @@
       "shell",
       "terminal",
       "CloudCli",
-      "*new*"
+      "*updated*"
     ],
     "versionAdded": "8.3.0",
     "weights": [
@@ -15075,7 +13795,7 @@
         "fileName": "CloudCliFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.4.0"
   },
   {
     "name": "CloudDownload",
@@ -15148,8 +13868,7 @@
       "sync",
       "transfer",
       "upload",
-      "CloudUpload",
-      "*updated*"
+      "CloudUpload"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -15206,8 +13925,7 @@
       "remove",
       "stop",
       "unsync",
-      "CloudX",
-      "*updated*"
+      "CloudX"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -15262,8 +13980,7 @@
       "programming",
       "script",
       "source",
-      "Code",
-      "*updated*"
+      "Code"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -15318,8 +14035,7 @@
       "programming",
       "script",
       "source",
-      "CodeCircle",
-      "*updated*"
+      "CodeCircle"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -15374,8 +14090,7 @@
       "programming",
       "script",
       "source",
-      "CodeSquare",
-      "*updated*"
+      "CodeSquare"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -15431,8 +14146,7 @@
       "mug",
       "refreshment",
       "tea",
-      "CoffeeMug",
-      "*updated*"
+      "CoffeeMug"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -15544,8 +14258,7 @@
       "reduce",
       "shrink",
       "zoom-out",
-      "Collapse",
-      "*updated*"
+      "Collapse"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -15601,8 +14314,7 @@
       "resize",
       "shrink",
       "zoom-out",
-      "CollapseSimple",
-      "*updated*"
+      "CollapseSimple"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -15879,7 +14591,8 @@
       "element",
       "figma",
       "library",
-      "Component"
+      "Component",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -15920,7 +14633,7 @@
         "fileName": "ComponentFillDuotone"
       }
     },
-    "versionLastModified": "8.2.0"
+    "versionLastModified": "8.4.0"
   },
   {
     "name": "Connection",
@@ -16049,7 +14762,8 @@
       "phonebook",
       "profile",
       "user",
-      "ContactBook"
+      "ContactBook",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -16090,7 +14804,7 @@
         "fileName": "ContactBookFillDuotone"
       }
     },
-    "versionLastModified": "8.2.0"
+    "versionLastModified": "8.4.0"
   },
   {
     "name": "Contrast",
@@ -16605,8 +15319,7 @@
       "model",
       "package",
       "product",
-      "Cube",
-      "*updated*"
+      "Cube"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -16717,8 +15430,7 @@
       "package",
       "parcel",
       "shipping",
-      "CubePackage",
-      "*updated*"
+      "CubePackage"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -16773,8 +15485,7 @@
       "package",
       "parcel",
       "shipping",
-      "CubePackageSimple",
-      "*updated*"
+      "CubePackageSimple"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -16831,8 +15542,7 @@
       "function",
       "graph",
       "math",
-      "CubicGraph",
-      "*updated*"
+      "CubicGraph"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -16945,8 +15655,7 @@
       "payment",
       "price",
       "transaction",
-      "CurrencyCent",
-      "*updated*"
+      "CurrencyCent"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -17228,8 +15937,7 @@
       "navigation",
       "pointer",
       "select",
-      "Cursor",
-      "*updated*"
+      "Cursor"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -17285,8 +15993,7 @@
       "inspect",
       "picker",
       "select",
-      "CursorBox",
-      "*updated*"
+      "CursorBox"
     ],
     "versionAdded": "8.1.0",
     "weights": [
@@ -17343,8 +16050,7 @@
       "pointer",
       "select",
       "tap",
-      "CursorClick",
-      "*updated*"
+      "CursorClick"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -17401,8 +16107,7 @@
       "pointer",
       "select",
       "tap",
-      "CursorNavigation",
-      "*updated*"
+      "CursorNavigation"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -18180,8 +16885,7 @@
       "server",
       "stack",
       "storage",
-      "DatabaseSparkle",
-      "*updated*"
+      "DatabaseSparkle"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -18237,8 +16941,7 @@
       "server",
       "stack",
       "storage",
-      "DatabaseX",
-      "*updated*"
+      "DatabaseX"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -18295,8 +16998,7 @@
       "label",
       "remove",
       "tag",
-      "Delete",
-      "*updated*"
+      "Delete"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -18351,8 +17053,7 @@
       "monitor",
       "screen",
       "workstation",
-      "DeviceDesktop",
-      "*updated*"
+      "DeviceDesktop"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -18407,8 +17108,7 @@
       "notebook",
       "portable",
       "screen",
-      "DeviceLaptop",
-      "*updated*"
+      "DeviceLaptop"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -18573,8 +17273,7 @@
       "rhombus",
       "shape",
       "warning",
-      "Diamond",
-      "*updated*"
+      "Diamond"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -19305,8 +18004,7 @@
       "duplicate",
       "repeat",
       "replicate",
-      "Duplicate",
-      "*updated*"
+      "Duplicate"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -19359,8 +18057,7 @@
       "duplicate",
       "repeat",
       "replicate",
-      "DuplicatePlus",
-      "*updated*"
+      "DuplicatePlus"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -19422,8 +18119,7 @@
       "text input",
       "update",
       "write",
-      "EditSquare",
-      "*updated*"
+      "EditSquare"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -19536,8 +18232,7 @@
       "mood",
       "positive",
       "smile",
-      "EmoteGrin",
-      "*updated*"
+      "EmoteGrin"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -19705,8 +18400,7 @@
       "mood",
       "positive",
       "smile",
-      "EmoteSmile",
-      "*updated*"
+      "EmoteSmile"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -19817,8 +18511,7 @@
       "important",
       "notify",
       "warning",
-      "ExclamationPoint",
-      "*updated*"
+      "ExclamationPoint"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -20047,8 +18740,7 @@
       "redirect",
       "share",
       "url",
-      "ExternalLink",
-      "*updated*"
+      "ExternalLink"
     ],
     "versionAdded": "8.2.0",
     "weights": [
@@ -20104,8 +18796,7 @@
       "visibility",
       "visible",
       "watch",
-      "Eye",
-      "*updated*"
+      "Eye"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -20163,8 +18854,7 @@
       "sleep",
       "view-off",
       "visibility-off",
-      "EyeClosed",
-      "*updated*"
+      "EyeClosed"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -20222,8 +18912,7 @@
       "sleep",
       "view-off",
       "visibility-off",
-      "EyeOff",
-      "*updated*"
+      "EyeOff"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -20507,8 +19196,7 @@
       "mac",
       "navigation",
       "system",
-      "Finder",
-      "*updated*"
+      "Finder"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -20676,8 +19364,7 @@
       "flash",
       "lightning",
       "power",
-      "Flash",
-      "*updated*"
+      "Flash"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -20788,8 +19475,7 @@
       "research",
       "science",
       "test",
-      "Flask",
-      "*updated*"
+      "Flask"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -20844,8 +19530,7 @@
       "research",
       "science",
       "test",
-      "FlaskFull",
-      "*updated*"
+      "FlaskFull"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -21013,8 +19698,7 @@
       "progress",
       "sequence",
       "transition",
-      "FlowDownArrow",
-      "*updated*"
+      "FlowDownArrow"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -21072,8 +19756,7 @@
       "process",
       "sequence",
       "transition",
-      "FlowLeftArrow",
-      "*updated*"
+      "FlowLeftArrow"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -21129,8 +19812,7 @@
       "merge",
       "right",
       "unify",
-      "FlowMerge",
-      "*updated*"
+      "FlowMerge"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -21244,8 +19926,7 @@
       "process",
       "split",
       "transition",
-      "FlowSplitArrowDown",
-      "*updated*"
+      "FlowSplitArrowDown"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -21413,8 +20094,7 @@
       "process",
       "split",
       "transition",
-      "FlowSplitArrowUp",
-      "*updated*"
+      "FlowSplitArrowUp"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -21700,8 +20380,7 @@
       "sequence",
       "transition",
       "upward",
-      "FlowUpArrow",
-      "*updated*"
+      "FlowUpArrow"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -21868,8 +20547,7 @@
       "organize",
       "project",
       "storage",
-      "FolderOpen",
-      "*updated*"
+      "FolderOpen"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -22041,8 +20719,7 @@
       "recreation",
       "rugby",
       "sports",
-      "Football",
-      "*updated*"
+      "Football"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -22328,8 +21005,7 @@
       "speed",
       "status",
       "timer",
-      "Gauge0",
-      "*updated*"
+      "Gauge0"
     ],
     "versionAdded": "8.2.0",
     "weights": [
@@ -22390,8 +21066,7 @@
       "speed",
       "status",
       "timer",
-      "Gauge100",
-      "*updated*"
+      "Gauge100"
     ],
     "versionAdded": "8.2.0",
     "weights": [
@@ -22511,8 +21186,7 @@
       "speed",
       "status",
       "timer",
-      "Gauge33",
-      "*updated*"
+      "Gauge33"
     ],
     "versionAdded": "8.2.0",
     "weights": [
@@ -22632,8 +21306,7 @@
       "speed",
       "status",
       "timer",
-      "Gauge66",
-      "*updated*"
+      "Gauge66"
     ],
     "versionAdded": "8.2.0",
     "weights": [
@@ -22754,8 +21427,7 @@
       "speed",
       "status",
       "timer",
-      "GaugeDots0",
-      "*updated*"
+      "GaugeDots0"
     ],
     "versionAdded": "8.2.0",
     "weights": [
@@ -22816,8 +21488,7 @@
       "speed",
       "status",
       "timer",
-      "GaugeDots100",
-      "*updated*"
+      "GaugeDots100"
     ],
     "versionAdded": "8.2.0",
     "weights": [
@@ -22877,8 +21548,7 @@
       "speed",
       "status",
       "timer",
-      "GaugeDots15",
-      "*updated*"
+      "GaugeDots15"
     ],
     "versionAdded": "8.2.0",
     "weights": [
@@ -22938,8 +21608,7 @@
       "speed",
       "status",
       "timer",
-      "GaugeDots33",
-      "*updated*"
+      "GaugeDots33"
     ],
     "versionAdded": "8.2.0",
     "weights": [
@@ -22999,8 +21668,7 @@
       "speed",
       "status",
       "timer",
-      "GaugeDots50",
-      "*updated*"
+      "GaugeDots50"
     ],
     "versionAdded": "8.2.0",
     "weights": [
@@ -23060,8 +21728,7 @@
       "speed",
       "status",
       "timer",
-      "GaugeDots66",
-      "*updated*"
+      "GaugeDots66"
     ],
     "versionAdded": "8.2.0",
     "weights": [
@@ -23121,8 +21788,7 @@
       "speed",
       "status",
       "timer",
-      "GaugeDots85",
-      "*updated*"
+      "GaugeDots85"
     ],
     "versionAdded": "8.2.0",
     "weights": [
@@ -23178,8 +21844,7 @@
       "legal",
       "moderation",
       "ruling",
-      "Gavel",
-      "*updated*"
+      "Gavel"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -23348,8 +22013,7 @@
       "present",
       "reward",
       "surprise",
-      "GiftBox",
-      "*updated*"
+      "GiftBox"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -23632,8 +22296,7 @@
       "pull-request",
       "review",
       "version-control",
-      "GitPullRequest",
-      "*updated*"
+      "GitPullRequest"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -23971,8 +22634,7 @@
       "setup",
       "support",
       "tools",
-      "Hammer",
-      "*updated*"
+      "Hammer"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -24365,8 +23027,7 @@
       "social",
       "tag",
       "topic",
-      "HashItalic",
-      "*updated*"
+      "HashItalic"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -24479,8 +23140,7 @@
       "playback",
       "sound",
       "speaker",
-      "Headphones",
-      "*updated*"
+      "Headphones"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -24592,8 +23252,7 @@
       "shape",
       "six sides",
       "symbol",
-      "Hexagon",
-      "*updated*"
+      "Hexagon"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -24650,8 +23309,7 @@
       "residence",
       "shelter",
       "start",
-      "Home",
-      "*updated*"
+      "Home"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -24766,8 +23424,7 @@
       "shelter",
       "support",
       "wellness",
-      "HomeHeart",
-      "*updated*"
+      "HomeHeart"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -24824,8 +23481,7 @@
       "new",
       "plus",
       "shelter",
-      "HomePlus",
-      "*updated*"
+      "HomePlus"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -24882,8 +23538,7 @@
       "housing",
       "remove",
       "shelter",
-      "HomeSimple",
-      "*updated*"
+      "HomeSimple"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -24940,8 +23595,7 @@
       "housing",
       "remove",
       "shelter",
-      "HomeX",
-      "*updated*"
+      "HomeX"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -24997,8 +23651,7 @@
       "time",
       "timer",
       "waiting",
-      "Hourglass",
-      "*updated*"
+      "Hourglass"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -25166,8 +23819,7 @@
       "person",
       "profile",
       "user",
-      "IdH",
-      "*updated*"
+      "IdH"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -25944,8 +24596,7 @@
       "privacy",
       "protection",
       "secure",
-      "Keyhole",
-      "*updated*"
+      "Keyhole"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -26056,8 +24707,7 @@
       "marker",
       "sticker",
       "tag",
-      "Label",
-      "*updated*"
+      "Label"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -26112,8 +24762,7 @@
       "marker",
       "sticker",
       "tag",
-      "LabelAlt",
-      "*updated*"
+      "LabelAlt"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -26170,8 +24819,7 @@
       "light",
       "lighting",
       "nightstand",
-      "Lamp",
-      "*updated*"
+      "Lamp"
     ],
     "versionAdded": "8.1.0",
     "weights": [
@@ -26227,8 +24875,7 @@
       "marquee",
       "multi-select",
       "selection",
-      "LassoDash",
-      "*updated*"
+      "LassoDash"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -26283,8 +24930,7 @@
       "multiple",
       "organize",
       "stack",
-      "Layers",
-      "*updated*"
+      "Layers"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -26339,8 +24985,7 @@
       "multiple",
       "organize",
       "stack",
-      "LayersAlt",
-      "*updated*"
+      "LayersAlt"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -26395,8 +25040,7 @@
       "multiple",
       "organize",
       "stack",
-      "LayersSimple",
-      "*updated*"
+      "LayersSimple"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -26451,7 +25095,8 @@
       "menu",
       "tiles",
       "widgets",
-      "LayoutGrid"
+      "LayoutGrid",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -26492,7 +25137,7 @@
         "fileName": "LayoutGridFillDuotone"
       }
     },
-    "versionLastModified": "8.0.9"
+    "versionLastModified": "8.4.0"
   },
   {
     "name": "LayoutGridCircle",
@@ -26621,7 +25266,8 @@
       "new",
       "tiles",
       "widgets",
-      "LayoutGridPlus"
+      "LayoutGridPlus",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -26662,7 +25308,7 @@
         "fileName": "LayoutGridPlusFillDuotone"
       }
     },
-    "versionLastModified": "8.0.9"
+    "versionLastModified": "8.4.0"
   },
   {
     "name": "LayoutList",
@@ -26678,7 +25324,8 @@
       "panel",
       "sidebar",
       "split-view",
-      "LayoutList"
+      "LayoutList",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -26719,7 +25366,7 @@
         "fileName": "LayoutListFillDuotone"
       }
     },
-    "versionLastModified": "8.0.9"
+    "versionLastModified": "8.4.0"
   },
   {
     "name": "LayoutListAlt",
@@ -26737,7 +25384,8 @@
       "preview",
       "rows",
       "thumbnail",
-      "LayoutListAlt"
+      "LayoutListAlt",
+      "*updated*"
     ],
     "versionAdded": "8.1.0",
     "weights": [
@@ -26778,7 +25426,7 @@
         "fileName": "LayoutListAltFillDuotone"
       }
     },
-    "versionLastModified": "8.1.0"
+    "versionLastModified": "8.4.0"
   },
   {
     "name": "LayoutMasonry",
@@ -26793,7 +25441,8 @@
       "menu",
       "overview",
       "tiles",
-      "LayoutMasonry"
+      "LayoutMasonry",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -26834,7 +25483,7 @@
         "fileName": "LayoutMasonryFillDuotone"
       }
     },
-    "versionLastModified": "6.2.1"
+    "versionLastModified": "8.4.0"
   },
   {
     "name": "LayoutPanelLeft",
@@ -26961,8 +25610,7 @@
       "organic",
       "plant",
       "sustainability",
-      "Leaf",
-      "*updated*"
+      "Leaf"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -27074,8 +25722,7 @@
       "insight",
       "suggestion",
       "tips",
-      "LightbulbOn",
-      "*updated*"
+      "LightbulbOn"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -27356,8 +26003,7 @@
       "link",
       "reference",
       "url",
-      "Link",
-      "*updated*"
+      "Link"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -27412,8 +26058,7 @@
       "remove-link",
       "slash",
       "unlink",
-      "LinkOff",
-      "*updated*"
+      "LinkOff"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -27633,8 +26278,7 @@
       "progress",
       "tasks",
       "to-do",
-      "ListCheck",
-      "*updated*"
+      "ListCheck"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -27690,8 +26334,7 @@
       "progress",
       "tasks",
       "to-do",
-      "ListCheckSimple",
-      "*updated*"
+      "ListCheckSimple"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -27747,8 +26390,7 @@
       "list",
       "minimize",
       "toggle",
-      "ListContract",
-      "*updated*"
+      "ListContract"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -27804,8 +26446,7 @@
       "reveal",
       "show",
       "toggle",
-      "ListExpand",
-      "*updated*"
+      "ListExpand"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -28371,8 +27012,7 @@
       "relax",
       "spa",
       "wellness",
-      "Lotus",
-      "*updated*"
+      "Lotus"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -28483,8 +27123,7 @@
       "select",
       "ui-control",
       "window",
-      "MacWindowCursor",
-      "*updated*"
+      "MacWindowCursor"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -28703,8 +27342,7 @@
       "open message",
       "read mail",
       "view email",
-      "MailOpen",
-      "*updated*"
+      "MailOpen"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -28817,8 +27455,7 @@
       "mail",
       "message",
       "remove",
-      "MailX",
-      "*updated*"
+      "MailX"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -28930,8 +27567,7 @@
       "place",
       "route",
       "travel",
-      "Map",
-      "*updated*"
+      "Map"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -29327,8 +27963,7 @@
       "prize",
       "recognition",
       "trophy",
-      "Medal",
-      "*updated*"
+      "Medal"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -29384,8 +28019,7 @@
       "prize",
       "recognition",
       "trophy",
-      "MedalStar",
-      "*updated*"
+      "MedalStar"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -29647,6 +28281,1336 @@
     "versionLastModified": "8.1.0"
   },
   {
+    "name": "MessageCircle",
+    "kebabName": "message-circle",
+    "componentName": "MessageCircle",
+    "tags": [
+      "bubble",
+      "chat",
+      "comment",
+      "communication",
+      "conversation",
+      "message",
+      "reply",
+      "text",
+      "MessageCircle",
+      "*new*"
+    ],
+    "versionAdded": "8.4.0",
+    "weights": [
+      "bold",
+      "fill",
+      "regular"
+    ],
+    "supportsDuotone": true,
+    "variants": {
+      "regular": {
+        "version": "8.4.0",
+        "componentName": "MessageCircleRegular",
+        "fileName": "MessageCircleRegular"
+      },
+      "regular-duotone": {
+        "version": "8.4.0",
+        "componentName": "MessageCircleRegularDuotone",
+        "fileName": "MessageCircleRegularDuotone"
+      },
+      "bold": {
+        "version": "8.4.0",
+        "componentName": "MessageCircleBold",
+        "fileName": "MessageCircleBold"
+      },
+      "bold-duotone": {
+        "version": "8.4.0",
+        "componentName": "MessageCircleBoldDuotone",
+        "fileName": "MessageCircleBoldDuotone"
+      },
+      "fill": {
+        "version": "8.4.0",
+        "componentName": "MessageCircleFill",
+        "fileName": "MessageCircleFill"
+      },
+      "fill-duotone": {
+        "version": "8.4.0",
+        "componentName": "MessageCircleFillDuotone",
+        "fileName": "MessageCircleFillDuotone"
+      }
+    },
+    "versionLastModified": "8.4.0"
+  },
+  {
+    "name": "MessageCircleAlert",
+    "kebabName": "message-circle-alert",
+    "componentName": "MessageCircleAlert",
+    "tags": [
+      "alert",
+      "chat",
+      "comment",
+      "error",
+      "feedback",
+      "message",
+      "notification",
+      "warning",
+      "MessageCircleAlert",
+      "*new*"
+    ],
+    "versionAdded": "8.4.0",
+    "weights": [
+      "bold",
+      "fill",
+      "regular"
+    ],
+    "supportsDuotone": true,
+    "variants": {
+      "regular": {
+        "version": "8.4.0",
+        "componentName": "MessageCircleAlertRegular",
+        "fileName": "MessageCircleAlertRegular"
+      },
+      "regular-duotone": {
+        "version": "8.4.0",
+        "componentName": "MessageCircleAlertRegularDuotone",
+        "fileName": "MessageCircleAlertRegularDuotone"
+      },
+      "bold": {
+        "version": "8.4.0",
+        "componentName": "MessageCircleAlertBold",
+        "fileName": "MessageCircleAlertBold"
+      },
+      "bold-duotone": {
+        "version": "8.4.0",
+        "componentName": "MessageCircleAlertBoldDuotone",
+        "fileName": "MessageCircleAlertBoldDuotone"
+      },
+      "fill": {
+        "version": "8.4.0",
+        "componentName": "MessageCircleAlertFill",
+        "fileName": "MessageCircleAlertFill"
+      },
+      "fill-duotone": {
+        "version": "8.4.0",
+        "componentName": "MessageCircleAlertFillDuotone",
+        "fileName": "MessageCircleAlertFillDuotone"
+      }
+    },
+    "versionLastModified": "8.4.0"
+  },
+  {
+    "name": "MessageCircleCheck",
+    "kebabName": "message-circle-check",
+    "componentName": "MessageCircleCheck",
+    "tags": [
+      "approved",
+      "check",
+      "comment",
+      "complete",
+      "confirmation",
+      "feedback",
+      "read",
+      "resolved",
+      "review",
+      "MessageCircleCheck",
+      "*new*"
+    ],
+    "versionAdded": "8.4.0",
+    "weights": [
+      "bold",
+      "fill",
+      "regular"
+    ],
+    "supportsDuotone": true,
+    "variants": {
+      "regular": {
+        "version": "8.4.0",
+        "componentName": "MessageCircleCheckRegular",
+        "fileName": "MessageCircleCheckRegular"
+      },
+      "regular-duotone": {
+        "version": "8.4.0",
+        "componentName": "MessageCircleCheckRegularDuotone",
+        "fileName": "MessageCircleCheckRegularDuotone"
+      },
+      "bold": {
+        "version": "8.4.0",
+        "componentName": "MessageCircleCheckBold",
+        "fileName": "MessageCircleCheckBold"
+      },
+      "bold-duotone": {
+        "version": "8.4.0",
+        "componentName": "MessageCircleCheckBoldDuotone",
+        "fileName": "MessageCircleCheckBoldDuotone"
+      },
+      "fill": {
+        "version": "8.4.0",
+        "componentName": "MessageCircleCheckFill",
+        "fileName": "MessageCircleCheckFill"
+      },
+      "fill-duotone": {
+        "version": "8.4.0",
+        "componentName": "MessageCircleCheckFillDuotone",
+        "fileName": "MessageCircleCheckFillDuotone"
+      }
+    },
+    "versionLastModified": "8.4.0"
+  },
+  {
+    "name": "MessageCircleDashed",
+    "kebabName": "message-circle-dashed",
+    "componentName": "MessageCircleDashed",
+    "tags": [
+      "bubble",
+      "chat",
+      "comment",
+      "communication",
+      "conversation",
+      "draft",
+      "incognito",
+      "message",
+      "private",
+      "reply",
+      "temporary",
+      "text",
+      "MessageCircleDashed",
+      "*new*"
+    ],
+    "versionAdded": "8.4.0",
+    "weights": [
+      "bold",
+      "fill",
+      "regular"
+    ],
+    "supportsDuotone": true,
+    "variants": {
+      "regular": {
+        "version": "8.4.0",
+        "componentName": "MessageCircleDashedRegular",
+        "fileName": "MessageCircleDashedRegular"
+      },
+      "regular-duotone": {
+        "version": "8.4.0",
+        "componentName": "MessageCircleDashedRegularDuotone",
+        "fileName": "MessageCircleDashedRegularDuotone"
+      },
+      "bold": {
+        "version": "8.4.0",
+        "componentName": "MessageCircleDashedBold",
+        "fileName": "MessageCircleDashedBold"
+      },
+      "bold-duotone": {
+        "version": "8.4.0",
+        "componentName": "MessageCircleDashedBoldDuotone",
+        "fileName": "MessageCircleDashedBoldDuotone"
+      },
+      "fill": {
+        "version": "8.4.0",
+        "componentName": "MessageCircleDashedFill",
+        "fileName": "MessageCircleDashedFill"
+      },
+      "fill-duotone": {
+        "version": "8.4.0",
+        "componentName": "MessageCircleDashedFillDuotone",
+        "fileName": "MessageCircleDashedFillDuotone"
+      }
+    },
+    "versionLastModified": "8.4.0"
+  },
+  {
+    "name": "MessageCircleDot",
+    "kebabName": "message-circle-dot",
+    "componentName": "MessageCircleDot",
+    "tags": [
+      "bubble",
+      "chat",
+      "comment",
+      "communication",
+      "conversation",
+      "message",
+      "new",
+      "notification",
+      "reply",
+      "text",
+      "unread",
+      "MessageCircleDot",
+      "*new*"
+    ],
+    "versionAdded": "8.4.0",
+    "weights": [
+      "bold",
+      "fill",
+      "regular"
+    ],
+    "supportsDuotone": true,
+    "variants": {
+      "regular": {
+        "version": "8.4.0",
+        "componentName": "MessageCircleDotRegular",
+        "fileName": "MessageCircleDotRegular"
+      },
+      "regular-duotone": {
+        "version": "8.4.0",
+        "componentName": "MessageCircleDotRegularDuotone",
+        "fileName": "MessageCircleDotRegularDuotone"
+      },
+      "bold": {
+        "version": "8.4.0",
+        "componentName": "MessageCircleDotBold",
+        "fileName": "MessageCircleDotBold"
+      },
+      "bold-duotone": {
+        "version": "8.4.0",
+        "componentName": "MessageCircleDotBoldDuotone",
+        "fileName": "MessageCircleDotBoldDuotone"
+      },
+      "fill": {
+        "version": "8.4.0",
+        "componentName": "MessageCircleDotFill",
+        "fileName": "MessageCircleDotFill"
+      },
+      "fill-duotone": {
+        "version": "8.4.0",
+        "componentName": "MessageCircleDotFillDuotone",
+        "fileName": "MessageCircleDotFillDuotone"
+      }
+    },
+    "versionLastModified": "8.4.0"
+  },
+  {
+    "name": "MessageCircleDots",
+    "kebabName": "message-circle-dots",
+    "componentName": "MessageCircleDots",
+    "tags": [
+      "bubble",
+      "chat",
+      "comment",
+      "communication",
+      "conversation",
+      "message",
+      "reply",
+      "text",
+      "MessageCircleDots",
+      "*new*"
+    ],
+    "versionAdded": "8.4.0",
+    "weights": [
+      "bold",
+      "fill",
+      "regular"
+    ],
+    "supportsDuotone": true,
+    "variants": {
+      "regular": {
+        "version": "8.4.0",
+        "componentName": "MessageCircleDotsRegular",
+        "fileName": "MessageCircleDotsRegular"
+      },
+      "regular-duotone": {
+        "version": "8.4.0",
+        "componentName": "MessageCircleDotsRegularDuotone",
+        "fileName": "MessageCircleDotsRegularDuotone"
+      },
+      "bold": {
+        "version": "8.4.0",
+        "componentName": "MessageCircleDotsBold",
+        "fileName": "MessageCircleDotsBold"
+      },
+      "bold-duotone": {
+        "version": "8.4.0",
+        "componentName": "MessageCircleDotsBoldDuotone",
+        "fileName": "MessageCircleDotsBoldDuotone"
+      },
+      "fill": {
+        "version": "8.4.0",
+        "componentName": "MessageCircleDotsFill",
+        "fileName": "MessageCircleDotsFill"
+      },
+      "fill-duotone": {
+        "version": "8.4.0",
+        "componentName": "MessageCircleDotsFillDuotone",
+        "fileName": "MessageCircleDotsFillDuotone"
+      }
+    },
+    "versionLastModified": "8.4.0"
+  },
+  {
+    "name": "MessageCircleOff",
+    "kebabName": "message-circle-off",
+    "componentName": "MessageCircleOff",
+    "tags": [
+      "blocked",
+      "chat",
+      "conversation",
+      "disable",
+      "message",
+      "mute",
+      "silence",
+      "MessageCircleOff",
+      "*new*"
+    ],
+    "versionAdded": "8.4.0",
+    "weights": [
+      "bold",
+      "fill",
+      "regular"
+    ],
+    "supportsDuotone": true,
+    "variants": {
+      "regular": {
+        "version": "8.4.0",
+        "componentName": "MessageCircleOffRegular",
+        "fileName": "MessageCircleOffRegular"
+      },
+      "regular-duotone": {
+        "version": "8.4.0",
+        "componentName": "MessageCircleOffRegularDuotone",
+        "fileName": "MessageCircleOffRegularDuotone"
+      },
+      "bold": {
+        "version": "8.4.0",
+        "componentName": "MessageCircleOffBold",
+        "fileName": "MessageCircleOffBold"
+      },
+      "bold-duotone": {
+        "version": "8.4.0",
+        "componentName": "MessageCircleOffBoldDuotone",
+        "fileName": "MessageCircleOffBoldDuotone"
+      },
+      "fill": {
+        "version": "8.4.0",
+        "componentName": "MessageCircleOffFill",
+        "fileName": "MessageCircleOffFill"
+      },
+      "fill-duotone": {
+        "version": "8.4.0",
+        "componentName": "MessageCircleOffFillDuotone",
+        "fileName": "MessageCircleOffFillDuotone"
+      }
+    },
+    "versionLastModified": "8.4.0"
+  },
+  {
+    "name": "MessageCirclePlus",
+    "kebabName": "message-circle-plus",
+    "componentName": "MessageCirclePlus",
+    "tags": [
+      "add",
+      "annotation",
+      "chat",
+      "comment",
+      "feedback",
+      "message",
+      "new",
+      "reply",
+      "MessageCirclePlus",
+      "*new*"
+    ],
+    "versionAdded": "8.4.0",
+    "weights": [
+      "bold",
+      "fill",
+      "regular"
+    ],
+    "supportsDuotone": true,
+    "variants": {
+      "regular": {
+        "version": "8.4.0",
+        "componentName": "MessageCirclePlusRegular",
+        "fileName": "MessageCirclePlusRegular"
+      },
+      "regular-duotone": {
+        "version": "8.4.0",
+        "componentName": "MessageCirclePlusRegularDuotone",
+        "fileName": "MessageCirclePlusRegularDuotone"
+      },
+      "bold": {
+        "version": "8.4.0",
+        "componentName": "MessageCirclePlusBold",
+        "fileName": "MessageCirclePlusBold"
+      },
+      "bold-duotone": {
+        "version": "8.4.0",
+        "componentName": "MessageCirclePlusBoldDuotone",
+        "fileName": "MessageCirclePlusBoldDuotone"
+      },
+      "fill": {
+        "version": "8.4.0",
+        "componentName": "MessageCirclePlusFill",
+        "fileName": "MessageCirclePlusFill"
+      },
+      "fill-duotone": {
+        "version": "8.4.0",
+        "componentName": "MessageCirclePlusFillDuotone",
+        "fileName": "MessageCirclePlusFillDuotone"
+      }
+    },
+    "versionLastModified": "8.4.0"
+  },
+  {
+    "name": "MessageCircleQuestion",
+    "kebabName": "message-circle-question",
+    "componentName": "MessageCircleQuestion",
+    "tags": [
+      "assistance",
+      "chat",
+      "faq",
+      "help",
+      "onboarding",
+      "question",
+      "support",
+      "tooltip",
+      "MessageCircleQuestion",
+      "*new*"
+    ],
+    "versionAdded": "8.4.0",
+    "weights": [
+      "bold",
+      "fill",
+      "regular"
+    ],
+    "supportsDuotone": true,
+    "variants": {
+      "regular": {
+        "version": "8.4.0",
+        "componentName": "MessageCircleQuestionRegular",
+        "fileName": "MessageCircleQuestionRegular"
+      },
+      "regular-duotone": {
+        "version": "8.4.0",
+        "componentName": "MessageCircleQuestionRegularDuotone",
+        "fileName": "MessageCircleQuestionRegularDuotone"
+      },
+      "bold": {
+        "version": "8.4.0",
+        "componentName": "MessageCircleQuestionBold",
+        "fileName": "MessageCircleQuestionBold"
+      },
+      "bold-duotone": {
+        "version": "8.4.0",
+        "componentName": "MessageCircleQuestionBoldDuotone",
+        "fileName": "MessageCircleQuestionBoldDuotone"
+      },
+      "fill": {
+        "version": "8.4.0",
+        "componentName": "MessageCircleQuestionFill",
+        "fileName": "MessageCircleQuestionFill"
+      },
+      "fill-duotone": {
+        "version": "8.4.0",
+        "componentName": "MessageCircleQuestionFillDuotone",
+        "fileName": "MessageCircleQuestionFillDuotone"
+      }
+    },
+    "versionLastModified": "8.4.0"
+  },
+  {
+    "name": "MessageCircleSparkle",
+    "kebabName": "message-circle-sparkle",
+    "componentName": "MessageCircleSparkle",
+    "tags": [
+      "ai",
+      "assistant",
+      "bot",
+      "chat",
+      "conversation",
+      "generate",
+      "magic",
+      "message",
+      "smart",
+      "sparkle",
+      "suggestion",
+      "MessageCircleSparkle",
+      "*new*"
+    ],
+    "versionAdded": "8.4.0",
+    "weights": [
+      "bold",
+      "fill",
+      "regular"
+    ],
+    "supportsDuotone": true,
+    "variants": {
+      "regular": {
+        "version": "8.4.0",
+        "componentName": "MessageCircleSparkleRegular",
+        "fileName": "MessageCircleSparkleRegular"
+      },
+      "regular-duotone": {
+        "version": "8.4.0",
+        "componentName": "MessageCircleSparkleRegularDuotone",
+        "fileName": "MessageCircleSparkleRegularDuotone"
+      },
+      "bold": {
+        "version": "8.4.0",
+        "componentName": "MessageCircleSparkleBold",
+        "fileName": "MessageCircleSparkleBold"
+      },
+      "bold-duotone": {
+        "version": "8.4.0",
+        "componentName": "MessageCircleSparkleBoldDuotone",
+        "fileName": "MessageCircleSparkleBoldDuotone"
+      },
+      "fill": {
+        "version": "8.4.0",
+        "componentName": "MessageCircleSparkleFill",
+        "fileName": "MessageCircleSparkleFill"
+      },
+      "fill-duotone": {
+        "version": "8.4.0",
+        "componentName": "MessageCircleSparkleFillDuotone",
+        "fileName": "MessageCircleSparkleFillDuotone"
+      }
+    },
+    "versionLastModified": "8.4.0"
+  },
+  {
+    "name": "MessageCircleText",
+    "kebabName": "message-circle-text",
+    "componentName": "MessageCircleText",
+    "tags": [
+      "bubble",
+      "chat",
+      "comment",
+      "communication",
+      "conversation",
+      "message",
+      "reply",
+      "text",
+      "MessageCircleText",
+      "*new*"
+    ],
+    "versionAdded": "8.4.0",
+    "weights": [
+      "bold",
+      "fill",
+      "regular"
+    ],
+    "supportsDuotone": true,
+    "variants": {
+      "regular": {
+        "version": "8.4.0",
+        "componentName": "MessageCircleTextRegular",
+        "fileName": "MessageCircleTextRegular"
+      },
+      "regular-duotone": {
+        "version": "8.4.0",
+        "componentName": "MessageCircleTextRegularDuotone",
+        "fileName": "MessageCircleTextRegularDuotone"
+      },
+      "bold": {
+        "version": "8.4.0",
+        "componentName": "MessageCircleTextBold",
+        "fileName": "MessageCircleTextBold"
+      },
+      "bold-duotone": {
+        "version": "8.4.0",
+        "componentName": "MessageCircleTextBoldDuotone",
+        "fileName": "MessageCircleTextBoldDuotone"
+      },
+      "fill": {
+        "version": "8.4.0",
+        "componentName": "MessageCircleTextFill",
+        "fileName": "MessageCircleTextFill"
+      },
+      "fill-duotone": {
+        "version": "8.4.0",
+        "componentName": "MessageCircleTextFillDuotone",
+        "fileName": "MessageCircleTextFillDuotone"
+      }
+    },
+    "versionLastModified": "8.4.0"
+  },
+  {
+    "name": "MessageMessages",
+    "kebabName": "message-messages",
+    "componentName": "MessageMessages",
+    "tags": [
+      "chat",
+      "comments",
+      "communication",
+      "conversation",
+      "discussion",
+      "inbox",
+      "messages",
+      "thread",
+      "MessageMessages",
+      "*new*"
+    ],
+    "versionAdded": "8.4.0",
+    "weights": [
+      "bold",
+      "fill",
+      "regular"
+    ],
+    "supportsDuotone": true,
+    "variants": {
+      "regular": {
+        "version": "8.4.0",
+        "componentName": "MessageMessagesRegular",
+        "fileName": "MessageMessagesRegular"
+      },
+      "regular-duotone": {
+        "version": "8.4.0",
+        "componentName": "MessageMessagesRegularDuotone",
+        "fileName": "MessageMessagesRegularDuotone"
+      },
+      "bold": {
+        "version": "8.4.0",
+        "componentName": "MessageMessagesBold",
+        "fileName": "MessageMessagesBold"
+      },
+      "bold-duotone": {
+        "version": "8.4.0",
+        "componentName": "MessageMessagesBoldDuotone",
+        "fileName": "MessageMessagesBoldDuotone"
+      },
+      "fill": {
+        "version": "8.4.0",
+        "componentName": "MessageMessagesFill",
+        "fileName": "MessageMessagesFill"
+      },
+      "fill-duotone": {
+        "version": "8.4.0",
+        "componentName": "MessageMessagesFillDuotone",
+        "fileName": "MessageMessagesFillDuotone"
+      }
+    },
+    "versionLastModified": "8.4.0"
+  },
+  {
+    "name": "MessageSquare",
+    "kebabName": "message-square",
+    "componentName": "MessageSquare",
+    "tags": [
+      "bubble",
+      "chat",
+      "comment",
+      "communication",
+      "conversation",
+      "message",
+      "reply",
+      "talk",
+      "MessageSquare",
+      "*new*"
+    ],
+    "versionAdded": "8.4.0",
+    "weights": [
+      "bold",
+      "fill",
+      "regular"
+    ],
+    "supportsDuotone": true,
+    "variants": {
+      "regular": {
+        "version": "8.4.0",
+        "componentName": "MessageSquareRegular",
+        "fileName": "MessageSquareRegular"
+      },
+      "regular-duotone": {
+        "version": "8.4.0",
+        "componentName": "MessageSquareRegularDuotone",
+        "fileName": "MessageSquareRegularDuotone"
+      },
+      "bold": {
+        "version": "8.4.0",
+        "componentName": "MessageSquareBold",
+        "fileName": "MessageSquareBold"
+      },
+      "bold-duotone": {
+        "version": "8.4.0",
+        "componentName": "MessageSquareBoldDuotone",
+        "fileName": "MessageSquareBoldDuotone"
+      },
+      "fill": {
+        "version": "8.4.0",
+        "componentName": "MessageSquareFill",
+        "fileName": "MessageSquareFill"
+      },
+      "fill-duotone": {
+        "version": "8.4.0",
+        "componentName": "MessageSquareFillDuotone",
+        "fileName": "MessageSquareFillDuotone"
+      }
+    },
+    "versionLastModified": "8.4.0"
+  },
+  {
+    "name": "MessageSquareAlert",
+    "kebabName": "message-square-alert",
+    "componentName": "MessageSquareAlert",
+    "tags": [
+      "alert",
+      "chat",
+      "comment",
+      "error",
+      "feedback",
+      "message",
+      "notification",
+      "warning",
+      "MessageSquareAlert",
+      "*new*"
+    ],
+    "versionAdded": "8.4.0",
+    "weights": [
+      "bold",
+      "fill",
+      "regular"
+    ],
+    "supportsDuotone": true,
+    "variants": {
+      "regular": {
+        "version": "8.4.0",
+        "componentName": "MessageSquareAlertRegular",
+        "fileName": "MessageSquareAlertRegular"
+      },
+      "regular-duotone": {
+        "version": "8.4.0",
+        "componentName": "MessageSquareAlertRegularDuotone",
+        "fileName": "MessageSquareAlertRegularDuotone"
+      },
+      "bold": {
+        "version": "8.4.0",
+        "componentName": "MessageSquareAlertBold",
+        "fileName": "MessageSquareAlertBold"
+      },
+      "bold-duotone": {
+        "version": "8.4.0",
+        "componentName": "MessageSquareAlertBoldDuotone",
+        "fileName": "MessageSquareAlertBoldDuotone"
+      },
+      "fill": {
+        "version": "8.4.0",
+        "componentName": "MessageSquareAlertFill",
+        "fileName": "MessageSquareAlertFill"
+      },
+      "fill-duotone": {
+        "version": "8.4.0",
+        "componentName": "MessageSquareAlertFillDuotone",
+        "fileName": "MessageSquareAlertFillDuotone"
+      }
+    },
+    "versionLastModified": "8.4.0"
+  },
+  {
+    "name": "MessageSquareCheck",
+    "kebabName": "message-square-check",
+    "componentName": "MessageSquareCheck",
+    "tags": [
+      "approved",
+      "check",
+      "comment",
+      "complete",
+      "confirmation",
+      "feedback",
+      "read",
+      "resolved",
+      "review",
+      "MessageSquareCheck",
+      "*new*"
+    ],
+    "versionAdded": "8.4.0",
+    "weights": [
+      "bold",
+      "fill",
+      "regular"
+    ],
+    "supportsDuotone": true,
+    "variants": {
+      "regular": {
+        "version": "8.4.0",
+        "componentName": "MessageSquareCheckRegular",
+        "fileName": "MessageSquareCheckRegular"
+      },
+      "regular-duotone": {
+        "version": "8.4.0",
+        "componentName": "MessageSquareCheckRegularDuotone",
+        "fileName": "MessageSquareCheckRegularDuotone"
+      },
+      "bold": {
+        "version": "8.4.0",
+        "componentName": "MessageSquareCheckBold",
+        "fileName": "MessageSquareCheckBold"
+      },
+      "bold-duotone": {
+        "version": "8.4.0",
+        "componentName": "MessageSquareCheckBoldDuotone",
+        "fileName": "MessageSquareCheckBoldDuotone"
+      },
+      "fill": {
+        "version": "8.4.0",
+        "componentName": "MessageSquareCheckFill",
+        "fileName": "MessageSquareCheckFill"
+      },
+      "fill-duotone": {
+        "version": "8.4.0",
+        "componentName": "MessageSquareCheckFillDuotone",
+        "fileName": "MessageSquareCheckFillDuotone"
+      }
+    },
+    "versionLastModified": "8.4.0"
+  },
+  {
+    "name": "MessageSquareDashed",
+    "kebabName": "message-square-dashed",
+    "componentName": "MessageSquareDashed",
+    "tags": [
+      "chat",
+      "comment",
+      "communication",
+      "conversation",
+      "draft",
+      "incognito",
+      "message",
+      "private",
+      "reply",
+      "talk",
+      "temporary",
+      "MessageSquareDashed",
+      "*new*"
+    ],
+    "versionAdded": "8.4.0",
+    "weights": [
+      "bold",
+      "fill",
+      "regular"
+    ],
+    "supportsDuotone": true,
+    "variants": {
+      "regular": {
+        "version": "8.4.0",
+        "componentName": "MessageSquareDashedRegular",
+        "fileName": "MessageSquareDashedRegular"
+      },
+      "regular-duotone": {
+        "version": "8.4.0",
+        "componentName": "MessageSquareDashedRegularDuotone",
+        "fileName": "MessageSquareDashedRegularDuotone"
+      },
+      "bold": {
+        "version": "8.4.0",
+        "componentName": "MessageSquareDashedBold",
+        "fileName": "MessageSquareDashedBold"
+      },
+      "bold-duotone": {
+        "version": "8.4.0",
+        "componentName": "MessageSquareDashedBoldDuotone",
+        "fileName": "MessageSquareDashedBoldDuotone"
+      },
+      "fill": {
+        "version": "8.4.0",
+        "componentName": "MessageSquareDashedFill",
+        "fileName": "MessageSquareDashedFill"
+      },
+      "fill-duotone": {
+        "version": "8.4.0",
+        "componentName": "MessageSquareDashedFillDuotone",
+        "fileName": "MessageSquareDashedFillDuotone"
+      }
+    },
+    "versionLastModified": "8.4.0"
+  },
+  {
+    "name": "MessageSquareDot",
+    "kebabName": "message-square-dot",
+    "componentName": "MessageSquareDot",
+    "tags": [
+      "bubble",
+      "chat",
+      "comment",
+      "communication",
+      "conversation",
+      "message",
+      "new",
+      "notification",
+      "reply",
+      "talk",
+      "unread",
+      "MessageSquareDot",
+      "*new*"
+    ],
+    "versionAdded": "8.4.0",
+    "weights": [
+      "bold",
+      "fill",
+      "regular"
+    ],
+    "supportsDuotone": true,
+    "variants": {
+      "regular": {
+        "version": "8.4.0",
+        "componentName": "MessageSquareDotRegular",
+        "fileName": "MessageSquareDotRegular"
+      },
+      "regular-duotone": {
+        "version": "8.4.0",
+        "componentName": "MessageSquareDotRegularDuotone",
+        "fileName": "MessageSquareDotRegularDuotone"
+      },
+      "bold": {
+        "version": "8.4.0",
+        "componentName": "MessageSquareDotBold",
+        "fileName": "MessageSquareDotBold"
+      },
+      "bold-duotone": {
+        "version": "8.4.0",
+        "componentName": "MessageSquareDotBoldDuotone",
+        "fileName": "MessageSquareDotBoldDuotone"
+      },
+      "fill": {
+        "version": "8.4.0",
+        "componentName": "MessageSquareDotFill",
+        "fileName": "MessageSquareDotFill"
+      },
+      "fill-duotone": {
+        "version": "8.4.0",
+        "componentName": "MessageSquareDotFillDuotone",
+        "fileName": "MessageSquareDotFillDuotone"
+      }
+    },
+    "versionLastModified": "8.4.0"
+  },
+  {
+    "name": "MessageSquareDots",
+    "kebabName": "message-square-dots",
+    "componentName": "MessageSquareDots",
+    "tags": [
+      "bubble",
+      "chat",
+      "comment",
+      "communication",
+      "conversation",
+      "message",
+      "reply",
+      "talk",
+      "MessageSquareDots",
+      "*new*"
+    ],
+    "versionAdded": "8.4.0",
+    "weights": [
+      "bold",
+      "fill",
+      "regular"
+    ],
+    "supportsDuotone": true,
+    "variants": {
+      "regular": {
+        "version": "8.4.0",
+        "componentName": "MessageSquareDotsRegular",
+        "fileName": "MessageSquareDotsRegular"
+      },
+      "regular-duotone": {
+        "version": "8.4.0",
+        "componentName": "MessageSquareDotsRegularDuotone",
+        "fileName": "MessageSquareDotsRegularDuotone"
+      },
+      "bold": {
+        "version": "8.4.0",
+        "componentName": "MessageSquareDotsBold",
+        "fileName": "MessageSquareDotsBold"
+      },
+      "bold-duotone": {
+        "version": "8.4.0",
+        "componentName": "MessageSquareDotsBoldDuotone",
+        "fileName": "MessageSquareDotsBoldDuotone"
+      },
+      "fill": {
+        "version": "8.4.0",
+        "componentName": "MessageSquareDotsFill",
+        "fileName": "MessageSquareDotsFill"
+      },
+      "fill-duotone": {
+        "version": "8.4.0",
+        "componentName": "MessageSquareDotsFillDuotone",
+        "fileName": "MessageSquareDotsFillDuotone"
+      }
+    },
+    "versionLastModified": "8.4.0"
+  },
+  {
+    "name": "MessageSquareOff",
+    "kebabName": "message-square-off",
+    "componentName": "MessageSquareOff",
+    "tags": [
+      "blocked",
+      "chat",
+      "conversation",
+      "disable",
+      "message",
+      "mute",
+      "silence",
+      "MessageSquareOff",
+      "*new*"
+    ],
+    "versionAdded": "8.4.0",
+    "weights": [
+      "bold",
+      "fill",
+      "regular"
+    ],
+    "supportsDuotone": true,
+    "variants": {
+      "regular": {
+        "version": "8.4.0",
+        "componentName": "MessageSquareOffRegular",
+        "fileName": "MessageSquareOffRegular"
+      },
+      "regular-duotone": {
+        "version": "8.4.0",
+        "componentName": "MessageSquareOffRegularDuotone",
+        "fileName": "MessageSquareOffRegularDuotone"
+      },
+      "bold": {
+        "version": "8.4.0",
+        "componentName": "MessageSquareOffBold",
+        "fileName": "MessageSquareOffBold"
+      },
+      "bold-duotone": {
+        "version": "8.4.0",
+        "componentName": "MessageSquareOffBoldDuotone",
+        "fileName": "MessageSquareOffBoldDuotone"
+      },
+      "fill": {
+        "version": "8.4.0",
+        "componentName": "MessageSquareOffFill",
+        "fileName": "MessageSquareOffFill"
+      },
+      "fill-duotone": {
+        "version": "8.4.0",
+        "componentName": "MessageSquareOffFillDuotone",
+        "fileName": "MessageSquareOffFillDuotone"
+      }
+    },
+    "versionLastModified": "8.4.0"
+  },
+  {
+    "name": "MessageSquarePlus",
+    "kebabName": "message-square-plus",
+    "componentName": "MessageSquarePlus",
+    "tags": [
+      "add",
+      "annotation",
+      "chat",
+      "comment",
+      "feedback",
+      "message",
+      "new",
+      "reply",
+      "MessageSquarePlus",
+      "*new*"
+    ],
+    "versionAdded": "8.4.0",
+    "weights": [
+      "bold",
+      "fill",
+      "regular"
+    ],
+    "supportsDuotone": true,
+    "variants": {
+      "regular": {
+        "version": "8.4.0",
+        "componentName": "MessageSquarePlusRegular",
+        "fileName": "MessageSquarePlusRegular"
+      },
+      "regular-duotone": {
+        "version": "8.4.0",
+        "componentName": "MessageSquarePlusRegularDuotone",
+        "fileName": "MessageSquarePlusRegularDuotone"
+      },
+      "bold": {
+        "version": "8.4.0",
+        "componentName": "MessageSquarePlusBold",
+        "fileName": "MessageSquarePlusBold"
+      },
+      "bold-duotone": {
+        "version": "8.4.0",
+        "componentName": "MessageSquarePlusBoldDuotone",
+        "fileName": "MessageSquarePlusBoldDuotone"
+      },
+      "fill": {
+        "version": "8.4.0",
+        "componentName": "MessageSquarePlusFill",
+        "fileName": "MessageSquarePlusFill"
+      },
+      "fill-duotone": {
+        "version": "8.4.0",
+        "componentName": "MessageSquarePlusFillDuotone",
+        "fileName": "MessageSquarePlusFillDuotone"
+      }
+    },
+    "versionLastModified": "8.4.0"
+  },
+  {
+    "name": "MessageSquareQuestion",
+    "kebabName": "message-square-question",
+    "componentName": "MessageSquareQuestion",
+    "tags": [
+      "assistance",
+      "chat",
+      "faq",
+      "help",
+      "onboarding",
+      "question",
+      "support",
+      "tooltip",
+      "MessageSquareQuestion",
+      "*new*"
+    ],
+    "versionAdded": "8.4.0",
+    "weights": [
+      "bold",
+      "fill",
+      "regular"
+    ],
+    "supportsDuotone": true,
+    "variants": {
+      "regular": {
+        "version": "8.4.0",
+        "componentName": "MessageSquareQuestionRegular",
+        "fileName": "MessageSquareQuestionRegular"
+      },
+      "regular-duotone": {
+        "version": "8.4.0",
+        "componentName": "MessageSquareQuestionRegularDuotone",
+        "fileName": "MessageSquareQuestionRegularDuotone"
+      },
+      "bold": {
+        "version": "8.4.0",
+        "componentName": "MessageSquareQuestionBold",
+        "fileName": "MessageSquareQuestionBold"
+      },
+      "bold-duotone": {
+        "version": "8.4.0",
+        "componentName": "MessageSquareQuestionBoldDuotone",
+        "fileName": "MessageSquareQuestionBoldDuotone"
+      },
+      "fill": {
+        "version": "8.4.0",
+        "componentName": "MessageSquareQuestionFill",
+        "fileName": "MessageSquareQuestionFill"
+      },
+      "fill-duotone": {
+        "version": "8.4.0",
+        "componentName": "MessageSquareQuestionFillDuotone",
+        "fileName": "MessageSquareQuestionFillDuotone"
+      }
+    },
+    "versionLastModified": "8.4.0"
+  },
+  {
+    "name": "MessageSquareSparkle",
+    "kebabName": "message-square-sparkle",
+    "componentName": "MessageSquareSparkle",
+    "tags": [
+      "ai",
+      "assistant",
+      "bot",
+      "chat",
+      "conversation",
+      "generate",
+      "magic",
+      "message",
+      "smart",
+      "sparkle",
+      "suggestion",
+      "MessageSquareSparkle",
+      "*new*"
+    ],
+    "versionAdded": "8.4.0",
+    "weights": [
+      "bold",
+      "fill",
+      "regular"
+    ],
+    "supportsDuotone": true,
+    "variants": {
+      "regular": {
+        "version": "8.4.0",
+        "componentName": "MessageSquareSparkleRegular",
+        "fileName": "MessageSquareSparkleRegular"
+      },
+      "regular-duotone": {
+        "version": "8.4.0",
+        "componentName": "MessageSquareSparkleRegularDuotone",
+        "fileName": "MessageSquareSparkleRegularDuotone"
+      },
+      "bold": {
+        "version": "8.4.0",
+        "componentName": "MessageSquareSparkleBold",
+        "fileName": "MessageSquareSparkleBold"
+      },
+      "bold-duotone": {
+        "version": "8.4.0",
+        "componentName": "MessageSquareSparkleBoldDuotone",
+        "fileName": "MessageSquareSparkleBoldDuotone"
+      },
+      "fill": {
+        "version": "8.4.0",
+        "componentName": "MessageSquareSparkleFill",
+        "fileName": "MessageSquareSparkleFill"
+      },
+      "fill-duotone": {
+        "version": "8.4.0",
+        "componentName": "MessageSquareSparkleFillDuotone",
+        "fileName": "MessageSquareSparkleFillDuotone"
+      }
+    },
+    "versionLastModified": "8.4.0"
+  },
+  {
+    "name": "MessageSquareText",
+    "kebabName": "message-square-text",
+    "componentName": "MessageSquareText",
+    "tags": [
+      "bubble",
+      "chat",
+      "comment",
+      "communication",
+      "conversation",
+      "message",
+      "reply",
+      "talk",
+      "MessageSquareText",
+      "*new*"
+    ],
+    "versionAdded": "8.4.0",
+    "weights": [
+      "bold",
+      "fill",
+      "regular"
+    ],
+    "supportsDuotone": true,
+    "variants": {
+      "regular": {
+        "version": "8.4.0",
+        "componentName": "MessageSquareTextRegular",
+        "fileName": "MessageSquareTextRegular"
+      },
+      "regular-duotone": {
+        "version": "8.4.0",
+        "componentName": "MessageSquareTextRegularDuotone",
+        "fileName": "MessageSquareTextRegularDuotone"
+      },
+      "bold": {
+        "version": "8.4.0",
+        "componentName": "MessageSquareTextBold",
+        "fileName": "MessageSquareTextBold"
+      },
+      "bold-duotone": {
+        "version": "8.4.0",
+        "componentName": "MessageSquareTextBoldDuotone",
+        "fileName": "MessageSquareTextBoldDuotone"
+      },
+      "fill": {
+        "version": "8.4.0",
+        "componentName": "MessageSquareTextFill",
+        "fileName": "MessageSquareTextFill"
+      },
+      "fill-duotone": {
+        "version": "8.4.0",
+        "componentName": "MessageSquareTextFillDuotone",
+        "fileName": "MessageSquareTextFillDuotone"
+      }
+    },
+    "versionLastModified": "8.4.0"
+  },
+  {
     "name": "Mic",
     "kebabName": "mic",
     "componentName": "Mic",
@@ -29660,8 +29624,7 @@
       "speech",
       "talk",
       "voice",
-      "Mic",
-      "*updated*"
+      "Mic"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -29822,18 +29785,20 @@
     "kebabName": "milestone",
     "componentName": "Milestone",
     "tags": [
-      "catalog",
-      "content list",
-      "feed",
-      "grid list",
-      "items",
-      "layout",
-      "list",
-      "media list",
-      "preview",
-      "rows",
-      "thumbnail",
-      "Milestone"
+      "destination",
+      "direction",
+      "guide",
+      "location",
+      "map",
+      "milestone",
+      "navigate",
+      "pointer",
+      "right",
+      "route",
+      "signpost",
+      "wayfinding",
+      "Milestone",
+      "*updated*"
     ],
     "versionAdded": "8.1.0",
     "weights": [
@@ -29874,7 +29839,7 @@
         "fileName": "MilestoneFillDuotone"
       }
     },
-    "versionLastModified": "8.1.0"
+    "versionLastModified": "8.4.0"
   },
   {
     "name": "Minimize",
@@ -30168,8 +30133,7 @@
       "night",
       "rest",
       "sleep",
-      "MoonStar",
-      "*updated*"
+      "MoonStar"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -30845,8 +30809,7 @@
       "reading",
       "record",
       "reference",
-      "Notebook",
-      "*updated*"
+      "Notebook"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -31964,8 +31927,7 @@
       "pencil",
       "update",
       "write",
-      "Pen",
-      "*updated*"
+      "Pen"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -32021,8 +31983,7 @@
       "signature",
       "sketch",
       "write",
-      "PenNib",
-      "*updated*"
+      "PenNib"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -32079,8 +32040,7 @@
       "pencil",
       "update",
       "write",
-      "Pencil",
-      "*updated*"
+      "Pencil"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -32137,8 +32097,7 @@
       "pencil",
       "update",
       "write",
-      "PencilLine",
-      "*updated*"
+      "PencilLine"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -32252,8 +32211,7 @@
       "stationary",
       "update",
       "write",
-      "PencilTip",
-      "*updated*"
+      "PencilTip"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -32309,8 +32267,7 @@
       "rate",
       "ratio",
       "sale",
-      "Percent",
-      "*updated*"
+      "Percent"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -32366,8 +32323,7 @@
       "rate",
       "ratio",
       "sale",
-      "PercentCircle",
-      "*updated*"
+      "PercentCircle"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -32423,8 +32379,7 @@
       "rate",
       "ratio",
       "sale",
-      "PercentSquare",
-      "*updated*"
+      "PercentSquare"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -32479,8 +32434,7 @@
       "hotline",
       "phone",
       "support",
-      "Phone",
-      "*updated*"
+      "Phone"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -32534,8 +32488,7 @@
       "phone-incoming",
       "pickup",
       "receive-call",
-      "PhoneIncoming",
-      "*updated*"
+      "PhoneIncoming"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -32631,7 +32584,7 @@
         "fileName": "PhoneOffFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.4.0"
   },
   {
     "name": "PhoneOutgoing",
@@ -32644,8 +32597,7 @@
       "phone-outgoing",
       "place-call",
       "send-call",
-      "PhoneOutgoing",
-      "*updated*"
+      "PhoneOutgoing"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -32700,8 +32652,7 @@
       "snack",
       "sweet",
       "treat",
-      "Pie",
-      "*updated*"
+      "Pie"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -32811,8 +32762,7 @@
       "eyedropper",
       "pick color",
       "sample color",
-      "Pipette",
-      "*updated*"
+      "Pipette"
     ],
     "versionAdded": "8.1.0",
     "weights": [
@@ -32867,8 +32817,7 @@
       "resume",
       "start",
       "video",
-      "Play",
-      "*updated*"
+      "Play"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -33089,8 +33038,7 @@
       "plug",
       "power",
       "socket",
-      "Plug",
-      "*updated*"
+      "Plug"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -33313,8 +33261,7 @@
       "north-star",
       "polestar",
       "principle",
-      "Polaris",
-      "*updated*"
+      "Polaris"
     ],
     "versionAdded": "8.2.0",
     "weights": [
@@ -33370,8 +33317,7 @@
       "payment",
       "pound",
       "price",
-      "PoundSterling",
-      "*updated*"
+      "PoundSterling"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -33427,8 +33373,7 @@
       "payment",
       "pound",
       "price",
-      "PoundSterlingCircle",
-      "*updated*"
+      "PoundSterlingCircle"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -33470,6 +33415,66 @@
       }
     },
     "versionLastModified": "8.3.0"
+  },
+  {
+    "name": "Power",
+    "kebabName": "power",
+    "componentName": "Power",
+    "tags": [
+      "boot",
+      "energy",
+      "off",
+      "on",
+      "power",
+      "restart",
+      "shutdown",
+      "standby",
+      "start",
+      "stop",
+      "toggle",
+      "Power",
+      "*new*"
+    ],
+    "versionAdded": "8.4.0",
+    "weights": [
+      "bold",
+      "fill",
+      "regular"
+    ],
+    "supportsDuotone": true,
+    "variants": {
+      "regular": {
+        "version": "8.4.0",
+        "componentName": "PowerRegular",
+        "fileName": "PowerRegular"
+      },
+      "regular-duotone": {
+        "version": "8.4.0",
+        "componentName": "PowerRegularDuotone",
+        "fileName": "PowerRegularDuotone"
+      },
+      "bold": {
+        "version": "8.4.0",
+        "componentName": "PowerBold",
+        "fileName": "PowerBold"
+      },
+      "bold-duotone": {
+        "version": "8.4.0",
+        "componentName": "PowerBoldDuotone",
+        "fileName": "PowerBoldDuotone"
+      },
+      "fill": {
+        "version": "8.4.0",
+        "componentName": "PowerFill",
+        "fileName": "PowerFill"
+      },
+      "fill-duotone": {
+        "version": "8.4.0",
+        "componentName": "PowerFillDuotone",
+        "fileName": "PowerFillDuotone"
+      }
+    },
+    "versionLastModified": "8.4.0"
   },
   {
     "name": "PushPin",
@@ -33544,8 +33549,7 @@
       "reminder",
       "save",
       "thumbtack",
-      "PushPinAlt",
-      "*updated*"
+      "PushPinAlt"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -33657,8 +33661,7 @@
       "question",
       "support",
       "unknown",
-      "QuestionMark",
-      "*updated*"
+      "QuestionMark"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -33713,8 +33716,7 @@
       "question",
       "support",
       "unknown",
-      "QuestionMarkCircle",
-      "*updated*"
+      "QuestionMarkCircle"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -33870,6 +33872,66 @@
     "versionLastModified": "8.1.0"
   },
   {
+    "name": "Radar",
+    "kebabName": "radar",
+    "componentName": "Radar",
+    "tags": [
+      "coverage",
+      "detect",
+      "location",
+      "ping",
+      "radar",
+      "range",
+      "scan",
+      "signal",
+      "sweep",
+      "target",
+      "tracking",
+      "Radar",
+      "*new*"
+    ],
+    "versionAdded": "8.4.0",
+    "weights": [
+      "bold",
+      "fill",
+      "regular"
+    ],
+    "supportsDuotone": true,
+    "variants": {
+      "regular": {
+        "version": "8.4.0",
+        "componentName": "RadarRegular",
+        "fileName": "RadarRegular"
+      },
+      "regular-duotone": {
+        "version": "8.4.0",
+        "componentName": "RadarRegularDuotone",
+        "fileName": "RadarRegularDuotone"
+      },
+      "bold": {
+        "version": "8.4.0",
+        "componentName": "RadarBold",
+        "fileName": "RadarBold"
+      },
+      "bold-duotone": {
+        "version": "8.4.0",
+        "componentName": "RadarBoldDuotone",
+        "fileName": "RadarBoldDuotone"
+      },
+      "fill": {
+        "version": "8.4.0",
+        "componentName": "RadarFill",
+        "fileName": "RadarFill"
+      },
+      "fill-duotone": {
+        "version": "8.4.0",
+        "componentName": "RadarFillDuotone",
+        "fileName": "RadarFillDuotone"
+      }
+    },
+    "versionLastModified": "8.4.0"
+  },
+  {
     "name": "Receipt",
     "kebabName": "receipt",
     "componentName": "Receipt",
@@ -33882,8 +33944,7 @@
       "purchase",
       "receipt",
       "transaction",
-      "Receipt",
-      "*updated*"
+      "Receipt"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -33939,8 +34000,7 @@
       "purchase",
       "receipt",
       "transaction",
-      "ReceiptAlt",
-      "*updated*"
+      "ReceiptAlt"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -34168,8 +34228,7 @@
       "message",
       "reply",
       "respond",
-      "Reply",
-      "*updated*"
+      "Reply"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -34230,8 +34289,7 @@
       "seek",
       "skip",
       "video",
-      "Rewind",
-      "*updated*"
+      "Rewind"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -34402,8 +34460,7 @@
       "speed",
       "startup",
       "upgrade",
-      "Rocket",
-      "*updated*"
+      "Rocket"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -34458,8 +34515,7 @@
       "rotate",
       "rotate-left",
       "undo",
-      "RotateCircleLeft",
-      "*updated*"
+      "RotateCircleLeft"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -34626,8 +34682,7 @@
       "reset",
       "rotate",
       "rotate-right",
-      "RotateRight",
-      "*updated*"
+      "RotateRight"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -34683,8 +34738,7 @@
       "rotate",
       "sync",
       "update",
-      "RotationLeft",
-      "*updated*"
+      "RotationLeft"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -34740,8 +34794,7 @@
       "rotate",
       "synchronize",
       "update",
-      "RotationRight",
-      "*updated*"
+      "RotationRight"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -34974,8 +35027,7 @@
       "storage",
       "transfer",
       "ui",
-      "Save",
-      "*updated*"
+      "Save"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -35204,8 +35256,7 @@
       "success",
       "validate",
       "verify",
-      "ScanCheck",
-      "*updated*"
+      "ScanCheck"
     ],
     "versionAdded": "8.2.0",
     "weights": [
@@ -35262,8 +35313,7 @@
       "product",
       "qr",
       "scan",
-      "ScanCube",
-      "*updated*"
+      "ScanCube"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -35431,8 +35481,7 @@
       "view",
       "visibility",
       "vision",
-      "ScanEye",
-      "*updated*"
+      "ScanEye"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -35822,8 +35871,7 @@
       "setup",
       "support",
       "tools",
-      "Screwdriver",
-      "*updated*"
+      "Screwdriver"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -35880,8 +35928,7 @@
       "pen",
       "signature",
       "sketch",
-      "Scribble",
-      "*updated*"
+      "Scribble"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -36445,8 +36492,7 @@
       "send",
       "share",
       "submit",
-      "Send",
-      "*updated*"
+      "Send"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -36502,8 +36548,7 @@
       "send",
       "share",
       "submit",
-      "SendH",
-      "*updated*"
+      "SendH"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -36559,8 +36604,7 @@
       "send",
       "share",
       "submit",
-      "SendV",
-      "*updated*"
+      "SendV"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -36730,8 +36774,7 @@
       "share",
       "share-out",
       "upload",
-      "Share",
-      "*updated*"
+      "Share"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -36785,8 +36828,7 @@
       "protection",
       "safe",
       "security",
-      "Shield",
-      "*updated*"
+      "Shield"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -36841,8 +36883,7 @@
       "shield",
       "unsafe",
       "warning",
-      "ShieldAlert",
-      "*updated*"
+      "ShieldAlert"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -36898,8 +36939,7 @@
       "safe",
       "security",
       "unsecured",
-      "ShieldBan",
-      "*updated*"
+      "ShieldBan"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -36997,7 +37037,7 @@
         "fileName": "ShieldCheckFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.4.0"
   },
   {
     "name": "ShieldHalf",
@@ -37052,7 +37092,7 @@
         "fileName": "ShieldHalfFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.4.0"
   },
   {
     "name": "ShieldSlash",
@@ -37107,7 +37147,7 @@
         "fileName": "ShieldSlashFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.4.0"
   },
   {
     "name": "Shuffle",
@@ -37183,7 +37223,8 @@
       "split view",
       "toggle",
       "ui",
-      "SidebarLeft"
+      "SidebarLeft",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -37224,7 +37265,7 @@
         "fileName": "SidebarLeftFillDuotone"
       }
     },
-    "versionLastModified": "8.1.0"
+    "versionLastModified": "8.4.0"
   },
   {
     "name": "SidebarRight",
@@ -37243,7 +37284,8 @@
       "split view",
       "toggle",
       "ui",
-      "SidebarRight"
+      "SidebarRight",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -37284,7 +37326,7 @@
         "fileName": "SidebarRightFillDuotone"
       }
     },
-    "versionLastModified": "8.1.0"
+    "versionLastModified": "8.4.0"
   },
   {
     "name": "SignIn",
@@ -37994,8 +38036,7 @@
       "pen",
       "signature",
       "sketch",
-      "SignatureX",
-      "*updated*"
+      "SignatureX"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -38054,8 +38095,7 @@
       "skip",
       "track",
       "video",
-      "SkipBack",
-      "*updated*"
+      "SkipBack"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -38168,8 +38208,7 @@
       "path",
       "separator",
       "symbol",
-      "Slash",
-      "*updated*"
+      "Slash"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -38406,8 +38445,7 @@
       "temperature",
       "weather",
       "winter",
-      "Snowflake",
-      "*updated*"
+      "Snowflake"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -38630,8 +38668,7 @@
       "rank",
       "sort",
       "wide-first",
-      "SortAscending",
-      "*updated*"
+      "SortAscending"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -38912,8 +38949,7 @@
       "sparkle",
       "special",
       "star",
-      "SparkleSquare",
-      "*updated*"
+      "SparkleSquare"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -39542,8 +39578,7 @@
       "redirect",
       "share",
       "url",
-      "SquareArrowOutUpRight",
-      "*updated*"
+      "SquareArrowOutUpRight"
     ],
     "versionAdded": "8.2.0",
     "weights": [
@@ -39823,8 +39858,7 @@
       "rating",
       "save",
       "star",
-      "Star",
-      "*updated*"
+      "Star"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -39876,8 +39910,7 @@
       "partial",
       "rating",
       "star",
-      "StarHalf",
-      "*updated*"
+      "StarHalf"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -40047,8 +40080,7 @@
       "sale",
       "shop",
       "storefront",
-      "Store",
-      "*updated*"
+      "Store"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -40329,8 +40361,7 @@
       "tally",
       "total",
       "tracking",
-      "TallyMarks",
-      "*updated*"
+      "TallyMarks"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -41225,8 +41256,7 @@
       "magic",
       "sparkle",
       "writing",
-      "TextSparkle",
-      "*updated*"
+      "TextSparkle"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -41611,8 +41641,7 @@
       "negative",
       "reject",
       "thumbs-down",
-      "ThumbsDown",
-      "*updated*"
+      "ThumbsDown"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -41778,8 +41807,7 @@
       "stopwatch",
       "time",
       "timer",
-      "Timer",
-      "*updated*"
+      "Timer"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -42345,8 +42373,7 @@
       "summer",
       "tropical",
       "vacation",
-      "TreePalm",
-      "*updated*"
+      "TreePalm"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -42403,8 +42430,7 @@
       "loss",
       "performance",
       "statistics",
-      "TrendDown",
-      "*updated*"
+      "TrendDown"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -42461,8 +42487,7 @@
       "statistics",
       "success",
       "up",
-      "TrendUp",
-      "*updated*"
+      "TrendUp"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -42520,8 +42545,7 @@
       "triangle",
       "up",
       "warning",
-      "Triangle",
-      "*updated*"
+      "Triangle"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -42579,8 +42603,7 @@
       "symbol",
       "three sides",
       "triangle",
-      "TriangleDown",
-      "*updated*"
+      "TriangleDown"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -42636,8 +42659,7 @@
       "recognition",
       "success",
       "winner",
-      "Trophy",
-      "*updated*"
+      "Trophy"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -42750,8 +42772,7 @@
       "streaming",
       "tv",
       "video",
-      "Tv",
-      "*updated*"
+      "Tv"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -42806,8 +42827,7 @@
       "tv",
       "video",
       "watch",
-      "TvPlayAlt",
-      "*updated*"
+      "TvPlayAlt"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -42917,8 +42937,7 @@
       "share",
       "submit",
       "upload",
-      "Upload",
-      "*updated*"
+      "Upload"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -42973,8 +42992,7 @@
       "person",
       "profile",
       "user",
-      "User",
-      "*updated*"
+      "User"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -43031,8 +43049,7 @@
       "profile",
       "remove",
       "user",
-      "UserBan",
-      "*updated*"
+      "UserBan"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -43203,7 +43220,7 @@
       "profile",
       "user",
       "UserList",
-      "*new*"
+      "*updated*"
     ],
     "versionAdded": "8.3.0",
     "weights": [
@@ -43244,7 +43261,7 @@
         "fileName": "UserListFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.4.0"
   },
   {
     "name": "UserLock",
@@ -43370,6 +43387,7 @@
       "add",
       "avatar",
       "contact",
+      "invite",
       "member",
       "person",
       "plus",
@@ -43434,7 +43452,7 @@
       "update",
       "user",
       "UserRefresh",
-      "*new*"
+      "*updated*"
     ],
     "versionAdded": "8.3.0",
     "weights": [
@@ -43475,7 +43493,7 @@
         "fileName": "UserRefreshFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.4.0"
   },
   {
     "name": "UserSettings",
@@ -43772,8 +43790,7 @@
       "mute",
       "off",
       "video",
-      "VideoOff",
-      "*updated*"
+      "VideoOff"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -43885,8 +43902,7 @@
       "spell",
       "tool",
       "wand",
-      "Wand",
-      "*updated*"
+      "Wand"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -43941,8 +43957,7 @@
       "logistics",
       "shipping",
       "storage",
-      "Warehouse",
-      "*updated*"
+      "Warehouse"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -43998,8 +44013,7 @@
       "sine",
       "sound",
       "wave",
-      "WaveSine",
-      "*updated*"
+      "WaveSine"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -44111,8 +44125,7 @@
       "sound",
       "triangle",
       "wave",
-      "WaveTriangle",
-      "*updated*"
+      "WaveTriangle"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -44167,8 +44180,7 @@
       "signal",
       "wifi",
       "wireless",
-      "Wifi",
-      "*updated*"
+      "Wifi"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -44223,8 +44235,7 @@
       "no-signal",
       "offline",
       "wifi",
-      "WifiSlash",
-      "*updated*"
+      "WifiSlash"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -44449,8 +44460,7 @@
       "setup",
       "support",
       "tools",
-      "Wrench",
-      "*updated*"
+      "Wrench"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -44561,8 +44571,7 @@
       "exit",
       "remove",
       "stop",
-      "X",
-      "*updated*"
+      "X"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -44617,8 +44626,7 @@
       "exit",
       "remove",
       "stop",
-      "XCircle",
-      "*updated*"
+      "XCircle"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -44673,8 +44681,7 @@
       "exit",
       "remove",
       "stop",
-      "XSquare",
-      "*updated*"
+      "XSquare"
     ],
     "versionAdded": "6.2.1",
     "weights": [

@@ -59,7 +59,7 @@ src/data/
 
 ## Best Practices
 
-1. **Always regenerate after package updates**: `npm run generate-icons`
+1. **Always regenerate after package updates**: `pnpm run generate-icons`
 2. **Don't manually edit icon data files**: Use the generation script
 3. **Check for warnings**: Pay attention to console output during generation
 4. **Test after changes**: Verify icons load correctly in the application
