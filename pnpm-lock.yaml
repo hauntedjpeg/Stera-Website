@@ -27,8 +27,8 @@ importers:
         specifier: 19.2.6
         version: 19.2.6(react@19.2.6)
       stera-icons:
-        specifier: 8.4.0
-        version: 8.4.0(react@19.2.6)
+        specifier: 8.5.0
+        version: 8.5.0(react@19.2.6)
     devDependencies:
       '@tailwindcss/postcss':
         specifier: ^4.3.0
@@ -1833,8 +1833,8 @@ packages:
   stable-hash@0.0.5:
     resolution: {integrity: sha512-+L3ccpzibovGXFK+Ap/f8LOS0ahMrHTf3xu7mMLSpEGU0EO9ucaysSylKo9eRDFNhWve/y275iPmIZ4z39a9iA==}
 
-  stera-icons@8.4.0:
-    resolution: {integrity: sha512-hzF+q4+ZWnlmR/bDofZzB8V3QCb4CRPQKOusMP9bfkEaodBnqJsyLKYMvyBSml4Vndtk0alyKbLJTvnj8Wrxhw==}
+  stera-icons@8.5.0:
+    resolution: {integrity: sha512-mO1RczotMm9hwhQYrUtqG2tWCLBfHYPKcTNpeikcv4WrwBA7YOhEDW3GG7cHEJ0dyTN80RF53K8dLvHKtXaq+Q==}
     engines: {node: '>=18.0.0'}
     peerDependencies:
       react: '>=17.0.2'
@@ -3905,7 +3905,7 @@ snapshots:
 
   stable-hash@0.0.5: {}
 
-  stera-icons@8.4.0(react@19.2.6):
+  stera-icons@8.5.0(react@19.2.6):
     dependencies:
       react: 19.2.6
 

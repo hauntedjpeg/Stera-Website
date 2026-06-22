@@ -12,44 +12,30 @@ import DuotoneToggle from './DuotoneToggle';
 import CodeSection from './CodeSection';
 
 interface IconDetailModalProps {
-  icon: IconData | null;
-  isOpen: boolean;
+  icon: IconData;
   onClose: () => void;
   weight?: IconWeight;
   duotone?: boolean;
 }
 
-export default function IconDetailModal({ 
-  icon, 
-  isOpen, 
-  onClose, 
-  weight: initialWeight = 'regular', 
-  duotone: initialDuotone = false 
+export default function IconDetailModal({
+  icon,
+  onClose,
+  weight: initialWeight = 'regular',
+  duotone: initialDuotone = false
 }: IconDetailModalProps) {
   const { copied, copyToClipboard } = useCopyToClipboard();
   const [iconSize] = useState(64);
   const [currentWeight, setCurrentWeight] = useState<IconWeight>(initialWeight);
   const [currentDuotone, setCurrentDuotone] = useState<boolean>(initialDuotone);
 
-  // Lock body scroll when modal is open
+  // Lock body scroll while mounted
   useEffect(() => {
-    if (isOpen) {
-      document.body.style.overflow = 'hidden';
-    } else {
-      document.body.style.overflow = 'unset';
-    }
+    document.body.style.overflow = 'hidden';
     return () => {
       document.body.style.overflow = 'unset';
     };
-  }, [isOpen]);
-
-  // Sync local state when props change
-  useEffect(() => {
-    setCurrentWeight(initialWeight);
-    setCurrentDuotone(initialDuotone);
-  }, [initialWeight, initialDuotone]);
-
-  if (!icon || !isOpen) return null;
+  }, []);
 
   // Derive names and code snippets
   const names = getIconNames(icon, currentWeight, currentDuotone);

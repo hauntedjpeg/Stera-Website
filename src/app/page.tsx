@@ -11,43 +11,21 @@ import IconDetailModal from '@/components/IconDetailModal';
 import { AsteriskAlt, Scribble, InfoCircle } from 'stera-icons';
 import iconData from '@/data/icons.json';
 
+const icons = iconData as IconData[];
+
 function HomeContent() {
   const router = useRouter();
   const searchParams = useSearchParams();
-  const [icons, setIcons] = useState<IconData[]>([]);
-  const [loading, setLoading] = useState(true);
   const [searchTerm, setSearchTerm] = useState('');
   const [selectedWeight, setSelectedWeight] = useState<'regular' | 'bold' | 'fill'>('regular');
   const [isDuotone, setIsDuotone] = useState<boolean>(false);
-  const [selectedIcon, setSelectedIcon] = useState<IconData | null>(null);
-  const [isModalOpen, setIsModalOpen] = useState(false);
   const [isInfoMenuOpen, setIsInfoMenuOpen] = useState(false);
   const infoMenuRef = useRef<HTMLDivElement | null>(null);
 
-  // Load icons on mount
-  useEffect(() => {
-    setLoading(true);
-    try {
-      // Use imported data directly for static export
-      setIcons(iconData as IconData[]);
-    } catch (error) {
-      console.error('Failed to load icons:', error);
-    } finally {
-      setLoading(false);
-    }
-  }, []);
-
-  // Handle URL parameters for icon modal
-  useEffect(() => {
-    const iconName = searchParams.get('icon');
-    if (iconName && icons.length > 0) {
-      const icon = icons.find(i => i.name === iconName);
-      if (icon) {
-        setSelectedIcon(icon);
-        setIsModalOpen(true);
-      }
-    }
-  }, [searchParams, icons]);
+  const iconNameParam = searchParams.get('icon');
+  const selectedIcon = iconNameParam
+    ? icons.find((i) => i.name === iconNameParam) ?? null
+    : null;
 
   // Close mobile info menu on outside click / Escape
   useEffect(() => {
@@ -93,22 +71,16 @@ function HomeContent() {
 
       return matchesSearch && matchesStyle;
     });
-  }, [icons, searchTerm]);
+  }, [searchTerm]);
 
 
   const handleIconClick = (icon: IconData) => {
-    setSelectedIcon(icon);
-    setIsModalOpen(true);
-    // Update URL with icon parameter
     const params = new URLSearchParams(searchParams.toString());
     params.set('icon', icon.name);
     router.push(`?${params.toString()}`, { scroll: false });
   };
 
   const handleModalClose = () => {
-    setIsModalOpen(false);
-    setSelectedIcon(null);
-    // Remove icon parameter from URL
     const params = new URLSearchParams(searchParams.toString());
     params.delete('icon');
     const newUrl = params.toString() ? `?${params.toString()}` : window.location.pathname;
@@ -209,7 +181,6 @@ function HomeContent() {
         <IconGrid
           icons={filteredIcons}
           onIconClick={handleIconClick}
-          loading={loading}
           weight={selectedWeight}
           duotone={isDuotone}
         />
@@ -236,13 +207,15 @@ function HomeContent() {
       </footer>
 
       {/* Icon Detail Modal */}
-      <IconDetailModal
-        icon={selectedIcon}
-        isOpen={isModalOpen}
-        onClose={handleModalClose}
-        weight={selectedWeight}
-        duotone={isDuotone}
-      />
+      {selectedIcon && (
+        <IconDetailModal
+          key={selectedIcon.name}
+          icon={selectedIcon}
+          onClose={handleModalClose}
+          weight={selectedWeight}
+          duotone={isDuotone}
+        />
+      )}
     </div>
   );
 }

@@ -17,7 +17,7 @@
     "next": "16.2.6",
     "react": "19.2.6",
     "react-dom": "19.2.6",
-    "stera-icons": "8.4.0"
+    "stera-icons": "8.5.0"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4.3.0",

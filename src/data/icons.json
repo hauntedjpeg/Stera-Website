@@ -4218,8 +4218,7 @@
       "required",
       "star",
       "symbol",
-      "AsteriskAlt",
-      "*updated*"
+      "AsteriskAlt"
     ],
     "versionAdded": "8.0.11",
     "weights": [
@@ -5682,8 +5681,7 @@
       "encoding",
       "programming",
       "raw",
-      "Binary",
-      "*updated*"
+      "Binary"
     ],
     "versionAdded": "8.3.0",
     "weights": [
@@ -5741,8 +5739,7 @@
       "safety",
       "toxic",
       "warning",
-      "Biohazard",
-      "*updated*"
+      "Biohazard"
     ],
     "versionAdded": "8.3.0",
     "weights": [
@@ -9763,7 +9760,8 @@
       "finished",
       "selected",
       "success",
-      "Check"
+      "Check",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -9804,7 +9802,7 @@
         "fileName": "CheckFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "CheckBadge",
@@ -9819,7 +9817,8 @@
       "trusted",
       "verified",
       "verified-account",
-      "CheckBadge"
+      "CheckBadge",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -9860,7 +9859,7 @@
         "fileName": "CheckBadgeFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "CheckCircle",
@@ -10376,7 +10375,8 @@
       "expand",
       "more",
       "navigation",
-      "ChevronDown"
+      "ChevronDown",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -10417,7 +10417,7 @@
         "fileName": "ChevronDownFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "ChevronFullCircleDown",
@@ -10433,7 +10433,8 @@
       "expand",
       "more",
       "navigation",
-      "ChevronFullCircleDown"
+      "ChevronFullCircleDown",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -10474,7 +10475,7 @@
         "fileName": "ChevronFullCircleDownFillDuotone"
       }
     },
-    "versionLastModified": "8.2.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "ChevronFullCircleLeft",
@@ -10488,7 +10489,8 @@
       "left",
       "navigate",
       "previous",
-      "ChevronFullCircleLeft"
+      "ChevronFullCircleLeft",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -10529,7 +10531,7 @@
         "fileName": "ChevronFullCircleLeftFillDuotone"
       }
     },
-    "versionLastModified": "8.2.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "ChevronFullCircleRight",
@@ -10597,7 +10599,8 @@
       "previous",
       "top",
       "up",
-      "ChevronFullCircleUp"
+      "ChevronFullCircleUp",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -10638,7 +10641,7 @@
         "fileName": "ChevronFullCircleUpFillDuotone"
       }
     },
-    "versionLastModified": "8.2.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "ChevronFullDown",
@@ -10652,7 +10655,8 @@
       "navigation",
       "open-menu",
       "scroll-down",
-      "ChevronFullDown"
+      "ChevronFullDown",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -10693,7 +10697,7 @@
         "fileName": "ChevronFullDownFillDuotone"
       }
     },
-    "versionLastModified": "8.2.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "ChevronFullInward",
@@ -10709,7 +10713,8 @@
       "navigation",
       "selection",
       "up",
-      "ChevronFullInward"
+      "ChevronFullInward",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -10750,7 +10755,7 @@
         "fileName": "ChevronFullInwardFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "ChevronFullLeft",
@@ -10821,7 +10826,8 @@
       "selection",
       "sort",
       "up",
-      "ChevronFullOutward"
+      "ChevronFullOutward",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -10862,7 +10868,7 @@
         "fileName": "ChevronFullOutwardFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "ChevronFullRight",
@@ -10877,7 +10883,8 @@
       "navigate",
       "next",
       "right",
-      "ChevronFullRight"
+      "ChevronFullRight",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -10918,7 +10925,7 @@
         "fileName": "ChevronFullRightFillDuotone"
       }
     },
-    "versionLastModified": "8.1.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "ChevronFullSquareDown",
@@ -10933,7 +10940,8 @@
       "more",
       "navigation",
       "square",
-      "ChevronFullSquareDown"
+      "ChevronFullSquareDown",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -10974,7 +10982,7 @@
         "fileName": "ChevronFullSquareDownFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "ChevronFullSquareLeft",
@@ -10989,7 +10997,8 @@
       "navigate",
       "previous",
       "square",
-      "ChevronFullSquareLeft"
+      "ChevronFullSquareLeft",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -11030,7 +11039,7 @@
         "fileName": "ChevronFullSquareLeftFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "ChevronFullSquareRight",
@@ -11097,7 +11106,8 @@
       "square",
       "top",
       "up",
-      "ChevronFullSquareUp"
+      "ChevronFullSquareUp",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -11138,7 +11148,7 @@
         "fileName": "ChevronFullSquareUpFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "ChevronFullUp",
@@ -11151,7 +11161,8 @@
       "navigation",
       "scroll-up",
       "up",
-      "ChevronFullUp"
+      "ChevronFullUp",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -11192,7 +11203,7 @@
         "fileName": "ChevronFullUpFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "ChevronInward",
@@ -11208,7 +11219,8 @@
       "navigation",
       "selection",
       "up",
-      "ChevronInward"
+      "ChevronInward",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -11249,7 +11261,7 @@
         "fileName": "ChevronInwardFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "ChevronLeft",
@@ -11264,7 +11276,8 @@
       "previous",
       "scroll-left",
       "slide-left",
-      "ChevronLeft"
+      "ChevronLeft",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -11305,7 +11318,7 @@
         "fileName": "ChevronLeftFillDuotone"
       }
     },
-    "versionLastModified": "8.2.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "ChevronOutward",
@@ -11322,7 +11335,8 @@
       "selection",
       "sort",
       "up",
-      "ChevronOutward"
+      "ChevronOutward",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -11363,7 +11377,7 @@
         "fileName": "ChevronOutwardFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "ChevronRight",
@@ -11378,7 +11392,8 @@
       "next",
       "scroll-right",
       "slide-right",
-      "ChevronRight"
+      "ChevronRight",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -11419,7 +11434,7 @@
         "fileName": "ChevronRightFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "ChevronSquareDown",
@@ -11435,7 +11450,8 @@
       "more",
       "open",
       "selection",
-      "ChevronSquareDown"
+      "ChevronSquareDown",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -11476,7 +11492,7 @@
         "fileName": "ChevronSquareDownFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "ChevronSquareLeft",
@@ -11547,7 +11563,8 @@
       "next",
       "scroll-right",
       "slide-right",
-      "ChevronSquareRight"
+      "ChevronSquareRight",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -11588,7 +11605,7 @@
         "fileName": "ChevronSquareRightFillDuotone"
       }
     },
-    "versionLastModified": "8.2.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "ChevronSquareUp",
@@ -12159,7 +12176,8 @@
       "process",
       "status",
       "temporary",
-      "CircleDashSimple"
+      "CircleDashSimple",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -12200,7 +12218,7 @@
         "fileName": "CircleDashSimpleFillDuotone"
       }
     },
-    "versionLastModified": "8.2.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "CircleDivide",
@@ -12380,7 +12398,8 @@
       "process",
       "status",
       "temporary",
-      "CircleDots"
+      "CircleDots",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -12421,7 +12440,7 @@
         "fileName": "CircleDotsFillDuotone"
       }
     },
-    "versionLastModified": "8.2.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "CircleNotch",
@@ -12437,7 +12456,8 @@
       "refresh",
       "spinner",
       "wait",
-      "CircleNotch"
+      "CircleNotch",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -12478,7 +12498,7 @@
         "fileName": "CircleNotchFillDuotone"
       }
     },
-    "versionLastModified": "8.2.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "CirclePlaceholder",
@@ -12492,7 +12512,8 @@
       "placeholder",
       "skeleton",
       "striped",
-      "CirclePlaceholder"
+      "CirclePlaceholder",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -12533,7 +12554,7 @@
         "fileName": "CirclePlaceholderFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "CircleSlash",
@@ -12549,7 +12570,8 @@
       "prohibited",
       "restricted",
       "stop",
-      "CircleSlash"
+      "CircleSlash",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -12590,7 +12612,7 @@
         "fileName": "CircleSlashFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "CirclesThree",
@@ -12717,7 +12739,8 @@
       "shell",
       "terminal",
       "vim",
-      "Cli"
+      "Cli",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -12758,7 +12781,7 @@
         "fileName": "CliFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "CliCircle",
@@ -12774,7 +12797,8 @@
       "shell",
       "terminal",
       "vim",
-      "CliCircle"
+      "CliCircle",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -12815,7 +12839,7 @@
         "fileName": "CliCircleFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "CliSquare",
@@ -12831,7 +12855,8 @@
       "shell",
       "terminal",
       "vim",
-      "CliSquare"
+      "CliSquare",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -12872,7 +12897,7 @@
         "fileName": "CliSquareFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "Clipboard",
@@ -13118,7 +13143,8 @@
       "ten",
       "time",
       "wait",
-      "Clock10"
+      "Clock10",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -13159,7 +13185,7 @@
         "fileName": "Clock10FillDuotone"
       }
     },
-    "versionLastModified": "8.2.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "Clock11",
@@ -13173,7 +13199,8 @@
       "schedule",
       "time",
       "wait",
-      "Clock11"
+      "Clock11",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -13214,7 +13241,7 @@
         "fileName": "Clock11FillDuotone"
       }
     },
-    "versionLastModified": "8.2.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "Clock12",
@@ -13579,7 +13606,8 @@
       "schedule",
       "time",
       "wait",
-      "Clock8"
+      "Clock8",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -13620,7 +13648,7 @@
         "fileName": "Clock8FillDuotone"
       }
     },
-    "versionLastModified": "8.2.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "Clock9",
@@ -13795,7 +13823,7 @@
         "fileName": "CloudCliFillDuotone"
       }
     },
-    "versionLastModified": "8.4.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "CloudDownload",
@@ -13811,7 +13839,8 @@
       "storage",
       "sync",
       "transfer",
-      "CloudDownload"
+      "CloudDownload",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -13852,7 +13881,7 @@
         "fileName": "CloudDownloadFillDuotone"
       }
     },
-    "versionLastModified": "8.2.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "CloudUpload",
@@ -13868,7 +13897,8 @@
       "sync",
       "transfer",
       "upload",
-      "CloudUpload"
+      "CloudUpload",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -13909,7 +13939,7 @@
         "fileName": "CloudUploadFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "CloudX",
@@ -13925,7 +13955,8 @@
       "remove",
       "stop",
       "unsync",
-      "CloudX"
+      "CloudX",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -13966,7 +13997,7 @@
         "fileName": "CloudXFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "Code",
@@ -13980,7 +14011,8 @@
       "programming",
       "script",
       "source",
-      "Code"
+      "Code",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -14021,7 +14053,7 @@
         "fileName": "CodeFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "CodeCircle",
@@ -14035,7 +14067,8 @@
       "programming",
       "script",
       "source",
-      "CodeCircle"
+      "CodeCircle",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -14076,7 +14109,7 @@
         "fileName": "CodeCircleFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "CodeSquare",
@@ -14090,7 +14123,8 @@
       "programming",
       "script",
       "source",
-      "CodeSquare"
+      "CodeSquare",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -14131,7 +14165,7 @@
         "fileName": "CodeSquareFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "CoffeeMug",
@@ -14146,7 +14180,8 @@
       "mug",
       "refreshment",
       "tea",
-      "CoffeeMug"
+      "CoffeeMug",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -14187,7 +14222,7 @@
         "fileName": "CoffeeMugFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "Coin",
@@ -14258,7 +14293,8 @@
       "reduce",
       "shrink",
       "zoom-out",
-      "Collapse"
+      "Collapse",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -14299,7 +14335,7 @@
         "fileName": "CollapseFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "CollapseSimple",
@@ -14314,7 +14350,8 @@
       "resize",
       "shrink",
       "zoom-out",
-      "CollapseSimple"
+      "CollapseSimple",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -14355,7 +14392,7 @@
         "fileName": "CollapseSimpleFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "CollapseSimpleAlt",
@@ -14370,7 +14407,8 @@
       "resize",
       "shrink",
       "zoom-out",
-      "CollapseSimpleAlt"
+      "CollapseSimpleAlt",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -14411,7 +14449,7 @@
         "fileName": "CollapseSimpleAltFillDuotone"
       }
     },
-    "versionLastModified": "8.2.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "Command",
@@ -14482,7 +14520,8 @@
       "message",
       "speech",
       "support",
-      "CommentBubble"
+      "CommentBubble",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -14523,7 +14562,7 @@
         "fileName": "CommentBubbleFillDuotone"
       }
     },
-    "versionLastModified": "8.2.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "Compass",
@@ -14537,7 +14576,8 @@
       "map",
       "navigation",
       "travel",
-      "Compass"
+      "Compass",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -14578,7 +14618,7 @@
         "fileName": "CompassFillDuotone"
       }
     },
-    "versionLastModified": "8.2.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "Component",
@@ -14633,7 +14673,7 @@
         "fileName": "ComponentFillDuotone"
       }
     },
-    "versionLastModified": "8.4.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "Connection",
@@ -14762,8 +14802,7 @@
       "phonebook",
       "profile",
       "user",
-      "ContactBook",
-      "*updated*"
+      "ContactBook"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -14865,6 +14904,64 @@
     "versionLastModified": "8.1.0"
   },
   {
+    "name": "ContrastCircle",
+    "kebabName": "contrast-circle",
+    "componentName": "ContrastCircle",
+    "tags": [
+      "accessibility",
+      "brightness",
+      "contrast",
+      "dark",
+      "display",
+      "exposure",
+      "light",
+      "mode",
+      "theme",
+      "ContrastCircle",
+      "*new*"
+    ],
+    "versionAdded": "8.5.0",
+    "weights": [
+      "bold",
+      "fill",
+      "regular"
+    ],
+    "supportsDuotone": true,
+    "variants": {
+      "regular": {
+        "version": "8.5.0",
+        "componentName": "ContrastCircleRegular",
+        "fileName": "ContrastCircleRegular"
+      },
+      "regular-duotone": {
+        "version": "8.5.0",
+        "componentName": "ContrastCircleRegularDuotone",
+        "fileName": "ContrastCircleRegularDuotone"
+      },
+      "bold": {
+        "version": "8.5.0",
+        "componentName": "ContrastCircleBold",
+        "fileName": "ContrastCircleBold"
+      },
+      "bold-duotone": {
+        "version": "8.5.0",
+        "componentName": "ContrastCircleBoldDuotone",
+        "fileName": "ContrastCircleBoldDuotone"
+      },
+      "fill": {
+        "version": "8.5.0",
+        "componentName": "ContrastCircleFill",
+        "fileName": "ContrastCircleFill"
+      },
+      "fill-duotone": {
+        "version": "8.5.0",
+        "componentName": "ContrastCircleFillDuotone",
+        "fileName": "ContrastCircleFillDuotone"
+      }
+    },
+    "versionLastModified": "8.5.0"
+  },
+  {
     "name": "CoolS",
     "kebabName": "cool-s",
     "componentName": "CoolS",
@@ -14881,7 +14978,8 @@
       "symbol",
       "text",
       "throwback",
-      "CoolS"
+      "CoolS",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -14922,7 +15020,7 @@
         "fileName": "CoolSFillDuotone"
       }
     },
-    "versionLastModified": "8.1.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "Copy",
@@ -14935,7 +15033,8 @@
       "items",
       "layers",
       "stack",
-      "Copy"
+      "Copy",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -14976,7 +15075,7 @@
         "fileName": "CopyFillDuotone"
       }
     },
-    "versionLastModified": "8.1.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "Cpu",
@@ -15157,7 +15256,8 @@
       "payment",
       "purchase",
       "transaction",
-      "CreditCardAlt"
+      "CreditCardAlt",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -15198,7 +15298,7 @@
         "fileName": "CreditCardAltFillDuotone"
       }
     },
-    "versionLastModified": "8.1.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "Crop",
@@ -15319,7 +15419,8 @@
       "model",
       "package",
       "product",
-      "Cube"
+      "Cube",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -15360,7 +15461,7 @@
         "fileName": "CubeFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "CubeDash",
@@ -15430,7 +15531,8 @@
       "package",
       "parcel",
       "shipping",
-      "CubePackage"
+      "CubePackage",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -15471,7 +15573,7 @@
         "fileName": "CubePackageFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "CubePackageSimple",
@@ -15485,7 +15587,8 @@
       "package",
       "parcel",
       "shipping",
-      "CubePackageSimple"
+      "CubePackageSimple",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -15526,7 +15629,7 @@
         "fileName": "CubePackageSimpleFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "CubicGraph",
@@ -15542,7 +15645,8 @@
       "function",
       "graph",
       "math",
-      "CubicGraph"
+      "CubicGraph",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -15583,7 +15687,7 @@
         "fileName": "CubicGraphFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "Cup",
@@ -15655,7 +15759,8 @@
       "payment",
       "price",
       "transaction",
-      "CurrencyCent"
+      "CurrencyCent",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -15696,7 +15801,7 @@
         "fileName": "CurrencyCentFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "CurrencyCircleDollar",
@@ -15937,7 +16042,8 @@
       "navigation",
       "pointer",
       "select",
-      "Cursor"
+      "Cursor",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -15978,7 +16084,7 @@
         "fileName": "CursorFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "CursorBox",
@@ -15993,7 +16099,8 @@
       "inspect",
       "picker",
       "select",
-      "CursorBox"
+      "CursorBox",
+      "*updated*"
     ],
     "versionAdded": "8.1.0",
     "weights": [
@@ -16034,7 +16141,7 @@
         "fileName": "CursorBoxFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "CursorClick",
@@ -16050,7 +16157,8 @@
       "pointer",
       "select",
       "tap",
-      "CursorClick"
+      "CursorClick",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -16091,7 +16199,7 @@
         "fileName": "CursorClickFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "CursorNavigation",
@@ -16107,7 +16215,8 @@
       "pointer",
       "select",
       "tap",
-      "CursorNavigation"
+      "CursorNavigation",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -16148,7 +16257,7 @@
         "fileName": "CursorNavigationFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "CursorOg",
@@ -16663,7 +16772,8 @@
       "rows",
       "spreadsheet",
       "table",
-      "DataTable"
+      "DataTable",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -16704,7 +16814,7 @@
         "fileName": "DataTableFillDuotone"
       }
     },
-    "versionLastModified": "8.1.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "Database",
@@ -16885,7 +16995,8 @@
       "server",
       "stack",
       "storage",
-      "DatabaseSparkle"
+      "DatabaseSparkle",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -16926,7 +17037,7 @@
         "fileName": "DatabaseSparkleFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "DatabaseX",
@@ -16941,7 +17052,8 @@
       "server",
       "stack",
       "storage",
-      "DatabaseX"
+      "DatabaseX",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -16982,7 +17094,7 @@
         "fileName": "DatabaseXFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "Delete",
@@ -16998,7 +17110,8 @@
       "label",
       "remove",
       "tag",
-      "Delete"
+      "Delete",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -17039,7 +17152,7 @@
         "fileName": "DeleteFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "DeviceDesktop",
@@ -17053,7 +17166,8 @@
       "monitor",
       "screen",
       "workstation",
-      "DeviceDesktop"
+      "DeviceDesktop",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -17094,7 +17208,7 @@
         "fileName": "DeviceDesktopFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "DeviceLaptop",
@@ -17108,7 +17222,8 @@
       "notebook",
       "portable",
       "screen",
-      "DeviceLaptop"
+      "DeviceLaptop",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -17149,7 +17264,7 @@
         "fileName": "DeviceLaptopFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "DevicePhone",
@@ -17273,7 +17388,8 @@
       "rhombus",
       "shape",
       "warning",
-      "Diamond"
+      "Diamond",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -17314,7 +17430,7 @@
         "fileName": "DiamondFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "Document",
@@ -17387,7 +17503,8 @@
       "paper",
       "sheet",
       "text",
-      "DocumentCopy"
+      "DocumentCopy",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -17428,7 +17545,7 @@
         "fileName": "DocumentCopyFillDuotone"
       }
     },
-    "versionLastModified": "8.1.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "DocumentDetail",
@@ -18232,7 +18349,8 @@
       "mood",
       "positive",
       "smile",
-      "EmoteGrin"
+      "EmoteGrin",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -18273,7 +18391,7 @@
         "fileName": "EmoteGrinFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "EmoteNeutral",
@@ -18400,7 +18518,8 @@
       "mood",
       "positive",
       "smile",
-      "EmoteSmile"
+      "EmoteSmile",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -18441,7 +18560,7 @@
         "fileName": "EmoteSmileFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "EmoteSurprised",
@@ -18511,7 +18630,8 @@
       "important",
       "notify",
       "warning",
-      "ExclamationPoint"
+      "ExclamationPoint",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -18552,7 +18672,7 @@
         "fileName": "ExclamationPointFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "Expand",
@@ -18740,7 +18860,8 @@
       "redirect",
       "share",
       "url",
-      "ExternalLink"
+      "ExternalLink",
+      "*updated*"
     ],
     "versionAdded": "8.2.0",
     "weights": [
@@ -18781,7 +18902,7 @@
         "fileName": "ExternalLinkFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "Eye",
@@ -18796,7 +18917,8 @@
       "visibility",
       "visible",
       "watch",
-      "Eye"
+      "Eye",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -18837,7 +18959,7 @@
         "fileName": "EyeFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "EyeClosed",
@@ -18854,7 +18976,8 @@
       "sleep",
       "view-off",
       "visibility-off",
-      "EyeClosed"
+      "EyeClosed",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -18895,7 +19018,7 @@
         "fileName": "EyeClosedFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "EyeOff",
@@ -18912,7 +19035,8 @@
       "sleep",
       "view-off",
       "visibility-off",
-      "EyeOff"
+      "EyeOff",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -18953,7 +19077,7 @@
         "fileName": "EyeOffFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "FastForward",
@@ -19475,7 +19599,8 @@
       "research",
       "science",
       "test",
-      "Flask"
+      "Flask",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -19516,7 +19641,7 @@
         "fileName": "FlaskFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "FlaskFull",
@@ -19530,7 +19655,8 @@
       "research",
       "science",
       "test",
-      "FlaskFull"
+      "FlaskFull",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -19571,7 +19697,7 @@
         "fileName": "FlaskFullFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "FlowBranch",
@@ -19585,7 +19711,8 @@
       "process",
       "split",
       "workflow",
-      "FlowBranch"
+      "FlowBranch",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -19626,7 +19753,7 @@
         "fileName": "FlowBranchFillDuotone"
       }
     },
-    "versionLastModified": "8.1.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "FlowDiagram",
@@ -19698,7 +19825,8 @@
       "progress",
       "sequence",
       "transition",
-      "FlowDownArrow"
+      "FlowDownArrow",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -19739,7 +19867,7 @@
         "fileName": "FlowDownArrowFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "FlowLeftArrow",
@@ -19756,7 +19884,8 @@
       "process",
       "sequence",
       "transition",
-      "FlowLeftArrow"
+      "FlowLeftArrow",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -19797,7 +19926,7 @@
         "fileName": "FlowLeftArrowFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "FlowMerge",
@@ -19812,7 +19941,8 @@
       "merge",
       "right",
       "unify",
-      "FlowMerge"
+      "FlowMerge",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -19853,7 +19983,7 @@
         "fileName": "FlowMergeFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "FlowRightArrow",
@@ -19926,7 +20056,8 @@
       "process",
       "split",
       "transition",
-      "FlowSplitArrowDown"
+      "FlowSplitArrowDown",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -19967,7 +20098,7 @@
         "fileName": "FlowSplitArrowDownFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "FlowSplitArrowLeft",
@@ -19982,7 +20113,8 @@
       "process",
       "split",
       "transition",
-      "FlowSplitArrowLeft"
+      "FlowSplitArrowLeft",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -20023,7 +20155,7 @@
         "fileName": "FlowSplitArrowLeftFillDuotone"
       }
     },
-    "versionLastModified": "8.1.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "FlowSplitArrowRight",
@@ -20038,7 +20170,8 @@
       "process",
       "split",
       "transition",
-      "FlowSplitArrowRight"
+      "FlowSplitArrowRight",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -20079,7 +20212,7 @@
         "fileName": "FlowSplitArrowRightFillDuotone"
       }
     },
-    "versionLastModified": "8.1.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "FlowSplitArrowUp",
@@ -20094,7 +20227,8 @@
       "process",
       "split",
       "transition",
-      "FlowSplitArrowUp"
+      "FlowSplitArrowUp",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -20135,7 +20269,7 @@
         "fileName": "FlowSplitArrowUpFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "FlowSplitDown",
@@ -20380,7 +20514,8 @@
       "sequence",
       "transition",
       "upward",
-      "FlowUpArrow"
+      "FlowUpArrow",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -20421,7 +20556,7 @@
         "fileName": "FlowUpArrowFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "Flower",
@@ -20547,7 +20682,8 @@
       "organize",
       "project",
       "storage",
-      "FolderOpen"
+      "FolderOpen",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -20588,7 +20724,7 @@
         "fileName": "FolderOpenFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "FolderPlus",
@@ -21005,7 +21141,8 @@
       "speed",
       "status",
       "timer",
-      "Gauge0"
+      "Gauge0",
+      "*updated*"
     ],
     "versionAdded": "8.2.0",
     "weights": [
@@ -21046,7 +21183,7 @@
         "fileName": "Gauge0FillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "Gauge100",
@@ -21066,7 +21203,8 @@
       "speed",
       "status",
       "timer",
-      "Gauge100"
+      "Gauge100",
+      "*updated*"
     ],
     "versionAdded": "8.2.0",
     "weights": [
@@ -21107,7 +21245,7 @@
         "fileName": "Gauge100FillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "Gauge15",
@@ -21186,7 +21324,8 @@
       "speed",
       "status",
       "timer",
-      "Gauge33"
+      "Gauge33",
+      "*updated*"
     ],
     "versionAdded": "8.2.0",
     "weights": [
@@ -21227,7 +21366,7 @@
         "fileName": "Gauge33FillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "Gauge50",
@@ -21306,7 +21445,8 @@
       "speed",
       "status",
       "timer",
-      "Gauge66"
+      "Gauge66",
+      "*updated*"
     ],
     "versionAdded": "8.2.0",
     "weights": [
@@ -21347,7 +21487,7 @@
         "fileName": "Gauge66FillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "Gauge85",
@@ -21427,7 +21567,8 @@
       "speed",
       "status",
       "timer",
-      "GaugeDots0"
+      "GaugeDots0",
+      "*updated*"
     ],
     "versionAdded": "8.2.0",
     "weights": [
@@ -21468,7 +21609,7 @@
         "fileName": "GaugeDots0FillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "GaugeDots100",
@@ -21488,7 +21629,8 @@
       "speed",
       "status",
       "timer",
-      "GaugeDots100"
+      "GaugeDots100",
+      "*updated*"
     ],
     "versionAdded": "8.2.0",
     "weights": [
@@ -21529,7 +21671,7 @@
         "fileName": "GaugeDots100FillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "GaugeDots15",
@@ -21608,7 +21750,8 @@
       "speed",
       "status",
       "timer",
-      "GaugeDots33"
+      "GaugeDots33",
+      "*updated*"
     ],
     "versionAdded": "8.2.0",
     "weights": [
@@ -21649,7 +21792,7 @@
         "fileName": "GaugeDots33FillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "GaugeDots50",
@@ -21728,7 +21871,8 @@
       "speed",
       "status",
       "timer",
-      "GaugeDots66"
+      "GaugeDots66",
+      "*updated*"
     ],
     "versionAdded": "8.2.0",
     "weights": [
@@ -21769,7 +21913,7 @@
         "fileName": "GaugeDots66FillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "GaugeDots85",
@@ -21844,7 +21988,8 @@
       "legal",
       "moderation",
       "ruling",
-      "Gavel"
+      "Gavel",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -21885,7 +22030,7 @@
         "fileName": "GavelFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "Ghost",
@@ -22013,7 +22158,8 @@
       "present",
       "reward",
       "surprise",
-      "GiftBox"
+      "GiftBox",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -22054,7 +22200,7 @@
         "fileName": "GiftBoxFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "GitBranch",
@@ -22634,7 +22780,8 @@
       "setup",
       "support",
       "tools",
-      "Hammer"
+      "Hammer",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -22675,7 +22822,7 @@
         "fileName": "HammerFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "HandLeft",
@@ -22746,7 +22893,8 @@
       "palm",
       "right",
       "stop",
-      "HandRight"
+      "HandRight",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -22787,7 +22935,7 @@
         "fileName": "HandRightFillDuotone"
       }
     },
-    "versionLastModified": "8.1.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "HandWave",
@@ -22801,7 +22949,8 @@
       "hello",
       "motion",
       "wave",
-      "HandWave"
+      "HandWave",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -22842,7 +22991,7 @@
         "fileName": "HandWaveFillDuotone"
       }
     },
-    "versionLastModified": "8.1.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "Handbag",
@@ -22857,7 +23006,8 @@
       "purse",
       "retail",
       "shopping",
-      "Handbag"
+      "Handbag",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -22898,7 +23048,7 @@
         "fileName": "HandbagFillDuotone"
       }
     },
-    "versionLastModified": "8.1.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "Hash",
@@ -23027,7 +23177,8 @@
       "social",
       "tag",
       "topic",
-      "HashItalic"
+      "HashItalic",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -23068,7 +23219,7 @@
         "fileName": "HashItalicFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "HashSquare",
@@ -23140,7 +23291,8 @@
       "playback",
       "sound",
       "speaker",
-      "Headphones"
+      "Headphones",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -23181,7 +23333,7 @@
         "fileName": "HeadphonesFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "Heart",
@@ -23252,7 +23404,8 @@
       "shape",
       "six sides",
       "symbol",
-      "Hexagon"
+      "Hexagon",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -23293,7 +23446,7 @@
         "fileName": "HexagonFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "Home",
@@ -23309,7 +23462,8 @@
       "residence",
       "shelter",
       "start",
-      "Home"
+      "Home",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -23350,7 +23504,7 @@
         "fileName": "HomeFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "Home3d",
@@ -23424,7 +23578,8 @@
       "shelter",
       "support",
       "wellness",
-      "HomeHeart"
+      "HomeHeart",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -23465,7 +23620,7 @@
         "fileName": "HomeHeartFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "HomePlus",
@@ -23481,7 +23636,8 @@
       "new",
       "plus",
       "shelter",
-      "HomePlus"
+      "HomePlus",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -23522,7 +23678,7 @@
         "fileName": "HomePlusFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "HomeSimple",
@@ -23538,7 +23694,8 @@
       "housing",
       "remove",
       "shelter",
-      "HomeSimple"
+      "HomeSimple",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -23579,7 +23736,7 @@
         "fileName": "HomeSimpleFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "HomeX",
@@ -23595,7 +23752,8 @@
       "housing",
       "remove",
       "shelter",
-      "HomeX"
+      "HomeX",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -23636,7 +23794,7 @@
         "fileName": "HomeXFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "Hourglass",
@@ -23651,7 +23809,8 @@
       "time",
       "timer",
       "waiting",
-      "Hourglass"
+      "Hourglass",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -23692,7 +23851,7 @@
         "fileName": "HourglassFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "HourglassEmpty",
@@ -24041,7 +24200,8 @@
       "photos",
       "pictures",
       "stack",
-      "ImagePile"
+      "ImagePile",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -24082,7 +24242,7 @@
         "fileName": "ImagePileFillDuotone"
       }
     },
-    "versionLastModified": "8.1.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "ImageSquare",
@@ -24152,7 +24312,8 @@
       "photo",
       "photos",
       "picture",
-      "ImageStack"
+      "ImageStack",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -24193,7 +24354,7 @@
         "fileName": "ImageStackFillDuotone"
       }
     },
-    "versionLastModified": "8.1.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "Inbox",
@@ -24265,7 +24426,8 @@
       "recurse",
       "repeat",
       "unlimited",
-      "Infinity"
+      "Infinity",
+      "*updated*"
     ],
     "versionAdded": "8.2.0",
     "weights": [
@@ -24306,7 +24468,7 @@
         "fileName": "InfinityFillDuotone"
       }
     },
-    "versionLastModified": "8.2.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "InfoCircle",
@@ -24485,7 +24647,8 @@
       "password",
       "security",
       "unlock",
-      "KeyAlt"
+      "KeyAlt",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -24526,7 +24689,7 @@
         "fileName": "KeyAltFillDuotone"
       }
     },
-    "versionLastModified": "8.0.9"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "Keyboard",
@@ -24596,7 +24759,8 @@
       "privacy",
       "protection",
       "secure",
-      "Keyhole"
+      "Keyhole",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -24637,7 +24801,7 @@
         "fileName": "KeyholeFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "Kunai",
@@ -24652,7 +24816,8 @@
       "throw",
       "tool",
       "weapon",
-      "Kunai"
+      "Kunai",
+      "*updated*"
     ],
     "versionAdded": "8.1.0",
     "weights": [
@@ -24693,7 +24858,7 @@
         "fileName": "KunaiFillDuotone"
       }
     },
-    "versionLastModified": "8.2.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "Label",
@@ -24707,7 +24872,8 @@
       "marker",
       "sticker",
       "tag",
-      "Label"
+      "Label",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -24748,7 +24914,7 @@
         "fileName": "LabelFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "LabelAlt",
@@ -24762,7 +24928,8 @@
       "marker",
       "sticker",
       "tag",
-      "LabelAlt"
+      "LabelAlt",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -24803,7 +24970,7 @@
         "fileName": "LabelAltFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "Lamp",
@@ -24819,7 +24986,8 @@
       "light",
       "lighting",
       "nightstand",
-      "Lamp"
+      "Lamp",
+      "*updated*"
     ],
     "versionAdded": "8.1.0",
     "weights": [
@@ -24860,7 +25028,7 @@
         "fileName": "LampFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "LassoDash",
@@ -24875,7 +25043,8 @@
       "marquee",
       "multi-select",
       "selection",
-      "LassoDash"
+      "LassoDash",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -24916,7 +25085,7 @@
         "fileName": "LassoDashFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "Layers",
@@ -24930,7 +25099,8 @@
       "multiple",
       "organize",
       "stack",
-      "Layers"
+      "Layers",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -24971,7 +25141,7 @@
         "fileName": "LayersFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "LayersAlt",
@@ -24985,7 +25155,8 @@
       "multiple",
       "organize",
       "stack",
-      "LayersAlt"
+      "LayersAlt",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -25026,7 +25197,7 @@
         "fileName": "LayersAltFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "LayersSimple",
@@ -25040,7 +25211,8 @@
       "multiple",
       "organize",
       "stack",
-      "LayersSimple"
+      "LayersSimple",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -25081,7 +25253,7 @@
         "fileName": "LayersSimpleFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "LayoutGrid",
@@ -25095,8 +25267,7 @@
       "menu",
       "tiles",
       "widgets",
-      "LayoutGrid",
-      "*updated*"
+      "LayoutGrid"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -25266,8 +25437,7 @@
       "new",
       "tiles",
       "widgets",
-      "LayoutGridPlus",
-      "*updated*"
+      "LayoutGridPlus"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -25324,8 +25494,7 @@
       "panel",
       "sidebar",
       "split-view",
-      "LayoutList",
-      "*updated*"
+      "LayoutList"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -25384,8 +25553,7 @@
       "preview",
       "rows",
       "thumbnail",
-      "LayoutListAlt",
-      "*updated*"
+      "LayoutListAlt"
     ],
     "versionAdded": "8.1.0",
     "weights": [
@@ -25441,8 +25609,7 @@
       "menu",
       "overview",
       "tiles",
-      "LayoutMasonry",
-      "*updated*"
+      "LayoutMasonry"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -25610,7 +25777,8 @@
       "organic",
       "plant",
       "sustainability",
-      "Leaf"
+      "Leaf",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -25651,7 +25819,7 @@
         "fileName": "LeafFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "Lightbulb",
@@ -25666,7 +25834,8 @@
       "light",
       "suggestion",
       "tips",
-      "Lightbulb"
+      "Lightbulb",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -25707,7 +25876,7 @@
         "fileName": "LightbulbFillDuotone"
       }
     },
-    "versionLastModified": "8.0.9"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "LightbulbOn",
@@ -25722,7 +25891,8 @@
       "insight",
       "suggestion",
       "tips",
-      "LightbulbOn"
+      "LightbulbOn",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -25763,7 +25933,7 @@
         "fileName": "LightbulbOnFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "LineSegment",
@@ -26003,7 +26173,8 @@
       "link",
       "reference",
       "url",
-      "Link"
+      "Link",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -26044,7 +26215,7 @@
         "fileName": "LinkFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "LinkOff",
@@ -26058,7 +26229,8 @@
       "remove-link",
       "slash",
       "unlink",
-      "LinkOff"
+      "LinkOff",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -26099,7 +26271,7 @@
         "fileName": "LinkOffFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "List",
@@ -26278,7 +26450,8 @@
       "progress",
       "tasks",
       "to-do",
-      "ListCheck"
+      "ListCheck",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -26319,7 +26492,7 @@
         "fileName": "ListCheckFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "ListCheckSimple",
@@ -26334,7 +26507,8 @@
       "progress",
       "tasks",
       "to-do",
-      "ListCheckSimple"
+      "ListCheckSimple",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -26375,7 +26549,7 @@
         "fileName": "ListCheckSimpleFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "ListContract",
@@ -26390,7 +26564,8 @@
       "list",
       "minimize",
       "toggle",
-      "ListContract"
+      "ListContract",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -26431,7 +26606,7 @@
         "fileName": "ListContractFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "ListExpand",
@@ -26446,7 +26621,8 @@
       "reveal",
       "show",
       "toggle",
-      "ListExpand"
+      "ListExpand",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -26487,7 +26663,7 @@
         "fileName": "ListExpandFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "ListMinus",
@@ -27123,7 +27299,8 @@
       "select",
       "ui-control",
       "window",
-      "MacWindowCursor"
+      "MacWindowCursor",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -27164,7 +27341,7 @@
         "fileName": "MacWindowCursorFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "Mail",
@@ -27177,7 +27354,8 @@
       "inbox",
       "mail",
       "message",
-      "Mail"
+      "Mail",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -27218,7 +27396,7 @@
         "fileName": "MailFillDuotone"
       }
     },
-    "versionLastModified": "8.0.9"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "MailBadge",
@@ -27232,7 +27410,8 @@
       "new message",
       "notification",
       "unread",
-      "MailBadge"
+      "MailBadge",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -27273,7 +27452,7 @@
         "fileName": "MailBadgeFillDuotone"
       }
     },
-    "versionLastModified": "8.1.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "MailMinus",
@@ -27342,7 +27521,8 @@
       "open message",
       "read mail",
       "view email",
-      "MailOpen"
+      "MailOpen",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -27383,7 +27563,7 @@
         "fileName": "MailOpenFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "MailPlus",
@@ -27455,7 +27635,8 @@
       "mail",
       "message",
       "remove",
-      "MailX"
+      "MailX",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -27496,7 +27677,7 @@
         "fileName": "MailXFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "Mailbox",
@@ -27567,7 +27748,8 @@
       "place",
       "route",
       "travel",
-      "Map"
+      "Map",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -27608,7 +27790,7 @@
         "fileName": "MapFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "MapPin",
@@ -27788,7 +27970,8 @@
       "poi",
       "route",
       "travel",
-      "MapPinned"
+      "MapPinned",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -27829,7 +28012,7 @@
         "fileName": "MapPinnedFillDuotone"
       }
     },
-    "versionLastModified": "8.1.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "Matcha",
@@ -27963,7 +28146,8 @@
       "prize",
       "recognition",
       "trophy",
-      "Medal"
+      "Medal",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -28004,7 +28188,7 @@
         "fileName": "MedalFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "MedalStar",
@@ -28019,7 +28203,8 @@
       "prize",
       "recognition",
       "trophy",
-      "MedalStar"
+      "MedalStar",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -28060,7 +28245,7 @@
         "fileName": "MedalStarFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "MedicalCross",
@@ -28294,7 +28479,7 @@
       "reply",
       "text",
       "MessageCircle",
-      "*new*"
+      "*updated*"
     ],
     "versionAdded": "8.4.0",
     "weights": [
@@ -28335,7 +28520,7 @@
         "fileName": "MessageCircleFillDuotone"
       }
     },
-    "versionLastModified": "8.4.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "MessageCircleAlert",
@@ -28350,8 +28535,7 @@
       "message",
       "notification",
       "warning",
-      "MessageCircleAlert",
-      "*new*"
+      "MessageCircleAlert"
     ],
     "versionAdded": "8.4.0",
     "weights": [
@@ -28409,7 +28593,7 @@
       "resolved",
       "review",
       "MessageCircleCheck",
-      "*new*"
+      "*updated*"
     ],
     "versionAdded": "8.4.0",
     "weights": [
@@ -28450,7 +28634,7 @@
         "fileName": "MessageCircleCheckFillDuotone"
       }
     },
-    "versionLastModified": "8.4.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "MessageCircleDashed",
@@ -28470,7 +28654,7 @@
       "temporary",
       "text",
       "MessageCircleDashed",
-      "*new*"
+      "*updated*"
     ],
     "versionAdded": "8.4.0",
     "weights": [
@@ -28511,7 +28695,7 @@
         "fileName": "MessageCircleDashedFillDuotone"
       }
     },
-    "versionLastModified": "8.4.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "MessageCircleDot",
@@ -28529,8 +28713,7 @@
       "reply",
       "text",
       "unread",
-      "MessageCircleDot",
-      "*new*"
+      "MessageCircleDot"
     ],
     "versionAdded": "8.4.0",
     "weights": [
@@ -28586,8 +28769,7 @@
       "message",
       "reply",
       "text",
-      "MessageCircleDots",
-      "*new*"
+      "MessageCircleDots"
     ],
     "versionAdded": "8.4.0",
     "weights": [
@@ -28643,7 +28825,7 @@
       "mute",
       "silence",
       "MessageCircleOff",
-      "*new*"
+      "*updated*"
     ],
     "versionAdded": "8.4.0",
     "weights": [
@@ -28684,7 +28866,7 @@
         "fileName": "MessageCircleOffFillDuotone"
       }
     },
-    "versionLastModified": "8.4.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "MessageCirclePlus",
@@ -28699,8 +28881,7 @@
       "message",
       "new",
       "reply",
-      "MessageCirclePlus",
-      "*new*"
+      "MessageCirclePlus"
     ],
     "versionAdded": "8.4.0",
     "weights": [
@@ -28757,7 +28938,7 @@
       "support",
       "tooltip",
       "MessageCircleQuestion",
-      "*new*"
+      "*updated*"
     ],
     "versionAdded": "8.4.0",
     "weights": [
@@ -28798,7 +28979,7 @@
         "fileName": "MessageCircleQuestionFillDuotone"
       }
     },
-    "versionLastModified": "8.4.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "MessageCircleSparkle",
@@ -28806,6 +28987,7 @@
     "componentName": "MessageCircleSparkle",
     "tags": [
       "ai",
+      "artificial intelligence",
       "assistant",
       "bot",
       "chat",
@@ -28817,7 +28999,7 @@
       "sparkle",
       "suggestion",
       "MessageCircleSparkle",
-      "*new*"
+      "*updated*"
     ],
     "versionAdded": "8.4.0",
     "weights": [
@@ -28858,7 +29040,7 @@
         "fileName": "MessageCircleSparkleFillDuotone"
       }
     },
-    "versionLastModified": "8.4.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "MessageCircleText",
@@ -28873,8 +29055,7 @@
       "message",
       "reply",
       "text",
-      "MessageCircleText",
-      "*new*"
+      "MessageCircleText"
     ],
     "versionAdded": "8.4.0",
     "weights": [
@@ -28931,7 +29112,7 @@
       "messages",
       "thread",
       "MessageMessages",
-      "*new*"
+      "*updated*"
     ],
     "versionAdded": "8.4.0",
     "weights": [
@@ -28972,7 +29153,7 @@
         "fileName": "MessageMessagesFillDuotone"
       }
     },
-    "versionLastModified": "8.4.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "MessageSquare",
@@ -28987,8 +29168,7 @@
       "message",
       "reply",
       "talk",
-      "MessageSquare",
-      "*new*"
+      "MessageSquare"
     ],
     "versionAdded": "8.4.0",
     "weights": [
@@ -29044,8 +29224,7 @@
       "message",
       "notification",
       "warning",
-      "MessageSquareAlert",
-      "*new*"
+      "MessageSquareAlert"
     ],
     "versionAdded": "8.4.0",
     "weights": [
@@ -29103,7 +29282,7 @@
       "resolved",
       "review",
       "MessageSquareCheck",
-      "*new*"
+      "*updated*"
     ],
     "versionAdded": "8.4.0",
     "weights": [
@@ -29144,7 +29323,7 @@
         "fileName": "MessageSquareCheckFillDuotone"
       }
     },
-    "versionLastModified": "8.4.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "MessageSquareDashed",
@@ -29162,8 +29341,7 @@
       "reply",
       "talk",
       "temporary",
-      "MessageSquareDashed",
-      "*new*"
+      "MessageSquareDashed"
     ],
     "versionAdded": "8.4.0",
     "weights": [
@@ -29222,8 +29400,7 @@
       "reply",
       "talk",
       "unread",
-      "MessageSquareDot",
-      "*new*"
+      "MessageSquareDot"
     ],
     "versionAdded": "8.4.0",
     "weights": [
@@ -29279,8 +29456,7 @@
       "message",
       "reply",
       "talk",
-      "MessageSquareDots",
-      "*new*"
+      "MessageSquareDots"
     ],
     "versionAdded": "8.4.0",
     "weights": [
@@ -29336,7 +29512,7 @@
       "mute",
       "silence",
       "MessageSquareOff",
-      "*new*"
+      "*updated*"
     ],
     "versionAdded": "8.4.0",
     "weights": [
@@ -29377,7 +29553,7 @@
         "fileName": "MessageSquareOffFillDuotone"
       }
     },
-    "versionLastModified": "8.4.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "MessageSquarePlus",
@@ -29392,8 +29568,7 @@
       "message",
       "new",
       "reply",
-      "MessageSquarePlus",
-      "*new*"
+      "MessageSquarePlus"
     ],
     "versionAdded": "8.4.0",
     "weights": [
@@ -29450,7 +29625,7 @@
       "support",
       "tooltip",
       "MessageSquareQuestion",
-      "*new*"
+      "*updated*"
     ],
     "versionAdded": "8.4.0",
     "weights": [
@@ -29491,7 +29666,7 @@
         "fileName": "MessageSquareQuestionFillDuotone"
       }
     },
-    "versionLastModified": "8.4.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "MessageSquareSparkle",
@@ -29499,6 +29674,7 @@
     "componentName": "MessageSquareSparkle",
     "tags": [
       "ai",
+      "artificial intelligence",
       "assistant",
       "bot",
       "chat",
@@ -29509,8 +29685,7 @@
       "smart",
       "sparkle",
       "suggestion",
-      "MessageSquareSparkle",
-      "*new*"
+      "MessageSquareSparkle"
     ],
     "versionAdded": "8.4.0",
     "weights": [
@@ -29566,8 +29741,7 @@
       "message",
       "reply",
       "talk",
-      "MessageSquareText",
-      "*new*"
+      "MessageSquareText"
     ],
     "versionAdded": "8.4.0",
     "weights": [
@@ -29624,7 +29798,8 @@
       "speech",
       "talk",
       "voice",
-      "Mic"
+      "Mic",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -29665,7 +29840,7 @@
         "fileName": "MicFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "MicOff",
@@ -29797,8 +29972,7 @@
       "route",
       "signpost",
       "wayfinding",
-      "Milestone",
-      "*updated*"
+      "Milestone"
     ],
     "versionAdded": "8.1.0",
     "weights": [
@@ -30133,7 +30307,8 @@
       "night",
       "rest",
       "sleep",
-      "MoonStar"
+      "MoonStar",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -30174,7 +30349,7 @@
         "fileName": "MoonStarFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "More",
@@ -30809,7 +30984,8 @@
       "reading",
       "record",
       "reference",
-      "Notebook"
+      "Notebook",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -30850,7 +31026,7 @@
         "fileName": "NotebookFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "NotebookLog",
@@ -31927,7 +32103,8 @@
       "pencil",
       "update",
       "write",
-      "Pen"
+      "Pen",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -31968,7 +32145,7 @@
         "fileName": "PenFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "PenNib",
@@ -31983,7 +32160,8 @@
       "signature",
       "sketch",
       "write",
-      "PenNib"
+      "PenNib",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -32024,7 +32202,64 @@
         "fileName": "PenNibFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
+  },
+  {
+    "name": "PenNibAlt",
+    "kebabName": "pen-nib-alt",
+    "componentName": "PenNibAlt",
+    "tags": [
+      "create",
+      "design",
+      "draw",
+      "ink",
+      "pen",
+      "signature",
+      "sketch",
+      "write",
+      "PenNibAlt",
+      "*new*"
+    ],
+    "versionAdded": "8.5.0",
+    "weights": [
+      "bold",
+      "fill",
+      "regular"
+    ],
+    "supportsDuotone": true,
+    "variants": {
+      "regular": {
+        "version": "8.5.0",
+        "componentName": "PenNibAltRegular",
+        "fileName": "PenNibAltRegular"
+      },
+      "regular-duotone": {
+        "version": "8.5.0",
+        "componentName": "PenNibAltRegularDuotone",
+        "fileName": "PenNibAltRegularDuotone"
+      },
+      "bold": {
+        "version": "8.5.0",
+        "componentName": "PenNibAltBold",
+        "fileName": "PenNibAltBold"
+      },
+      "bold-duotone": {
+        "version": "8.5.0",
+        "componentName": "PenNibAltBoldDuotone",
+        "fileName": "PenNibAltBoldDuotone"
+      },
+      "fill": {
+        "version": "8.5.0",
+        "componentName": "PenNibAltFill",
+        "fileName": "PenNibAltFill"
+      },
+      "fill-duotone": {
+        "version": "8.5.0",
+        "componentName": "PenNibAltFillDuotone",
+        "fileName": "PenNibAltFillDuotone"
+      }
+    },
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "Pencil",
@@ -32040,7 +32275,8 @@
       "pencil",
       "update",
       "write",
-      "Pencil"
+      "Pencil",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -32081,7 +32317,7 @@
         "fileName": "PencilFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "PencilLine",
@@ -32097,7 +32333,8 @@
       "pencil",
       "update",
       "write",
-      "PencilLine"
+      "PencilLine",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -32138,7 +32375,7 @@
         "fileName": "PencilLineFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "PencilRuler",
@@ -32211,7 +32448,8 @@
       "stationary",
       "update",
       "write",
-      "PencilTip"
+      "PencilTip",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -32252,7 +32490,7 @@
         "fileName": "PencilTipFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "Percent",
@@ -32267,7 +32505,8 @@
       "rate",
       "ratio",
       "sale",
-      "Percent"
+      "Percent",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -32308,7 +32547,7 @@
         "fileName": "PercentFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "PercentCircle",
@@ -32323,7 +32562,8 @@
       "rate",
       "ratio",
       "sale",
-      "PercentCircle"
+      "PercentCircle",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -32364,7 +32604,7 @@
         "fileName": "PercentCircleFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "PercentSquare",
@@ -32379,7 +32619,8 @@
       "rate",
       "ratio",
       "sale",
-      "PercentSquare"
+      "PercentSquare",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -32420,7 +32661,7 @@
         "fileName": "PercentSquareFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "Phone",
@@ -32488,7 +32729,8 @@
       "phone-incoming",
       "pickup",
       "receive-call",
-      "PhoneIncoming"
+      "PhoneIncoming",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -32529,7 +32771,7 @@
         "fileName": "PhoneIncomingFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "PhoneOff",
@@ -32584,7 +32826,7 @@
         "fileName": "PhoneOffFillDuotone"
       }
     },
-    "versionLastModified": "8.4.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "PhoneOutgoing",
@@ -32597,7 +32839,8 @@
       "phone-outgoing",
       "place-call",
       "send-call",
-      "PhoneOutgoing"
+      "PhoneOutgoing",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -32638,7 +32881,7 @@
         "fileName": "PhoneOutgoingFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "Pie",
@@ -32652,7 +32895,8 @@
       "snack",
       "sweet",
       "treat",
-      "Pie"
+      "Pie",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -32693,7 +32937,7 @@
         "fileName": "PieFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "Pilcrow",
@@ -33373,7 +33617,8 @@
       "payment",
       "pound",
       "price",
-      "PoundSterlingCircle"
+      "PoundSterlingCircle",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -33414,7 +33659,7 @@
         "fileName": "PoundSterlingCircleFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "Power",
@@ -33433,7 +33678,7 @@
       "stop",
       "toggle",
       "Power",
-      "*new*"
+      "*updated*"
     ],
     "versionAdded": "8.4.0",
     "weights": [
@@ -33474,7 +33719,7 @@
         "fileName": "PowerFillDuotone"
       }
     },
-    "versionLastModified": "8.4.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "PushPin",
@@ -33549,7 +33794,8 @@
       "reminder",
       "save",
       "thumbtack",
-      "PushPinAlt"
+      "PushPinAlt",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -33590,7 +33836,65 @@
         "fileName": "PushPinAltFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
+  },
+  {
+    "name": "Pyramid",
+    "kebabName": "pyramid",
+    "componentName": "Pyramid",
+    "tags": [
+      "3d",
+      "geometry",
+      "model",
+      "perspective",
+      "prism",
+      "pyramid",
+      "shape",
+      "solid",
+      "structure",
+      "Pyramid",
+      "*new*"
+    ],
+    "versionAdded": "8.5.0",
+    "weights": [
+      "bold",
+      "fill",
+      "regular"
+    ],
+    "supportsDuotone": true,
+    "variants": {
+      "regular": {
+        "version": "8.5.0",
+        "componentName": "PyramidRegular",
+        "fileName": "PyramidRegular"
+      },
+      "regular-duotone": {
+        "version": "8.5.0",
+        "componentName": "PyramidRegularDuotone",
+        "fileName": "PyramidRegularDuotone"
+      },
+      "bold": {
+        "version": "8.5.0",
+        "componentName": "PyramidBold",
+        "fileName": "PyramidBold"
+      },
+      "bold-duotone": {
+        "version": "8.5.0",
+        "componentName": "PyramidBoldDuotone",
+        "fileName": "PyramidBoldDuotone"
+      },
+      "fill": {
+        "version": "8.5.0",
+        "componentName": "PyramidFill",
+        "fileName": "PyramidFill"
+      },
+      "fill-duotone": {
+        "version": "8.5.0",
+        "componentName": "PyramidFillDuotone",
+        "fileName": "PyramidFillDuotone"
+      }
+    },
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "QrCode",
@@ -33661,7 +33965,8 @@
       "question",
       "support",
       "unknown",
-      "QuestionMark"
+      "QuestionMark",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -33702,7 +34007,7 @@
         "fileName": "QuestionMarkFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "QuestionMarkCircle",
@@ -33716,7 +34021,8 @@
       "question",
       "support",
       "unknown",
-      "QuestionMarkCircle"
+      "QuestionMarkCircle",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -33757,7 +34063,7 @@
         "fileName": "QuestionMarkCircleFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "Quote",
@@ -33887,8 +34193,7 @@
       "sweep",
       "target",
       "tracking",
-      "Radar",
-      "*new*"
+      "Radar"
     ],
     "versionAdded": "8.4.0",
     "weights": [
@@ -33944,7 +34249,8 @@
       "purchase",
       "receipt",
       "transaction",
-      "Receipt"
+      "Receipt",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -33985,7 +34291,7 @@
         "fileName": "ReceiptFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "ReceiptAlt",
@@ -34000,7 +34306,8 @@
       "purchase",
       "receipt",
       "transaction",
-      "ReceiptAlt"
+      "ReceiptAlt",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -34041,7 +34348,7 @@
         "fileName": "ReceiptAltFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "Rectangle",
@@ -34228,7 +34535,8 @@
       "message",
       "reply",
       "respond",
-      "Reply"
+      "Reply",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -34269,7 +34577,7 @@
         "fileName": "ReplyFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "Rewind",
@@ -34289,7 +34597,8 @@
       "seek",
       "skip",
       "video",
-      "Rewind"
+      "Rewind",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -34330,7 +34639,7 @@
         "fileName": "RewindFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "Robot",
@@ -34738,7 +35047,8 @@
       "rotate",
       "sync",
       "update",
-      "RotationLeft"
+      "RotationLeft",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -34779,7 +35089,7 @@
         "fileName": "RotationLeftFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "RotationRight",
@@ -34794,7 +35104,8 @@
       "rotate",
       "synchronize",
       "update",
-      "RotationRight"
+      "RotationRight",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -34835,7 +35146,7 @@
         "fileName": "RotationRightFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "RouteArrow",
@@ -34911,7 +35222,8 @@
       "scale",
       "size",
       "tool",
-      "Ruler"
+      "Ruler",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -34952,7 +35264,7 @@
         "fileName": "RulerFillDuotone"
       }
     },
-    "versionLastModified": "8.2.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "Rulers",
@@ -35027,7 +35339,8 @@
       "storage",
       "transfer",
       "ui",
-      "Save"
+      "Save",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -35068,7 +35381,7 @@
         "fileName": "SaveFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "Scale",
@@ -35085,7 +35398,8 @@
       "law",
       "legal",
       "weight",
-      "Scale"
+      "Scale",
+      "*updated*"
     ],
     "versionAdded": "8.2.0",
     "weights": [
@@ -35126,7 +35440,7 @@
         "fileName": "ScaleFillDuotone"
       }
     },
-    "versionLastModified": "8.2.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "ScanBarcode",
@@ -35198,7 +35512,8 @@
       "qr",
       "scan",
       "scanner",
-      "ScanCamera"
+      "ScanCamera",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -35239,7 +35554,7 @@
         "fileName": "ScanCameraFillDuotone"
       }
     },
-    "versionLastModified": "8.2.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "ScanCheck",
@@ -35256,7 +35571,8 @@
       "success",
       "validate",
       "verify",
-      "ScanCheck"
+      "ScanCheck",
+      "*updated*"
     ],
     "versionAdded": "8.2.0",
     "weights": [
@@ -35297,7 +35613,7 @@
         "fileName": "ScanCheckFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "ScanCube",
@@ -35313,7 +35629,8 @@
       "product",
       "qr",
       "scan",
-      "ScanCube"
+      "ScanCube",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -35354,7 +35671,7 @@
         "fileName": "ScanCubeFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "ScanDashed",
@@ -35481,7 +35798,8 @@
       "view",
       "visibility",
       "vision",
-      "ScanEye"
+      "ScanEye",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -35522,7 +35840,7 @@
         "fileName": "ScanEyeFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "ScanFace",
@@ -36098,7 +36416,8 @@
       "search",
       "tool",
       "zoom",
-      "Search"
+      "Search",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -36139,7 +36458,7 @@
         "fileName": "SearchFillDuotone"
       }
     },
-    "versionLastModified": "8.2.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "SearchCircle",
@@ -36211,7 +36530,8 @@
       "search",
       "shrink",
       "zoom out",
-      "SearchMinus"
+      "SearchMinus",
+      "*updated*"
     ],
     "versionAdded": "8.1.0",
     "weights": [
@@ -36252,7 +36572,7 @@
         "fileName": "SearchMinusFillDuotone"
       }
     },
-    "versionLastModified": "8.1.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "SearchPlus",
@@ -36380,7 +36700,8 @@
       "organic",
       "plant",
       "sustainability",
-      "Seedling"
+      "Seedling",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -36421,7 +36742,7 @@
         "fileName": "SeedlingFillDuotone"
       }
     },
-    "versionLastModified": "8.2.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "SelectField",
@@ -36492,7 +36813,8 @@
       "send",
       "share",
       "submit",
-      "Send"
+      "Send",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -36533,7 +36855,7 @@
         "fileName": "SendFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "SendH",
@@ -36548,7 +36870,8 @@
       "send",
       "share",
       "submit",
-      "SendH"
+      "SendH",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -36589,7 +36912,7 @@
         "fileName": "SendHFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "SendV",
@@ -36604,7 +36927,8 @@
       "send",
       "share",
       "submit",
-      "SendV"
+      "SendV",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -36645,7 +36969,7 @@
         "fileName": "SendVFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "Server",
@@ -36761,6 +37085,129 @@
     "versionLastModified": "8.1.0"
   },
   {
+    "name": "Shapes",
+    "kebabName": "shapes",
+    "componentName": "Shapes",
+    "tags": [
+      "category",
+      "circle",
+      "components",
+      "design",
+      "elements",
+      "geometry",
+      "mixed",
+      "objects",
+      "shapes",
+      "square",
+      "triangle",
+      "variety",
+      "Shapes",
+      "*new*"
+    ],
+    "versionAdded": "8.5.0",
+    "weights": [
+      "bold",
+      "fill",
+      "regular"
+    ],
+    "supportsDuotone": true,
+    "variants": {
+      "regular": {
+        "version": "8.5.0",
+        "componentName": "ShapesRegular",
+        "fileName": "ShapesRegular"
+      },
+      "regular-duotone": {
+        "version": "8.5.0",
+        "componentName": "ShapesRegularDuotone",
+        "fileName": "ShapesRegularDuotone"
+      },
+      "bold": {
+        "version": "8.5.0",
+        "componentName": "ShapesBold",
+        "fileName": "ShapesBold"
+      },
+      "bold-duotone": {
+        "version": "8.5.0",
+        "componentName": "ShapesBoldDuotone",
+        "fileName": "ShapesBoldDuotone"
+      },
+      "fill": {
+        "version": "8.5.0",
+        "componentName": "ShapesFill",
+        "fileName": "ShapesFill"
+      },
+      "fill-duotone": {
+        "version": "8.5.0",
+        "componentName": "ShapesFillDuotone",
+        "fileName": "ShapesFillDuotone"
+      }
+    },
+    "versionLastModified": "8.5.0"
+  },
+  {
+    "name": "ShapesPlus",
+    "kebabName": "shapes-plus",
+    "componentName": "ShapesPlus",
+    "tags": [
+      "add",
+      "addon",
+      "components",
+      "create",
+      "elements",
+      "expand",
+      "extension",
+      "insert",
+      "library",
+      "new",
+      "plugin",
+      "plus",
+      "shapes",
+      "ShapesPlus",
+      "*new*"
+    ],
+    "versionAdded": "8.5.0",
+    "weights": [
+      "bold",
+      "fill",
+      "regular"
+    ],
+    "supportsDuotone": true,
+    "variants": {
+      "regular": {
+        "version": "8.5.0",
+        "componentName": "ShapesPlusRegular",
+        "fileName": "ShapesPlusRegular"
+      },
+      "regular-duotone": {
+        "version": "8.5.0",
+        "componentName": "ShapesPlusRegularDuotone",
+        "fileName": "ShapesPlusRegularDuotone"
+      },
+      "bold": {
+        "version": "8.5.0",
+        "componentName": "ShapesPlusBold",
+        "fileName": "ShapesPlusBold"
+      },
+      "bold-duotone": {
+        "version": "8.5.0",
+        "componentName": "ShapesPlusBoldDuotone",
+        "fileName": "ShapesPlusBoldDuotone"
+      },
+      "fill": {
+        "version": "8.5.0",
+        "componentName": "ShapesPlusFill",
+        "fileName": "ShapesPlusFill"
+      },
+      "fill-duotone": {
+        "version": "8.5.0",
+        "componentName": "ShapesPlusFillDuotone",
+        "fileName": "ShapesPlusFillDuotone"
+      }
+    },
+    "versionLastModified": "8.5.0"
+  },
+  {
     "name": "Share",
     "kebabName": "share",
     "componentName": "Share",
@@ -36774,7 +37221,8 @@
       "share",
       "share-out",
       "upload",
-      "Share"
+      "Share",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -36815,7 +37263,7 @@
         "fileName": "ShareFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "Shield",
@@ -37037,7 +37485,7 @@
         "fileName": "ShieldCheckFillDuotone"
       }
     },
-    "versionLastModified": "8.4.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "ShieldHalf",
@@ -37050,8 +37498,7 @@
       "protection",
       "safe",
       "security",
-      "ShieldHalf",
-      "*updated*"
+      "ShieldHalf"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -37147,7 +37594,7 @@
         "fileName": "ShieldSlashFillDuotone"
       }
     },
-    "versionLastModified": "8.4.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "Shuffle",
@@ -37223,8 +37670,7 @@
       "split view",
       "toggle",
       "ui",
-      "SidebarLeft",
-      "*updated*"
+      "SidebarLeft"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -37284,8 +37730,7 @@
       "split view",
       "toggle",
       "ui",
-      "SidebarRight",
-      "*updated*"
+      "SidebarRight"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -37979,7 +38424,8 @@
       "pen",
       "signature",
       "sketch",
-      "Signature"
+      "Signature",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -38020,7 +38466,7 @@
         "fileName": "SignatureFillDuotone"
       }
     },
-    "versionLastModified": "8.2.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "SignatureX",
@@ -38036,7 +38482,8 @@
       "pen",
       "signature",
       "sketch",
-      "SignatureX"
+      "SignatureX",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -38077,7 +38524,7 @@
         "fileName": "SignatureXFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "SkipBack",
@@ -38095,7 +38542,8 @@
       "skip",
       "track",
       "video",
-      "SkipBack"
+      "SkipBack",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -38136,7 +38584,7 @@
         "fileName": "SkipBackFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "SkipForward",
@@ -38208,7 +38656,8 @@
       "path",
       "separator",
       "symbol",
-      "Slash"
+      "Slash",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -38249,7 +38698,7 @@
         "fileName": "SlashFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "Slice",
@@ -38266,7 +38715,8 @@
       "slice",
       "tool",
       "trim",
-      "Slice"
+      "Slice",
+      "*updated*"
     ],
     "versionAdded": "8.2.0",
     "weights": [
@@ -38307,7 +38757,7 @@
         "fileName": "SliceFillDuotone"
       }
     },
-    "versionLastModified": "8.2.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "Sliders",
@@ -38445,7 +38895,8 @@
       "temperature",
       "weather",
       "winter",
-      "Snowflake"
+      "Snowflake",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -38486,7 +38937,7 @@
         "fileName": "SnowflakeFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "SoccerBall",
@@ -38613,7 +39064,8 @@
       "rank",
       "sort",
       "wide-first",
-      "Sort"
+      "Sort",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -38654,7 +39106,7 @@
         "fileName": "SortFillDuotone"
       }
     },
-    "versionLastModified": "8.2.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "SortAscending",
@@ -38668,7 +39120,8 @@
       "rank",
       "sort",
       "wide-first",
-      "SortAscending"
+      "SortAscending",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -38709,7 +39162,7 @@
         "fileName": "SortAscendingFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "SortAscendingNarrow",
@@ -38723,7 +39176,8 @@
       "order",
       "rank",
       "sort",
-      "SortAscendingNarrow"
+      "SortAscendingNarrow",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -38764,7 +39218,7 @@
         "fileName": "SortAscendingNarrowFillDuotone"
       }
     },
-    "versionLastModified": "8.2.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "SortNarrow",
@@ -38778,7 +39232,8 @@
       "order",
       "rank",
       "sort",
-      "SortNarrow"
+      "SortNarrow",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -38819,7 +39274,7 @@
         "fileName": "SortNarrowFillDuotone"
       }
     },
-    "versionLastModified": "8.2.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "Sparkle",
@@ -38892,7 +39347,8 @@
       "sparkle",
       "special",
       "star",
-      "SparkleCircle"
+      "SparkleCircle",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -38933,7 +39389,7 @@
         "fileName": "SparkleCircleFillDuotone"
       }
     },
-    "versionLastModified": "8.2.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "SparkleSquare",
@@ -39174,7 +39630,8 @@
       "speaker",
       "unmute",
       "volume",
-      "SpeakerHigh"
+      "SpeakerHigh",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -39215,7 +39672,7 @@
         "fileName": "SpeakerHighFillDuotone"
       }
     },
-    "versionLastModified": "8.2.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "SpeakerLow",
@@ -39230,7 +39687,8 @@
       "speaker",
       "unmute",
       "volume",
-      "SpeakerLow"
+      "SpeakerLow",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -39271,7 +39729,7 @@
         "fileName": "SpeakerLowFillDuotone"
       }
     },
-    "versionLastModified": "8.2.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "SpeakerMedium",
@@ -39286,7 +39744,8 @@
       "speaker",
       "unmute",
       "volume",
-      "SpeakerMedium"
+      "SpeakerMedium",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -39327,7 +39786,7 @@
         "fileName": "SpeakerMediumFillDuotone"
       }
     },
-    "versionLastModified": "8.2.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "SpeakerOff",
@@ -39343,7 +39802,8 @@
       "sound",
       "speaker",
       "volume",
-      "SpeakerOff"
+      "SpeakerOff",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -39384,7 +39844,7 @@
         "fileName": "SpeakerOffFillDuotone"
       }
     },
-    "versionLastModified": "8.2.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "Spinner",
@@ -39398,7 +39858,8 @@
       "refresh",
       "spinner",
       "wait",
-      "Spinner"
+      "Spinner",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -39439,7 +39900,7 @@
         "fileName": "SpinnerFillDuotone"
       }
     },
-    "versionLastModified": "8.2.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "Spiral",
@@ -39578,7 +40039,8 @@
       "redirect",
       "share",
       "url",
-      "SquareArrowOutUpRight"
+      "SquareArrowOutUpRight",
+      "*updated*"
     ],
     "versionAdded": "8.2.0",
     "weights": [
@@ -39619,7 +40081,7 @@
         "fileName": "SquareArrowOutUpRightFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "SquareDashed",
@@ -39858,7 +40320,8 @@
       "rating",
       "save",
       "star",
-      "Star"
+      "Star",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -39899,7 +40362,7 @@
         "fileName": "StarFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "StarHalf",
@@ -39910,7 +40373,8 @@
       "partial",
       "rating",
       "star",
-      "StarHalf"
+      "StarHalf",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -39951,7 +40415,66 @@
         "fileName": "StarHalfFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
+  },
+  {
+    "name": "Stethoscope",
+    "kebabName": "stethoscope",
+    "componentName": "Stethoscope",
+    "tags": [
+      "checkup",
+      "clinical",
+      "consult",
+      "diagnosis",
+      "doctor",
+      "health",
+      "healthcare",
+      "medical",
+      "patient",
+      "physician",
+      "Stethoscope",
+      "*new*"
+    ],
+    "versionAdded": "8.5.0",
+    "weights": [
+      "bold",
+      "fill",
+      "regular"
+    ],
+    "supportsDuotone": true,
+    "variants": {
+      "regular": {
+        "version": "8.5.0",
+        "componentName": "StethoscopeRegular",
+        "fileName": "StethoscopeRegular"
+      },
+      "regular-duotone": {
+        "version": "8.5.0",
+        "componentName": "StethoscopeRegularDuotone",
+        "fileName": "StethoscopeRegularDuotone"
+      },
+      "bold": {
+        "version": "8.5.0",
+        "componentName": "StethoscopeBold",
+        "fileName": "StethoscopeBold"
+      },
+      "bold-duotone": {
+        "version": "8.5.0",
+        "componentName": "StethoscopeBoldDuotone",
+        "fileName": "StethoscopeBoldDuotone"
+      },
+      "fill": {
+        "version": "8.5.0",
+        "componentName": "StethoscopeFill",
+        "fileName": "StethoscopeFill"
+      },
+      "fill-duotone": {
+        "version": "8.5.0",
+        "componentName": "StethoscopeFillDuotone",
+        "fileName": "StethoscopeFillDuotone"
+      }
+    },
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "StopCircle",
@@ -40080,7 +40603,8 @@
       "sale",
       "shop",
       "storefront",
-      "Store"
+      "Store",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -40121,7 +40645,7 @@
         "fileName": "StoreFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "Sunrise",
@@ -40249,7 +40773,8 @@
       "gaming",
       "sword",
       "weapon",
-      "Sword"
+      "Sword",
+      "*updated*"
     ],
     "versionAdded": "8.1.0",
     "weights": [
@@ -40290,7 +40815,7 @@
         "fileName": "SwordFillDuotone"
       }
     },
-    "versionLastModified": "8.2.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "Tag",
@@ -40304,7 +40829,8 @@
       "label",
       "price",
       "tag",
-      "Tag"
+      "Tag",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -40345,7 +40871,7 @@
         "fileName": "TagFillDuotone"
       }
     },
-    "versionLastModified": "8.2.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "TallyMarks",
@@ -40361,7 +40887,8 @@
       "tally",
       "total",
       "tracking",
-      "TallyMarks"
+      "TallyMarks",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -40402,7 +40929,7 @@
         "fileName": "TallyMarksFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "Target",
@@ -41256,7 +41783,8 @@
       "magic",
       "sparkle",
       "writing",
-      "TextSparkle"
+      "TextSparkle",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -41297,7 +41825,7 @@
         "fileName": "TextSparkleFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "TextSquare",
@@ -41641,7 +42169,8 @@
       "negative",
       "reject",
       "thumbs-down",
-      "ThumbsDown"
+      "ThumbsDown",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -41682,7 +42211,7 @@
         "fileName": "ThumbsDownFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "ThumbsUp",
@@ -41807,7 +42336,8 @@
       "stopwatch",
       "time",
       "timer",
-      "Timer"
+      "Timer",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -41848,7 +42378,7 @@
         "fileName": "TimerFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "ToggleOff",
@@ -41973,7 +42503,8 @@
       "option",
       "settings",
       "switch",
-      "Toggles"
+      "Toggles",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -42014,7 +42545,7 @@
         "fileName": "TogglesFillDuotone"
       }
     },
-    "versionLastModified": "8.1.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "Toolbox",
@@ -42088,7 +42619,8 @@
       "setup",
       "support",
       "wrench",
-      "Tools"
+      "Tools",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -42129,7 +42661,7 @@
         "fileName": "ToolsFillDuotone"
       }
     },
-    "versionLastModified": "8.2.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "ToyBrick",
@@ -42258,7 +42790,8 @@
       "park",
       "pine",
       "plant",
-      "Tree"
+      "Tree",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -42299,7 +42832,7 @@
         "fileName": "TreeFillDuotone"
       }
     },
-    "versionLastModified": "8.2.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "TreeDeciduous",
@@ -42373,7 +42906,8 @@
       "summer",
       "tropical",
       "vacation",
-      "TreePalm"
+      "TreePalm",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -42414,7 +42948,7 @@
         "fileName": "TreePalmFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "TrendDown",
@@ -42430,7 +42964,8 @@
       "loss",
       "performance",
       "statistics",
-      "TrendDown"
+      "TrendDown",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -42471,7 +43006,7 @@
         "fileName": "TrendDownFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "TrendUp",
@@ -42487,7 +43022,8 @@
       "statistics",
       "success",
       "up",
-      "TrendUp"
+      "TrendUp",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -42528,7 +43064,7 @@
         "fileName": "TrendUpFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "Triangle",
@@ -42545,7 +43081,8 @@
       "triangle",
       "up",
       "warning",
-      "Triangle"
+      "Triangle",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -42586,7 +43123,7 @@
         "fileName": "TriangleFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "TriangleDown",
@@ -42603,7 +43140,8 @@
       "symbol",
       "three sides",
       "triangle",
-      "TriangleDown"
+      "TriangleDown",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -42644,7 +43182,7 @@
         "fileName": "TriangleDownFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "Trophy",
@@ -42659,7 +43197,8 @@
       "recognition",
       "success",
       "winner",
-      "Trophy"
+      "Trophy",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -42700,7 +43239,7 @@
         "fileName": "TrophyFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "Truck",
@@ -42772,7 +43311,8 @@
       "streaming",
       "tv",
       "video",
-      "Tv"
+      "Tv",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -42813,7 +43353,7 @@
         "fileName": "TvFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "TvPlayAlt",
@@ -42827,7 +43367,8 @@
       "tv",
       "video",
       "watch",
-      "TvPlayAlt"
+      "TvPlayAlt",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -42868,7 +43409,7 @@
         "fileName": "TvPlayAltFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "Umbrella",
@@ -42937,7 +43478,8 @@
       "share",
       "submit",
       "upload",
-      "Upload"
+      "Upload",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -42978,7 +43520,7 @@
         "fileName": "UploadFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "User",
@@ -42992,7 +43534,8 @@
       "person",
       "profile",
       "user",
-      "User"
+      "User",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -43033,7 +43576,7 @@
         "fileName": "UserFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "UserBan",
@@ -43049,7 +43592,8 @@
       "profile",
       "remove",
       "user",
-      "UserBan"
+      "UserBan",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -43090,7 +43634,7 @@
         "fileName": "UserBanFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "UserCircle",
@@ -43261,7 +43805,7 @@
         "fileName": "UserListFillDuotone"
       }
     },
-    "versionLastModified": "8.4.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "UserLock",
@@ -43493,7 +44037,7 @@
         "fileName": "UserRefreshFillDuotone"
       }
     },
-    "versionLastModified": "8.4.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "UserSettings",
@@ -43566,7 +44110,8 @@
       "profile",
       "remove",
       "user",
-      "UserX"
+      "UserX",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -43607,7 +44152,7 @@
         "fileName": "UserXFillDuotone"
       }
     },
-    "versionLastModified": "8.2.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "Users",
@@ -43621,7 +44166,8 @@
       "people",
       "team",
       "users",
-      "Users"
+      "Users",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -43662,7 +44208,7 @@
         "fileName": "UsersFillDuotone"
       }
     },
-    "versionLastModified": "8.2.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "UsersThree",
@@ -43678,7 +44224,8 @@
       "shared",
       "team",
       "users",
-      "UsersThree"
+      "UsersThree",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -43719,7 +44266,7 @@
         "fileName": "UsersThreeFillDuotone"
       }
     },
-    "versionLastModified": "8.2.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "Video",
@@ -43790,7 +44337,8 @@
       "mute",
       "off",
       "video",
-      "VideoOff"
+      "VideoOff",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -43831,7 +44379,7 @@
         "fileName": "VideoOffFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "Volleyball",
@@ -43902,7 +44450,8 @@
       "spell",
       "tool",
       "wand",
-      "Wand"
+      "Wand",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -43943,7 +44492,7 @@
         "fileName": "WandFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "Warehouse",
@@ -43957,7 +44506,8 @@
       "logistics",
       "shipping",
       "storage",
-      "Warehouse"
+      "Warehouse",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -43998,7 +44548,7 @@
         "fileName": "WarehouseFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "WaveSine",
@@ -44013,7 +44563,8 @@
       "sine",
       "sound",
       "wave",
-      "WaveSine"
+      "WaveSine",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -44054,7 +44605,7 @@
         "fileName": "WaveSineFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "WaveSquare",
@@ -44125,7 +44676,8 @@
       "sound",
       "triangle",
       "wave",
-      "WaveTriangle"
+      "WaveTriangle",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -44166,7 +44718,7 @@
         "fileName": "WaveTriangleFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "Wifi",
@@ -44180,7 +44732,8 @@
       "signal",
       "wifi",
       "wireless",
-      "Wifi"
+      "Wifi",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -44221,7 +44774,7 @@
         "fileName": "WifiFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "WifiSlash",
@@ -44235,7 +44788,8 @@
       "no-signal",
       "offline",
       "wifi",
-      "WifiSlash"
+      "WifiSlash",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -44276,7 +44830,7 @@
         "fileName": "WifiSlashFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "WineBottle",
@@ -44460,7 +45014,8 @@
       "setup",
       "support",
       "tools",
-      "Wrench"
+      "Wrench",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -44501,7 +45056,7 @@
         "fileName": "WrenchFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "WristWatch",
@@ -44571,7 +45126,8 @@
       "exit",
       "remove",
       "stop",
-      "X"
+      "X",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -44612,7 +45168,7 @@
         "fileName": "XFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "XCircle",
@@ -44626,7 +45182,8 @@
       "exit",
       "remove",
       "stop",
-      "XCircle"
+      "XCircle",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -44667,7 +45224,7 @@
         "fileName": "XCircleFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "XSquare",
@@ -44681,7 +45238,8 @@
       "exit",
       "remove",
       "stop",
-      "XSquare"
+      "XSquare",
+      "*updated*"
     ],
     "versionAdded": "6.2.1",
     "weights": [
@@ -44722,7 +45280,7 @@
         "fileName": "XSquareFillDuotone"
       }
     },
-    "versionLastModified": "8.3.0"
+    "versionLastModified": "8.5.0"
   },
   {
     "name": "YinYang",
